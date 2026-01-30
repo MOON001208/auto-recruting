@@ -112,14 +112,84 @@ GitHub Actions는 코드를 자동으로 실행해주는 GitHub의 무료 기능
 
 ## 📱 알림 설정
 
-### Slack 알림 받기
-1. Slack 워크스페이스에서 [Incoming Webhook](https://api.slack.com/messaging/webhooks) 생성
-2. 생성된 URL을 GitHub Secrets의 `SLACK_WEBHOOK_URL`에 등록
+원하는 알림 채널을 선택해서 설정하세요. **여러 개를 동시에 설정해도 됩니다!**
+
+### 1️⃣ Slack 알림 (추천 - 가장 쉬움)
+1. [Slack Incoming Webhook 페이지](https://api.slack.com/messaging/webhooks) 접속
+2. `Create an App` → `From scratch` 선택
+3. 앱 이름 입력 후 워크스페이스 선택
+4. `Incoming Webhooks` → `Activate` 켜기
+5. `Add New Webhook to Workspace` → 채널 선택
+6. 생성된 URL 복사 (https://hooks.slack.com/services/... 형태)
+7. GitHub Secrets에 `SLACK_WEBHOOK_URL` 이름으로 등록
+
+---
+
+### 2️⃣ Gmail 알림 (이메일로 받기)
+
+> ⚠️ **주의**: 일반 Gmail 비밀번호가 아닌 **앱 비밀번호**를 사용해야 합니다!
+
+#### 앱 비밀번호 발급 방법:
+1. [Google 계정 보안 페이지](https://myaccount.google.com/security) 접속
+2. **2단계 인증**이 켜져 있어야 함 (안 켜져 있으면 먼저 활성화)
+3. 2단계 인증 설정 페이지 하단에서 **앱 비밀번호** 클릭
+4. 앱 선택: `메일` / 기기 선택: `Windows 컴퓨터` (아무거나 OK)
+5. `생성` 클릭 → **16자리 비밀번호**가 나옴 (띄어쓰기 없이 복사)
+
+#### GitHub Secrets 등록:
+| Name | Value |
+|------|-------|
+| `GMAIL_USER` | 내 Gmail 주소 (예: myemail@gmail.com) |
+| `GMAIL_APP_PASSWORD` | 위에서 발급받은 16자리 앱 비밀번호 |
+| `GMAIL_TO` | 받을 이메일 주소 (선택, 안 넣으면 본인에게 발송) |
+
+---
+
+### 3️⃣ Discord 알림 (디스코드 서버에서 받기)
+1. Discord 서버에서 알림 받을 채널 선택
+2. 채널 설정(⚙️) → `연동` → `웹후크` → `새 웹후크`
+3. 웹후크 URL 복사
+4. GitHub Secrets에 `DISCORD_WEBHOOK_URL` 이름으로 등록
+
+---
+
+### 4️⃣ Telegram 알림 (텔레그램 봇으로 받기)
+
+#### 봇 생성:
+1. Telegram에서 [@BotFather](https://t.me/botfather) 검색
+2. `/newbot` 명령어 입력
+3. 봇 이름 입력 → **HTTP API 토큰** 복사 (예: 123456789:ABCdef...)
+
+#### Chat ID 확인:
+1. 만든 봇에게 아무 메시지나 보내기
+2. 브라우저에서 `https://api.telegram.org/bot{토큰}/getUpdates` 접속
+3. `"chat":{"id":숫자}` 에서 숫자 복사
+
+#### GitHub Secrets 등록:
+| Name | Value |
+|------|-------|
+| `TELEGRAM_BOT_TOKEN` | BotFather에서 받은 토큰 |
+| `TELEGRAM_CHAT_ID` | 위에서 확인한 Chat ID |
+
+---
+
+## 📊 알림 Secrets 요약표
+
+| 채널 | 필요한 Secrets |
+|------|----------------|
+| Slack | `SLACK_WEBHOOK_URL` |
+| Gmail | `GMAIL_USER`, `GMAIL_APP_PASSWORD`, (선택: `GMAIL_TO`) |
+| Discord | `DISCORD_WEBHOOK_URL` |
+| Telegram | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` |
+
+💡 **팁**: 여러 채널을 동시에 설정하면 모든 곳으로 알림이 갑니다!
+
+---
 
 ## 🔑 Gemini API 키 발급 방법
 1. [Google AI Studio](https://aistudio.google.com/app/apikey) 접속
 2. `Create API Key` 클릭
-3. 생성된 키를 GitHub Secrets에 등록
+3. 생성된 키를 GitHub Secrets의 `GEMINI_API_KEY`에 등록
 
 ---
 Made with ❤️ for job seekers

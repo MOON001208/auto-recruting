@@ -60,7 +60,7 @@ def main():
     page_url = f"https://{repo_name.split('/')[0]}.github.io/{repo_name.split('/')[1]}"
     
     if len(new_jobs) > 0 or len(deadline_jobs) > 0:
-        notifier.send_slack_alert(len(new_jobs), deadline_jobs, page_url)
+        notifier.send_all_alerts(len(new_jobs), deadline_jobs, page_url)
     
 if __name__ == "__main__":
     main()
