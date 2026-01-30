@@ -141,7 +141,16 @@ GitHub Actions는 코드를 자동으로 실행해주는 GitHub의 무료 기능
 |------|-------|
 | `GMAIL_USER` | 내 Gmail 주소 (예: myemail@gmail.com) |
 | `GMAIL_APP_PASSWORD` | 위에서 발급받은 16자리 앱 비밀번호 |
-| `GMAIL_TO` | 받을 이메일 주소 (선택, 안 넣으면 본인에게 발송) |
+| `GMAIL_TO` | 받을 이메일 주소 (아래 참고) |
+
+#### 📧 여러 명에게 동시에 보내기
+`GMAIL_TO`에 콤마(,)로 구분해서 여러 이메일을 등록하면 됩니다!
+
+**예시:**
+```
+friend1@gmail.com,friend2@naver.com,studygroup@kakao.com
+```
+→ 이렇게 하면 3명 모두에게 동시에 이메일이 발송됩니다!
 
 ---
 

@@ -97,8 +97,11 @@ class Notifier:
     def send_gmail_alert(self, new_jobs_count, deadline_jobs, page_url):
         if not self.gmail_user or not self.gmail_app_password:
             return
-            
-        to_email = self.gmail_to or self.gmail_user  # 받을 주소 없으면 본인에게
+        
+        # 여러 명에게 보내기: 콤마로 구분된 이메일 주소 지원
+        # 예: "user1@gmail.com,user2@naver.com,user3@kakao.com"
+        to_emails_raw = self.gmail_to or self.gmail_user
+        to_emails = [email.strip() for email in to_emails_raw.split(',')]
         
         # HTML 이메일 본문 생성
         html = f"""
@@ -137,14 +140,15 @@ class Notifier:
             msg = MIMEMultipart('alternative')
             msg['Subject'] = f"[Job Scout] 오늘의 채용 브리핑 - 신규 {new_jobs_count}건"
             msg['From'] = self.gmail_user
-            msg['To'] = to_email
+            msg['To'] = ', '.join(to_emails)  # 헤더에는 모든 수신자 표시
             
             msg.attach(MIMEText(html, 'html'))
             
             with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
                 server.login(self.gmail_user, self.gmail_app_password)
-                server.sendmail(self.gmail_user, to_email, msg.as_string())
+                # 여러 명에게 발송
+                server.sendmail(self.gmail_user, to_emails, msg.as_string())
                 
-            print("✅ Gmail 알림 발송 완료")
+            print(f"✅ Gmail 알림 발송 완료 ({len(to_emails)}명에게 발송)")
         except Exception as e:
             print(f"❌ Gmail 발송 실패: {e}")
