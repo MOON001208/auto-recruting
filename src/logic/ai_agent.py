@@ -6,12 +6,25 @@ from src.config import Config
 class AIAgent:
     def __init__(self):
         api_key = Config.GEMINI_API_KEY
+        
+        print("\n" + "="*50)
+        print("🤖 [AI DEBUG] Gemini API 상태 체크")
+        print("="*50)
+        print(f"  GEMINI_API_KEY: {'✅ 설정됨 (' + api_key[:8] + '...)' if api_key else '❌ 없음'}")
+        
         if api_key:
-            genai.configure(api_key=api_key)
-            self.model = genai.GenerativeModel('gemini-pro')
+            try:
+                genai.configure(api_key=api_key)
+                # gemini-1.5-flash로 변경 (더 빠르고 안정적)
+                self.model = genai.GenerativeModel('gemini-1.5-flash')
+                print("  모델: ✅ gemini-1.5-flash 로드 완료")
+            except Exception as e:
+                print(f"  모델 로드 실패: ❌ {e}")
+                self.model = None
         else:
             self.model = None
-            print("Warning: GEMINI_API_KEY not found. AI features disabled.")
+            print("  ⚠️ API 키가 없어서 AI 기능이 비활성화됩니다.")
+        print("="*50 + "\n")
 
     def analyze_job(self, job_title, job_text):
         if not self.model or not job_text:
