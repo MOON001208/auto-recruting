@@ -8,7 +8,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414981",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -23,7 +23,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414980",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -38,7 +38,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414979",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -53,7 +53,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414978",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -68,7 +68,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414977",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -83,7 +83,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414976",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -98,7 +98,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414975",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -113,7 +113,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414974",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -128,7 +128,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414973",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -143,7 +143,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414972",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -158,7 +158,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414970",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -173,7 +173,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414969",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -188,7 +188,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414968",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -203,7 +203,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414967",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -218,7 +218,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414965",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -233,7 +233,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414964",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -248,7 +248,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414963",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -263,7 +263,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414962",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -278,7 +278,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414960",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -293,7 +293,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-30T16:09:51.414959",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -308,7 +308,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414958",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -323,7 +323,7 @@
     "deadline": "~ 02/26(목)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414957",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -338,7 +338,7 @@
     "deadline": "채용시",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414956",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -353,7 +353,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414955",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -368,7 +368,7 @@
     "deadline": "~ 02/03(화)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414954",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -383,7 +383,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414953",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -398,7 +398,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414951",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -413,7 +413,7 @@
     "deadline": "~ 02/26(목)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414950",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -428,7 +428,7 @@
     "deadline": "~ 03/28(토)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414949",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -443,7 +443,7 @@
     "deadline": "~ 02/10(화)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414948",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -458,7 +458,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414947",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -473,7 +473,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414946",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -488,7 +488,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414945",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -503,7 +503,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414944",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -518,7 +518,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414942",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -533,7 +533,7 @@
     "deadline": "~ 03/30(월)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414941",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -548,7 +548,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414940",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -563,7 +563,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414939",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -578,7 +578,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414938",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -593,7 +593,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-01-30T16:09:51.414937",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -608,7 +608,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414935",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -623,7 +623,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414934",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -638,7 +638,7 @@
     "deadline": "~ 02/03(화)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414933",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -653,7 +653,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414932",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -668,7 +668,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414931",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -683,7 +683,7 @@
     "deadline": "~ 02/03(화)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414930",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -698,7 +698,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414929",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -713,7 +713,7 @@
     "deadline": "~ 02/14(토)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414928",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -728,7 +728,7 @@
     "deadline": "~ 02/07(토)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414927",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -743,7 +743,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414926",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -758,7 +758,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414925",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -773,7 +773,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414924",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -788,7 +788,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414923",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -803,7 +803,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414922",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -818,7 +818,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414920",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -833,7 +833,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414919",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -848,7 +848,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414918",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -863,7 +863,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414917",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -878,7 +878,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414916",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -893,7 +893,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "HRD",
     "scraped_at": "2026-01-30T16:09:51.414915",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -908,7 +908,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414913",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -923,7 +923,7 @@
     "deadline": "~ 02/03(화)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414912",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -938,7 +938,7 @@
     "deadline": "~ 02/07(토)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414911",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -953,7 +953,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414909",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -968,7 +968,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414908",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -983,7 +983,7 @@
     "deadline": "~ 02/14(토)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414907",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -998,7 +998,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414905",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1013,7 +1013,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414902",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1028,7 +1028,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414901",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1043,7 +1043,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414900",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1058,7 +1058,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414899",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1073,7 +1073,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414897",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1088,7 +1088,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414896",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1103,7 +1103,7 @@
     "deadline": "~ 02/07(토)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414893",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1118,7 +1118,7 @@
     "deadline": "~ 02/07(토)",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414892",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1133,7 +1133,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414889",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1148,7 +1148,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-30T16:09:51.414888",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1163,7 +1163,7 @@
     "deadline": "~ 03/24(화)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414886",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1178,7 +1178,7 @@
     "deadline": "~ 02/10(화)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414885",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1193,7 +1193,7 @@
     "deadline": "23시마감",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414884",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1208,7 +1208,7 @@
     "deadline": "~ 03/30(월)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414883",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1223,7 +1223,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414882",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1238,7 +1238,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414880",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1253,7 +1253,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414879",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1268,7 +1268,7 @@
     "deadline": "채용시",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414875",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1283,7 +1283,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414873",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1298,7 +1298,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414872",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1313,7 +1313,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414866",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1328,7 +1328,7 @@
     "deadline": "~ 03/08(일)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-30T16:09:51.414865",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1343,7 +1343,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414863",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1358,7 +1358,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414862",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1373,7 +1373,7 @@
     "deadline": "~ 03/21(토)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414861",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1388,7 +1388,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414860",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1403,7 +1403,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414858",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1418,7 +1418,7 @@
     "deadline": "~ 03/29(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414857",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1433,7 +1433,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414856",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1448,7 +1448,7 @@
     "deadline": "채용시",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414855",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1463,7 +1463,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414854",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1478,7 +1478,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414853",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1493,7 +1493,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414852",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1508,7 +1508,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414851",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1523,7 +1523,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414850",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1538,7 +1538,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414848",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1553,7 +1553,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414847",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1568,7 +1568,7 @@
     "deadline": "15시마감",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414846",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1583,7 +1583,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414845",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1598,7 +1598,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414844",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1613,7 +1613,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414842",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1628,7 +1628,7 @@
     "deadline": "채용시",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-30T16:09:51.414841",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1643,7 +1643,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414839",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1658,7 +1658,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414838",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1673,7 +1673,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414837",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1688,7 +1688,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414836",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1703,7 +1703,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414835",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1718,7 +1718,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414834",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1733,7 +1733,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414833",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1748,7 +1748,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414831",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1763,7 +1763,7 @@
     "deadline": "~ 02/26(목)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414830",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1778,7 +1778,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414829",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1793,7 +1793,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414828",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1808,7 +1808,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414826",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1823,7 +1823,7 @@
     "deadline": "~ 02/26(목)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414825",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1838,7 +1838,7 @@
     "deadline": "채용시",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414824",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1853,7 +1853,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414822",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1868,7 +1868,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414821",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1883,7 +1883,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414820",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1898,7 +1898,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414818",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1913,7 +1913,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414817",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1928,7 +1928,7 @@
     "deadline": "~ 03/13(금)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-30T16:09:51.414816",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1943,7 +1943,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414815",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1958,7 +1958,7 @@
     "deadline": "채용시",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414814",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1973,7 +1973,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414813",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -1988,7 +1988,7 @@
     "deadline": "~ 02/09(월)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414812",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2003,7 +2003,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414811",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2018,7 +2018,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414809",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2033,7 +2033,7 @@
     "deadline": "~ 03/29(일)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414808",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2048,7 +2048,7 @@
     "deadline": "~ 02/24(화)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414807",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2063,7 +2063,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414806",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2078,7 +2078,7 @@
     "deadline": "채용시",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414805",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2093,7 +2093,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414804",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2108,7 +2108,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414803",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2123,7 +2123,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414802",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2138,7 +2138,7 @@
     "deadline": "채용시",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414801",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2153,7 +2153,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414798",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2168,7 +2168,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414797",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2183,7 +2183,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414796",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2198,7 +2198,7 @@
     "deadline": "내일마감",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-30T16:09:51.414795",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2213,7 +2213,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414792",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2228,7 +2228,7 @@
     "deadline": "~ 03/30(월)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414791",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2243,7 +2243,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414790",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2258,7 +2258,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414789",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2273,7 +2273,7 @@
     "deadline": "~ 02/09(월)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414782",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2288,7 +2288,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414775",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2303,7 +2303,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414774",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2318,7 +2318,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414773",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2333,7 +2333,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414770",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2348,7 +2348,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-30T16:09:51.414767",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2363,7 +2363,7 @@
     "deadline": "~ 02/24(화)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414766",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2378,7 +2378,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414764",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2393,7 +2393,7 @@
     "deadline": "~ 03/13(금)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414763",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2408,7 +2408,7 @@
     "deadline": "~ 02/17(화)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414762",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2423,7 +2423,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414761",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2438,7 +2438,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414760",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2453,7 +2453,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414759",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2468,7 +2468,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414758",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2483,7 +2483,7 @@
     "deadline": "채용시",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414757",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2498,7 +2498,7 @@
     "deadline": "~ 03/27(금)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414756",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2513,7 +2513,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414755",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2528,7 +2528,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414730",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2543,7 +2543,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414729",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2558,7 +2558,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414728",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2573,7 +2573,7 @@
     "deadline": "~ 02/03(화)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414727",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2588,7 +2588,7 @@
     "deadline": "~ 03/30(월)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414726",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2603,7 +2603,7 @@
     "deadline": "채용시",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414725",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2618,7 +2618,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414724",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2633,7 +2633,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414723",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2648,7 +2648,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-30T16:09:51.414722",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2663,7 +2663,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414720",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2678,7 +2678,7 @@
     "deadline": "~ 02/14(토)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414719",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2693,7 +2693,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414718",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2708,7 +2708,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414717",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2723,7 +2723,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414716",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2738,7 +2738,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414715",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2753,7 +2753,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414714",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2768,7 +2768,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414713",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2783,7 +2783,7 @@
     "deadline": "채용시",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414712",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2798,7 +2798,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414711",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2813,7 +2813,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414709",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2828,7 +2828,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414708",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2843,7 +2843,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414707",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2858,7 +2858,7 @@
     "deadline": "채용시",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414706",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2873,7 +2873,7 @@
     "deadline": "채용시",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414705",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2888,7 +2888,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414704",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2903,7 +2903,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414703",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2918,7 +2918,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414702",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2933,7 +2933,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414700",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2948,7 +2948,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-30T16:09:51.414699",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2963,7 +2963,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414698",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2978,7 +2978,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414696",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -2993,7 +2993,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414695",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3008,7 +3008,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414681",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3023,7 +3023,7 @@
     "deadline": "~ 02/14(토)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414680",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3038,7 +3038,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414679",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3053,7 +3053,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414678",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3068,7 +3068,7 @@
     "deadline": "채용시",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414677",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3083,7 +3083,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414676",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3098,7 +3098,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414675",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3113,7 +3113,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414674",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3128,7 +3128,7 @@
     "deadline": "~ 02/10(화)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414661",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3143,7 +3143,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414659",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3158,7 +3158,7 @@
     "deadline": "~ 02/17(화)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414658",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3173,7 +3173,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414657",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3188,7 +3188,7 @@
     "deadline": "채용시",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414656",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3203,7 +3203,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414655",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3218,7 +3218,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414653",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3233,7 +3233,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414652",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3248,7 +3248,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-30T16:09:51.414651",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3263,7 +3263,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414650",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3278,7 +3278,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414648",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3293,7 +3293,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414647",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3308,7 +3308,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414646",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3323,7 +3323,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414645",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3338,7 +3338,7 @@
     "deadline": "~ 02/19(목)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414644",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3353,7 +3353,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414643",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3368,7 +3368,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414641",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3383,7 +3383,7 @@
     "deadline": "채용시",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414640",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3398,7 +3398,7 @@
     "deadline": "~ 03/13(금)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414639",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3413,7 +3413,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414638",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3428,7 +3428,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414637",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3443,7 +3443,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414636",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3458,7 +3458,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414635",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3473,7 +3473,7 @@
     "deadline": "채용시",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414634",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3488,7 +3488,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414633",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3503,7 +3503,7 @@
     "deadline": "~ 02/10(화)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414631",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3518,7 +3518,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414630",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3533,7 +3533,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414629",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3548,7 +3548,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-30T16:09:51.414627",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3563,7 +3563,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414626",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3578,7 +3578,7 @@
     "deadline": "채용시",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414624",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3593,7 +3593,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414623",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3608,7 +3608,7 @@
     "deadline": "채용시",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414622",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3623,7 +3623,7 @@
     "deadline": "채용시",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414620",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3638,7 +3638,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414619",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3653,7 +3653,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414618",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3668,7 +3668,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414616",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3683,7 +3683,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414615",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3698,7 +3698,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414613",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3713,7 +3713,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414612",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3728,7 +3728,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414611",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3743,7 +3743,7 @@
     "deadline": "~ 02/06(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414609",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3758,7 +3758,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414608",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3773,7 +3773,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414607",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3788,7 +3788,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414605",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3803,7 +3803,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414604",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3818,7 +3818,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414603",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3833,7 +3833,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414602",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3848,7 +3848,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-30T16:09:51.414601",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3863,7 +3863,7 @@
     "deadline": "~ 03/29(일)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414599",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3878,7 +3878,7 @@
     "deadline": "~ 02/21(토)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414598",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3893,7 +3893,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414597",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3908,7 +3908,7 @@
     "deadline": "채용시",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414595",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3923,7 +3923,7 @@
     "deadline": "~ 02/11(수)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414594",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3938,7 +3938,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414593",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3953,7 +3953,7 @@
     "deadline": "~ 02/13(금)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414592",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3968,7 +3968,7 @@
     "deadline": "~ 02/02(월)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414591",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3983,7 +3983,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414590",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -3998,7 +3998,7 @@
     "deadline": "채용시",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414589",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4013,7 +4013,7 @@
     "deadline": "~ 02/24(화)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414587",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4028,7 +4028,7 @@
     "deadline": "~ 02/25(수)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414586",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4043,7 +4043,7 @@
     "deadline": "~ 02/04(수)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414584",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4058,7 +4058,7 @@
     "deadline": "~ 02/22(일)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414583",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4073,7 +4073,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414582",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4088,7 +4088,7 @@
     "deadline": "상시채용",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414579",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4103,7 +4103,7 @@
     "deadline": "~ 03/30(월)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414578",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4118,7 +4118,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414576",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -4133,7 +4133,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-30T16:09:51.414560",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
