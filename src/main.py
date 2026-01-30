@@ -4,6 +4,14 @@ import os
 # Ensure we can import src
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
+# .env 파일 자동 로드 (로컬 실행용)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+    print("✅ .env 파일 로드 완료")
+except ImportError:
+    pass  # dotenv가 없으면 무시 (GitHub Actions에서는 환경변수가 이미 설정됨)
+
 from src.scraper.manager import ScraperManager
 from src.logic.data_manager import DataManager
 from src.logic.deadline import DeadlineChecker
