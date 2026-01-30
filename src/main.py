@@ -55,12 +55,20 @@ def main():
     print("Data saved.")
     
     # 7. Notify
-    # GitHub Pages URL (User needs to configure this manually or we guess)
+    # GitHub Pages URL
     repo_name = os.getenv("GITHUB_REPOSITORY", "username/repo")
     page_url = f"https://{repo_name.split('/')[0]}.github.io/{repo_name.split('/')[1]}"
     
-    if len(new_jobs) > 0 or len(deadline_jobs) > 0:
+    # [TEST MODE] Force send email even if no new jobs
+    if len(new_jobs) == 0 and len(all_jobs) > 0:
+        print("📢 [TEST MODE] No new jobs, but sending email with top 5 recent jobs for testing.")
+        # 최근 5개를 강제로 new_jobs로 취급
+        test_jobs = all_jobs[:5]
+        notifier.send_all_alerts(test_jobs, deadline_jobs, page_url)
+    elif len(new_jobs) > 0 or len(deadline_jobs) > 0:
         notifier.send_all_alerts(new_jobs, deadline_jobs, page_url)
+    else:
+        print("No new jobs and no deadlines. Skipping notification.")
     
 if __name__ == "__main__":
     main()
