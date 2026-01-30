@@ -13,11 +13,25 @@ class Notifier:
         self.telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
         self.gmail_user = os.getenv("GMAIL_USER")
         self.gmail_app_password = os.getenv("GMAIL_APP_PASSWORD")
-        self.gmail_to = os.getenv("GMAIL_TO")  # 전체 공고 받을 사람 (기존 호환)
+        self.gmail_to = os.getenv("GMAIL_TO")
+        
+        # === 디버깅: 환경변수 체크 ===
+        print("\n" + "="*50)
+        print("📧 [EMAIL DEBUG] 환경변수 상태 체크")
+        print("="*50)
+        print(f"  GMAIL_USER: {'✅ 설정됨 (' + self.gmail_user[:5] + '...)' if self.gmail_user else '❌ 없음'}")
+        print(f"  GMAIL_APP_PASSWORD: {'✅ 설정됨 (****)' if self.gmail_app_password else '❌ 없음'}")
+        print(f"  GMAIL_TO: {'✅ 설정됨 (' + self.gmail_to[:10] + '...)' if self.gmail_to else '❌ 없음'}")
+        print(f"  GMAIL_TO_DATA: {'✅' if os.getenv('GMAIL_TO_DATA') else '❌'}")
+        print(f"  GMAIL_TO_ACCOUNTING: {'✅' if os.getenv('GMAIL_TO_ACCOUNTING') else '❌'}")
+        print(f"  GMAIL_TO_HR: {'✅' if os.getenv('GMAIL_TO_HR') else '❌'}")
+        print("="*50 + "\n")
         
     def send_all_alerts(self, new_jobs, deadline_jobs, page_url):
         """모든 설정된 알림 채널로 발송"""
         new_jobs_count = len(new_jobs) if isinstance(new_jobs, list) else new_jobs
+        
+        print(f"\n📢 [NOTIFIER] 알림 발송 시작 (신규 {new_jobs_count}건, 마감 {len(deadline_jobs)}건)")
         
         self.send_slack_alert(new_jobs_count, deadline_jobs, page_url)
         self.send_discord_alert(new_jobs_count, deadline_jobs, page_url)
