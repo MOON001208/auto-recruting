@@ -1,5 +1,65 @@
 [
   {
+    "id": "saramin_52731234",
+    "site": "Saramin",
+    "title": "YBM에듀 인사, 총무 정규직 채용 - 본사 근무 (신입/경력)",
+    "company": "(주)와이비엠에듀",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52731234&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=302a4652-4802-4518-b7cd-aa0d6da501e6",
+    "deadline": "채용시",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-01-30T16:30:43.010907",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_52798466",
+    "site": "Saramin",
+    "title": "(주)티벨 HR담당자 모집 - 인사·노무·HRD",
+    "company": "(주)티벨",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52798466&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=4bf31822-0900-4401-b285-1d55613195b8",
+    "deadline": "~ 02/11(수)",
+    "hidden_keyword": "HRD",
+    "scraped_at": "2026-01-30T16:30:43.010903",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_52965581",
+    "site": "Saramin",
+    "title": "에픽라이즈(주) 경리 회계 업무 담당자 모집",
+    "company": "에픽라이즈(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52965581&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=a02eeb54-b580-4e3a-a17b-513408bbebf7",
+    "deadline": "상시채용",
+    "hidden_keyword": "회계",
+    "scraped_at": "2026-01-30T16:30:43.010882",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_52744374",
+    "site": "Saramin",
+    "title": "[국비] 건양대학교병원 의료데이터 기반 AI 실무자 양성과정",
+    "company": "미래융합교육원",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52744374&location=ts&searchword=AI&searchType=search&paid_fl=n&search_uuid=6d0df6c2-460d-4e28-b5ba-5c4f630d581c",
+    "deadline": "~ 02/28(토)",
+    "hidden_keyword": "AI",
+    "scraped_at": "2026-01-30T16:30:43.010864",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
     "id": "saramin_52824314",
     "site": "Saramin",
     "title": "㈜켐트로닉스 반도체소재사업부문 신입/경력직 채용",
