@@ -40,11 +40,23 @@ git push -u origin main
 ```
 
 ### 3. GitHub Secrets 설정 (필수!)
-`Settings > Secrets and variables > Actions`에서 추가:
-| Name | Value |
-|------|-------|
-| `GEMINI_API_KEY` | Google AI Studio에서 발급받은 키 |
-| `SLACK_WEBHOOK_URL` | Slack 웹훅 URL (선택) |
+
+> ⚠️ **중요**: `Settings > Secrets and variables > Actions`로 이동하면 **Secrets**와 **Variables** 두 개의 탭이 있습니다.
+> 
+> **반드시 `Secrets` 탭을 선택**하고 `New repository secret` 버튼을 눌러 등록하세요!
+> - ✅ **Secrets**: API 키처럼 민감한 정보 저장 (암호화됨, 로그에 안 보임)
+> - ❌ **Variables**: 일반적인 설정값 저장 (누구나 볼 수 있음) ← 여기에 API 키 넣으면 안됨!
+
+**등록 방법:**
+1. `Settings` → `Secrets and variables` → `Actions` 클릭
+2. **Secrets** 탭 선택
+3. `New repository secret` 버튼 클릭
+4. 아래 정보 입력 후 `Add secret` 클릭
+
+| Name | Value | 필수 여부 |
+|------|-------|----------|
+| `GEMINI_API_KEY` | Google AI Studio에서 발급받은 키 | ✅ 필수 |
+| `SLACK_WEBHOOK_URL` | Slack 웹훅 URL | 선택 (알림 원하면 등록) |
 
 ### 4. GitHub Pages 설정
 `Settings > Pages`에서:
