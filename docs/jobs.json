@@ -1,5 +1,20 @@
 [
   {
+    "id": "saramin_52830831",
+    "site": "Saramin",
+    "title": "[핀테크/서비스기획/AI] 서비스기획 채용 (신입)",
+    "company": "(주)파운트",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52830831&location=ts&searchword=AI&searchType=search&paid_fl=n&search_uuid=a5c11c1f-580e-461b-bc58-5d4337ac9666",
+    "deadline": "~ 03/16(월)",
+    "hidden_keyword": "AI",
+    "scraped_at": "2026-01-31T15:55:08.383782",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
     "id": "saramin_52948093",
     "site": "Saramin",
     "title": "경영지원팀 (회계/총무) 신입 모집",
@@ -8,7 +23,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "회계",
     "scraped_at": "2026-01-31T15:40:02.162490",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "신입 경영지원팀(회계/총무) 채용 공고이며, 회계 및 총무 업무를 수행할 인재를 찾고 있습니다. 신입 채용으로 직무 경험은 중요하지 않으나, 관련 지식 및 성장 가능성을 어필하는 것이 중요합니다. 꼼꼼함, 책임감, 커뮤니케이션 능력 등을 강조하는 것이 유리합니다.",
       "required_skills": [
@@ -32,7 +47,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-31T15:40:02.162471",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "라톤테크에서 보안 솔루션 개발자를 신규 채용합니다. 정규직이며, 신입을 대상으로 합니다. 구체적인 업무 내용 및 필요 역량은 공고 상세 내용을 확인해야 합니다.",
       "required_skills": [
@@ -56,7 +71,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-01-31T15:40:02.162454",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "연합인포맥스에서 영업관리 부문 인턴사원을 모집합니다. 주요 업무는 영업 지원, 고객 관리, 데이터 분석 등입니다. 금융 시장에 대한 이해와 꼼꼼한 업무 처리 능력을 요구합니다.",
       "required_skills": [
@@ -80,7 +95,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-31T15:40:02.162390",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "GBH에서 PEOPLE팀 인턴을 채용하며, 채용 전환형으로 운영됩니다. 인턴 기간 동안 실무 경험을 쌓고 정규직 전환 기회를 얻을 수 있습니다. PEOPLE팀은 HR 관련 업무를 수행하며, 인턴은 채용, 교육, 평가, 보상 등 다양한 HR 업무를 지원할 것으로 예상됩니다.",
       "required_skills": [
@@ -104,7 +119,7 @@
     "deadline": "채용시",
     "hidden_keyword": "HRM",
     "scraped_at": "2026-01-31T15:40:02.162378",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "템피드 본사 채용팀에서 신입 리크루터를 채용합니다. 채용 관련 전반적인 업무를 수행하며, 긍정적인 자세와 뛰어난 커뮤니케이션 능력이 요구됩니다. 급여 및 복지 조건은 회사 내규에 따릅니다.",
       "required_skills": [
@@ -128,7 +143,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-01-31T15:40:02.162350",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "티에스씨 경영지원팀에서 신입사원을 채용합니다. 공고 내용에 상세 직무 및 자격요건, 우대사항 등이 기재되어 있을 것입니다. 경영지원 직무에 필요한 기본적인 역량과 티에스씨에 대한 이해도를 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -152,7 +167,7 @@
     "deadline": "~ 02/05(목)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-31T15:40:02.162335",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "한국전자기술연구원에서 전문계약직 연구원을 채용하며, 모집 분야는 첨단 전자 기술 분야입니다. 상세 내용은 공고 전문을 참조해야 합니다. 채용 절차와 제출 서류 또한 공고에 상세히 기재되어 있습니다.",
       "required_skills": [
@@ -176,7 +191,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-31T15:40:02.162323",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "IT 및 요소기술 분야 기술부문 수시채용 공고입니다. 구체적인 직무 및 요구사항은 상세 공고 내용을 확인해야 합니다. 성장 가능성이 높은 기술 인재를 확보하고자 하는 채용으로 보입니다.",
       "required_skills": [
@@ -200,7 +215,7 @@
     "deadline": "23시마감",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-31T15:40:02.162311",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "재무/회계 데이터 관리 및 기업 신용 위험관리 컨설팅 분야 정규직 채용 공고입니다. 데이터 분석 능력과 재무/회계 지식, 리스크 관리 역량을 요구합니다. 컨설팅 업무 수행을 위한 커뮤니케이션 및 문제 해결 능력이 중요합니다.",
       "required_skills": [
@@ -224,7 +239,7 @@
     "deadline": "~ 02/28(토)",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-01-31T15:40:02.162298",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "한국쓰리엠에서 신입/경력 사원을 모집하며, 다양한 직무 분야에서 인재를 찾고 있습니다. 3M의 혁신적인 기업 문화에 기여하고 성장할 수 있는 기회입니다. 직무별 요구사항 및 자격 요건을 상세히 확인 후 지원해야 합니다.",
       "required_skills": [
@@ -248,7 +263,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-31T15:40:02.162265",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 채용 공고는 경영지원팀 신입을 대상으로 하며, 조직 운영에 필요한 전반적인 지원 업무를 수행할 인재를 찾고 있습니다. 꼼꼼함, 책임감, 원활한 소통 능력이 중요하며, 기본적인 OA 활용 능력과 문제 해결 능력을 갖춘 지원자를 우대합니다.",
       "required_skills": [
@@ -273,7 +288,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "결산",
     "scraped_at": "2026-01-31T15:40:02.162252",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "구로디지털단지 소재 회계팀에서 신입을 채용합니다. 회계 업무 기본 지식과 꼼꼼함, 책임감을 강조할 것으로 예상됩니다. 구체적인 업무 내용은 공고 상세 내용에 따라 달라질 수 있습니다.",
       "required_skills": [
@@ -297,7 +312,7 @@
     "deadline": "~ 03/29(일)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-31T15:40:02.162235",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "AI 기반 플랫폼 개발 신입 채용 공고이며, AI 기술을 활용한 플랫폼 개발 및 개선 업무를 수행할 인재를 찾고 있습니다. 주요 기술 스택으로는 Python, TensorFlow/PyTorch, 클라우드 환경 경험 등이 요구됩니다. 성장 가능성이 높은 AI 분야에서 커리어를 시작하고 싶은 신입 개발자에게 적합한 기회입니다.",
       "required_skills": [
@@ -321,7 +336,7 @@
     "deadline": "~ 02/18(수)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-31T15:40:02.162201",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "AI 서비스 기획 신입 채용 공고이며, 구체적인 내용은 생략되어 있습니다. 따라서 일반적인 신입 AI 서비스 기획자에게 요구되는 역량을 분석하여 결과를 제공합니다. 자소서 작성 시에는 문제 해결 능력, 데이터 분석 역량, 그리고 뛰어난 커뮤니케이션 능력을 강조하는 것이 좋습니다.",
       "required_skills": [
@@ -345,7 +360,7 @@
     "deadline": "~ 02/12(목)",
     "hidden_keyword": "AI",
     "scraped_at": "2026-01-31T15:40:02.162186",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 채용은 AI 소프트웨어 엔지니어 신입 포지션으로, AI 모델 개발 및 배포, 관련 소프트웨어 개발, 그리고 AI 기술 적용 및 개선을 주요 업무로 합니다. 데이터 분석, 머신러닝, 딥러닝 관련 경험과 프로그래밍 능력을 요구하며, 문제 해결 능력과 협업 능력이 중요합니다.",
       "required_skills": [
@@ -369,7 +384,7 @@
     "deadline": "~ 02/24(화)",
     "hidden_keyword": "머신러닝",
     "scraped_at": "2026-01-31T15:40:02.162122",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "AI 컴파일러 엔지니어 신입 채용 공고입니다. AI 모델을 효율적으로 실행하기 위한 컴파일러 개발 및 최적화 업무를 수행합니다. C++, Python 능숙 및 AI/ML 프레임워크 경험을 요구하며, 문제 해결 능력과 협업 능력이 중요합니다.",
       "required_skills": [
@@ -393,7 +408,7 @@
     "deadline": "~ 02/27(금)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-31T15:40:02.162061",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "(주)엠앤비베이스에서 IT시스템 엔지니어 신입을 채용합니다. 시스템 운영 및 유지보수, 네트워크 관리, IT 인프라 구축 및 관리를 담당하게 됩니다. 긍정적인 태도와 문제 해결 능력을 중요하게 평가합니다.",
       "required_skills": [
@@ -417,7 +432,7 @@
     "deadline": "~ 02/08(일)",
     "hidden_keyword": "데이터 엔지니어",
     "scraped_at": "2026-01-31T15:40:02.162040",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "GC녹십자 가족사 GCCL에서 데이터 관리자를 채용합니다. 데이터 품질 관리, 데이터 표준화, 데이터 거버넌스 구축 및 운영 경험을 요구하며, 제약/바이오 산업 데이터에 대한 이해가 중요합니다.",
       "required_skills": [
@@ -441,7 +456,7 @@
     "deadline": "오늘마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-01-31T15:40:02.142514",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "2026년 포스코GYS테크 신입사원 채용 공고입니다. 상세 내용은 채용 공고 원문을 참조해야 합니다. 지원자는 해당 직무와 관련된 필수 역량과 경험을 어필해야 합니다.",
       "required_skills": [
@@ -465,7 +480,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "세무",
     "scraped_at": "2026-01-31T15:40:02.142497",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "로뎀세무법인 인천논현점에서 신규 직원을 채용합니다. 담당 업무는 세무 회계 전반이며, 꼼꼼하고 성실한 분을 찾습니다. 세무 관련 자격증 소지자 및 경력자는 우대합니다.",
       "required_skills": [
@@ -491,7 +506,7 @@
     "deadline": "~ 02/20(금)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-31T15:40:02.142482",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 채용 공고는 재무 부문의 신입 사원을 모집하며, 구체적인 업무 내용 및 요구 조건은 상세 내용 확인이 필요합니다. 지원자는 재무 관련 지식 및 역량과 더불어 회사에 대한 이해도를 보여주는 것이 중요합니다.",
       "required_skills": [
@@ -515,7 +530,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-01-31T15:40:02.142469",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "(주)명성 재무회계팀 채용 공고입니다. 재무회계 관련 경력자를 우대하며, 꼼꼼하고 책임감 있는 인재를 찾습니다. 급여 및 복지 조건은 회사 내규에 따릅니다.",
       "required_skills": [
@@ -539,7 +554,7 @@
     "deadline": "~ 03/01(일)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-01-31T15:40:02.142441",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "㈜천조디앤씨에서 시공 및 대행 관련 인사관리 및 사무보조 직무 신입을 채용합니다. 초보도 지원 가능하며, 건설/대행업 관련 인사 및 사무 업무 경험을 쌓을 수 있는 기회입니다. 급여 및 복지 조건은 명시되지 않았으므로 확인이 필요합니다.",
       "required_skills": [
