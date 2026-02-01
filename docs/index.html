@@ -49,17 +49,25 @@
 
         let allJobs = [];
         let currentCategory = 'all';
+        let showOnlyDeadlineToday = false;
+        let showOnlyNew = false;
 
         async function loadJobs() {
             try {
                 const response = await fetch('jobs.json');
                 allJobs = await response.json();
 
-                // URL 파라미터에서 카테고리 확인
+                // URL 파라미터에서 카테고리 및 필터 확인
                 const urlParams = new URLSearchParams(window.location.search);
                 const categoryParam = urlParams.get('category');
                 if (categoryParam) {
                     currentCategory = categoryParam.toLowerCase();
+                }
+                const filterParam = urlParams.get('filter');
+                if (filterParam === 'deadline') {
+                    showOnlyDeadlineToday = true;
+                } else if (filterParam === 'new') {
+                    showOnlyNew = true;
                 }
 
                 renderJobs(allJobs);
@@ -99,8 +107,45 @@
             updateStats();
         }
 
+        function toggleDeadlineFilter() {
+            showOnlyDeadlineToday = !showOnlyDeadlineToday;
+            if (showOnlyDeadlineToday) showOnlyNew = false; // 상호 배타적
+
+            // URL 업데이트
+            const url = new URL(window.location);
+            if (showOnlyDeadlineToday) {
+                url.searchParams.set('filter', 'deadline');
+            } else {
+                url.searchParams.delete('filter');
+            }
+            window.history.pushState({}, '', url);
+
+            renderJobs(allJobs);
+            updateFilterButtons();
+            updateStats();
+        }
+
+        function toggleNewFilter() {
+            showOnlyNew = !showOnlyNew;
+            if (showOnlyNew) showOnlyDeadlineToday = false; // 상호 배타적
+
+            // URL 업데이트
+            const url = new URL(window.location);
+            if (showOnlyNew) {
+                url.searchParams.set('filter', 'new');
+            } else {
+                url.searchParams.delete('filter');
+            }
+            window.history.pushState({}, '', url);
+
+            renderJobs(allJobs);
+            updateFilterButtons();
+            updateStats();
+        }
+
         function updateFilterButtons() {
-            document.querySelectorAll('.filter-btn').forEach(btn => {
+            // 카테고리 버튼 업데이트
+            document.querySelectorAll('.filter-btn[data-category]').forEach(btn => {
                 const btnCategory = btn.dataset.category;
                 if (btnCategory === currentCategory) {
                     btn.classList.add('active');
@@ -122,6 +167,30 @@
                     btn.classList.add('bg-gray-200', 'text-gray-700');
                 }
             });
+
+            // 오늘 마감 버튼 업데이트
+            const deadlineBtn = document.getElementById('btn-deadline');
+            if (deadlineBtn) {
+                if (showOnlyDeadlineToday) {
+                    deadlineBtn.classList.add('active', 'bg-red-600', 'text-white');
+                    deadlineBtn.classList.remove('bg-gray-200', 'text-gray-700');
+                } else {
+                    deadlineBtn.classList.remove('active', 'bg-red-600', 'text-white');
+                    deadlineBtn.classList.add('bg-gray-200', 'text-gray-700');
+                }
+            }
+
+            // 신규 버튼 업데이트
+            const newBtn = document.getElementById('btn-new');
+            if (newBtn) {
+                if (showOnlyNew) {
+                    newBtn.classList.add('active', 'bg-green-600', 'text-white');
+                    newBtn.classList.remove('bg-gray-200', 'text-gray-700');
+                } else {
+                    newBtn.classList.remove('active', 'bg-green-600', 'text-white');
+                    newBtn.classList.add('bg-gray-200', 'text-gray-700');
+                }
+            }
         }
 
         function updateStats() {
@@ -143,9 +212,19 @@
             list.innerHTML = '';
 
             // 현재 카테고리로 필터링
-            const filteredJobs = currentCategory === 'all'
+            let filteredJobs = currentCategory === 'all'
                 ? jobs
                 : jobs.filter(job => getJobCategory(job) === currentCategory);
+
+            // 오늘 마감 필터 적용
+            if (showOnlyDeadlineToday) {
+                filteredJobs = filteredJobs.filter(job => checkDeadline(job.deadline));
+            }
+
+            // 신규 필터 적용
+            if (showOnlyNew) {
+                filteredJobs = filteredJobs.filter(job => job.is_new);
+            }
 
             if (filteredJobs.length === 0) {
                 list.innerHTML = `
@@ -247,24 +326,27 @@
             <p class="text-gray-500 mt-2">매일 아침 배달되는 맞춤형 채용 브리핑</p>
         </header>
 
-        <!-- 통계 카드 -->
+        <!-- 통계 카드 (클릭 가능) -->
         <div class="grid grid-cols-3 gap-4 mb-6">
-            <div class="bg-white rounded-lg p-4 text-center shadow">
+            <div onclick="showOnlyNew=false; showOnlyDeadlineToday=false; renderJobs(allJobs); updateFilterButtons(); updateStats();"
+                class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
                 <p class="text-2xl font-bold text-gray-800" id="stat-total">0</p>
                 <p class="text-sm text-gray-500">전체 공고</p>
             </div>
-            <div class="bg-white rounded-lg p-4 text-center shadow">
+            <div onclick="toggleNewFilter()"
+                class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
                 <p class="text-2xl font-bold text-green-600" id="stat-new">0</p>
                 <p class="text-sm text-gray-500">신규 공고</p>
             </div>
-            <div class="bg-white rounded-lg p-4 text-center shadow">
+            <div onclick="toggleDeadlineFilter()"
+                class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
                 <p class="text-2xl font-bold text-red-600" id="stat-deadline">0</p>
                 <p class="text-sm text-gray-500">오늘 마감</p>
             </div>
         </div>
 
         <!-- 카테고리 필터 버튼 -->
-        <div class="flex flex-wrap justify-center gap-3 mb-8">
+        <div class="flex flex-wrap justify-center gap-3 mb-4">
             <button onclick="filterByCategory('all')" data-category="all"
                 class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md">
                 🎯 전체
@@ -280,6 +362,18 @@
             <button onclick="filterByCategory('hr')" data-category="hr"
                 class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
                 👥 인사
+            </button>
+        </div>
+
+        <!-- 상태 필터 버튼 -->
+        <div class="flex flex-wrap justify-center gap-3 mb-8">
+            <button onclick="toggleDeadlineFilter()" id="btn-deadline"
+                class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
+                🔥 오늘 마감
+            </button>
+            <button onclick="toggleNewFilter()" id="btn-new"
+                class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
+                ✨ 신규
             </button>
         </div>
 
