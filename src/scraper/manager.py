@@ -2,6 +2,7 @@ from src.config import Config
 from src.scraper.saramin import SaraminScraper
 from src.scraper.jobkorea import JobKoreaScraper
 from src.scraper.linkareer import LinkareerScraper
+from src.scraper.incruit import IncruitScraper
 from src.scraper.wanted import WantedScraper
 
 class ScraperManager:
@@ -10,6 +11,7 @@ class ScraperManager:
             SaraminScraper(),      # 사람인
             JobKoreaScraper(),     # 잡코리아
             LinkareerScraper(),    # 링커리어
+            IncruitScraper(),      # 인크루트
             WantedScraper()        # 원티드
         ]
 

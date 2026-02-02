@@ -349,16 +349,67 @@
         function checkDeadline(deadlineStr) {
             if (!deadlineStr) return false;
 
-            // "오늘 마감", "~01.31(금)" 등 다양한 형식 지원
             const today = new Date();
-            const todayStr = `${String(today.getMonth() + 1).padStart(2, '0')}.${String(today.getDate()).padStart(2, '0')}`;
+            const todayMonth = String(today.getMonth() + 1).padStart(2, '0');
+            const todayDate = String(today.getDate()).padStart(2, '0');
 
-            if (deadlineStr.includes('오늘') || deadlineStr.includes('today')) {
+            // 다양한 날짜 형식 지원
+            const todayFormats = [
+                `${todayMonth}.${todayDate}`,      // 02.02
+                `${todayMonth}/${todayDate}`,      // 02/02
+                `${todayMonth}-${todayDate}`,      // 02-02
+                `-${todayMonth}-${todayDate}`      // 2026-02-02 형식 일부 매칭
+            ];
+
+            const lowerDeadline = deadlineStr.toLowerCase();
+
+            // "오늘" 키워드 체크
+            if (lowerDeadline.includes('오늘') || lowerDeadline.includes('today')) {
                 return true;
             }
-            if (deadlineStr.includes(todayStr)) {
+
+            // 다양한 형식으로 오늘 날짜 체크
+            for (const fmt of todayFormats) {
+                if (deadlineStr.includes(fmt)) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        // 내일 마감 체크 함수 추가
+        function checkDeadlineTomorrow(deadlineStr) {
+            if (!deadlineStr) return false;
+
+            const today = new Date();
+            const tomorrow = new Date(today);
+            tomorrow.setDate(tomorrow.getDate() + 1);
+
+            const tomorrowMonth = String(tomorrow.getMonth() + 1).padStart(2, '0');
+            const tomorrowDate = String(tomorrow.getDate()).padStart(2, '0');
+
+            const tomorrowFormats = [
+                `${tomorrowMonth}.${tomorrowDate}`,
+                `${tomorrowMonth}/${tomorrowDate}`,
+                `${tomorrowMonth}-${tomorrowDate}`,
+                `-${tomorrowMonth}-${tomorrowDate}`
+            ];
+
+            const lowerDeadline = deadlineStr.toLowerCase();
+
+            // "내일" 키워드 체크
+            if (lowerDeadline.includes('내일') || lowerDeadline.includes('tomorrow')) {
                 return true;
             }
+
+            // 다양한 형식으로 내일 날짜 체크
+            for (const fmt of tomorrowFormats) {
+                if (deadlineStr.includes(fmt)) {
+                    return true;
+                }
+            }
+
             return false;
         }
 
