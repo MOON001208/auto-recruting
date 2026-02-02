@@ -1,5 +1,155 @@
 [
   {
+    "id": "jk_48414324",
+    "site": "JobKorea",
+    "title": "2026년 유한킴벌리 상반기 신입 및 경력사원 채용",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48414324?Oem_Code=C1&logpath=1&stext=Data+Scientist&listno=19&sc=630",
+    "deadline": "02/03(화) 마감",
+    "hidden_keyword": "Data Scientist",
+    "scraped_at": "2026-02-01T09:44:24.795111",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "유한킴벌리 2026년 상반기 신입/경력 채용 공고이며, 다양한 직무 분야에서 인재를 모집합니다. 구체적인 직무 내용은 상세 공고 확인이 필요하며, 유한킴벌리의 핵심 가치와 미래 비전에 부합하는 인재를 찾고 있습니다.",
+      "required_skills": [
+        "직무 관련 전문성 (공고 상세 내용 기반)",
+        "문제 해결 능력",
+        "협업 및 소통 능력"
+      ],
+      "cover_letter_strategy": [
+        "유한킴벌리의 비전 및 가치에 대한 이해와 공감 강조 (ESG 경영, 사회 공헌 등)",
+        "지원 직무 관련 경험 및 역량 어필 (구체적인 프로젝트 경험, 성과 중심 서술)",
+        "성장 가능성 및 학습 의지 강조 (새로운 기술 습득, 변화에 대한 적응력 등)"
+      ]
+    }
+  },
+  {
+    "id": "jk_48322165",
+    "site": "JobKorea",
+    "title": "(취업연계과정)[IBMXRedHat]AI Transformation AX Academy 개발 교육생 모집",
+    "company": "㈜하이미디어아카데미",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48322165?Oem_Code=C1&logpath=1&stext=AI&listno=4&sc=630",
+    "deadline": "02/03(화) 마감",
+    "hidden_keyword": "AI",
+    "scraped_at": "2026-02-01T09:44:24.715188",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "IBMX RedHat 협력 AI Transformation AX Academy 개발 교육생 모집 공고입니다. 취업 연계 과정으로, AI 및 클라우드 기술 전문가 양성을 목표로 합니다. 자세한 내용은 공고 원문을 참조해야 합니다.",
+      "required_skills": [
+        "AI 개발 기초 지식 (머신러닝, 딥러닝)",
+        "프로그래밍 능력 (Python 등)",
+        "클라우드 컴퓨팅 기초 지식"
+      ],
+      "cover_letter_strategy": [
+        "AI 및 클라우드 기술에 대한 학습 의지 및 성장 가능성을 강조합니다.",
+        "프로젝트 경험 또는 관련 교육 이수 경험을 구체적으로 제시하여 실무 역량을 어필합니다.",
+        "IBMX RedHat 기술에 대한 관심과 이해도를 보여주고, 교육 과정 참여 후 기여할 수 있는 바를 명확히 제시합니다."
+      ]
+    }
+  },
+  {
+    "id": "saramin_52722076",
+    "site": "Saramin",
+    "title": "뷰티플휴먼 인사팀 신입사원모집",
+    "company": "(주)뷰티플휴먼",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52722076&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=f66e3c8f-1814-438d-95a0-061917053ee9",
+    "deadline": "~ 02/03(화)",
+    "hidden_keyword": "HRM",
+    "scraped_at": "2026-01-30T17:25:45.066729",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "뷰티플휴먼 인사팀에서 신입사원을 모집합니다. 상세 직무 내용은 공고 전문을 참고해야 합니다. 지원자는 인사 업무에 대한 기본적인 이해와 성장 가능성을 보여주는 것이 중요합니다.",
+      "required_skills": [
+        "커뮤니케이션 능력",
+        "문서 작성 능력",
+        "기본적인 HR 지식 (노동법, 4대 보험 등)"
+      ],
+      "cover_letter_strategy": [
+        "인사 관련 경험 어필: (아르바이트, 인턴, 동아리 활동 등) 구체적인 경험을 바탕으로 인사 직무에 대한 관심과 이해도를 보여주세요.",
+        "성장 가능성 강조: 새로운 것을 배우고 빠르게 적응하는 능력을 어필하고, 뷰티플휴먼에 대한 관심과 이해도를 보여주세요. 회사의 비전과 자신의 성장 목표를 연결하여 제시하는 것이 좋습니다.",
+        "책임감과 꼼꼼함 어필: 인사 업무는 정확성과 책임감이 중요한 만큼, 관련 경험이나 성격을 어필하여 신뢰감을 줄 수 있도록 작성하세요."
+      ]
+    }
+  },
+  {
+    "id": "saramin_52719626",
+    "site": "Saramin",
+    "title": "여울회계법인 3팀 - 회계·세무 담당자 모집",
+    "company": "여울회계법인",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52719626&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=5ddb5c93-61fa-419c-97e7-9286966c8c19",
+    "deadline": "~ 02/03(화)",
+    "hidden_keyword": "세무",
+    "scraped_at": "2026-01-30T17:25:45.066489",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_52947528",
+    "site": "Saramin",
+    "title": "[이천]데이터센터 시스템 운영원 모집(향후 엔지니어 양성)",
+    "company": "씨앤토트플러스(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52947528&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&searchType=search&paid_fl=n&search_uuid=ce46b402-f5e2-40cf-9bd9-2cda529bb56f",
+    "deadline": "~ 02/03(화)",
+    "hidden_keyword": "데이터 엔지니어",
+    "scraped_at": "2026-01-30T17:25:45.065968",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_52725475",
+    "site": "Saramin",
+    "title": "IT/AI부문(전문연구요원 포함)신입",
+    "company": "(주)연합인포맥스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52725475&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=d6b5df4f-6f00-4413-aeca-34f0ba6e8aca",
+    "deadline": "~ 02/03(화)",
+    "hidden_keyword": "머신러닝",
+    "scraped_at": "2026-01-30T17:25:45.044562",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "IT/AI 부문 신입 (전문연구요원 포함) 채용 공고입니다. 구체적인 채용 분야 및 요구 조건은 공고 전문을 확인해야 합니다. 전문연구요원 지원 가능성을 명시하고 있습니다.",
+      "required_skills": [
+        "IT/AI 분야 관련 지식",
+        "문제 해결 능력",
+        "협업 능력"
+      ],
+      "cover_letter_strategy": [
+        "본인이 보유한 IT/AI 관련 지식 및 경험을 구체적인 프로젝트 경험과 함께 제시하여 직무 적합성을 강조합니다.",
+        "문제 해결 능력과 관련된 경험을 제시하고, 당시 상황, 본인의 역할, 문제 해결 과정, 결과를 구체적으로 작성하여 역량을 어필합니다.",
+        "협업 능력과 관련된 경험을 제시하고, 팀 내 소통 방식, 갈등 해결 과정, 팀 목표 달성에 기여한 바를 구체적으로 작성합니다."
+      ]
+    }
+  },
+  {
+    "id": "saramin_52873662",
+    "site": "Saramin",
+    "title": "[넥센타이어] 1월 신입 수시채용 (물류관리)",
+    "company": "넥센타이어(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52873662&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=3779b92f-1ca1-4def-8e8e-52eeceaa7e0d",
+    "deadline": "~ 02/03(화)",
+    "hidden_keyword": "Data Analyst",
+    "scraped_at": "2026-01-30T17:25:45.044357",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "넥센타이어에서 물류관리 신입을 수시 채용합니다. 구체적인 직무 설명과 자격 요건을 상세히 확인해야 합니다. 물류 관련 전공 지식 및 경험, 문제 해결 능력, 그리고 넥센타이어에 대한 관심도를 어필하는 것이 중요합니다.",
+      "required_skills": [
+        "물류 관련 지식 (SCM, 물류 시스템)",
+        "데이터 분석 및 활용 능력",
+        "커뮤니케이션 및 협업 능력"
+      ],
+      "cover_letter_strategy": [
+        "물류 관련 전공 수업 또는 프로젝트 경험을 구체적인 사례와 함께 제시하여 직무 이해도를 강조합니다.",
+        "데이터 분석 도구를 활용한 경험이나 문제 해결 능력을 어필하고, 개선 결과를 수치화하여 제시합니다.",
+        "넥센타이어의 물류 시스템 개선 또는 효율화에 대한 아이디어를 제시하여 회사에 대한 관심과 직무 적합성을 어필합니다."
+      ]
+    }
+  },
+  {
     "id": "saramin_52731459",
     "site": "Saramin",
     "title": "전문연구요원(병역특례)Vision/3D AI개발",
@@ -141,30 +291,6 @@
         "총무 업무에 대한 이해도 및 관심도를 보여줄 수 있는 경험 (예: 관련 인턴, 봉사활동, 동아리 활동) 상세 기술",
         "꼼꼼함과 책임감을 어필할 수 있는 구체적인 사례 제시 (수치화된 성과 포함)",
         "원활한 커뮤니케이션 능력을 보여주는 경험 (팀워크, 협업, 문제 해결 경험) 강조"
-      ]
-    }
-  },
-  {
-    "id": "jk_48414324",
-    "site": "JobKorea",
-    "title": "2026년 유한킴벌리 상반기 신입 및 경력사원 채용",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48414324?Oem_Code=C1&logpath=1&stext=Data+Scientist&listno=19&sc=630",
-    "deadline": "02/03(화) 마감",
-    "hidden_keyword": "Data Scientist",
-    "scraped_at": "2026-02-01T09:44:24.795111",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "유한킴벌리 2026년 상반기 신입/경력 채용 공고이며, 다양한 직무 분야에서 인재를 모집합니다. 구체적인 직무 내용은 상세 공고 확인이 필요하며, 유한킴벌리의 핵심 가치와 미래 비전에 부합하는 인재를 찾고 있습니다.",
-      "required_skills": [
-        "직무 관련 전문성 (공고 상세 내용 기반)",
-        "문제 해결 능력",
-        "협업 및 소통 능력"
-      ],
-      "cover_letter_strategy": [
-        "유한킴벌리의 비전 및 가치에 대한 이해와 공감 강조 (ESG 경영, 사회 공헌 등)",
-        "지원 직무 관련 경험 및 역량 어필 (구체적인 프로젝트 경험, 성과 중심 서술)",
-        "성장 가능성 및 학습 의지 강조 (새로운 기술 습득, 변화에 대한 적응력 등)"
       ]
     }
   },
@@ -408,50 +534,55 @@
     }
   },
   {
-    "id": "jk_48322165",
-    "site": "JobKorea",
-    "title": "(취업연계과정)[IBMXRedHat]AI Transformation AX Academy 개발 교육생 모집",
-    "company": "㈜하이미디어아카데미",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48322165?Oem_Code=C1&logpath=1&stext=AI&listno=4&sc=630",
-    "deadline": "02/03(화) 마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-02-01T09:44:24.715188",
+    "id": "saramin_52959556",
+    "site": "Saramin",
+    "title": "아만티호텔서울 경영지원팀(총무,출납) 채용 공고",
+    "company": "(주)원앤온니에이엠씨",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52959556&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=af39e349-94b3-4139-aad8-dcc3a0432f0a",
+    "deadline": "~ 02/02(월)",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-01-31T02:03:31.440401",
     "is_new": false,
     "ai_analysis": {
-      "summary": "IBMX RedHat 협력 AI Transformation AX Academy 개발 교육생 모집 공고입니다. 취업 연계 과정으로, AI 및 클라우드 기술 전문가 양성을 목표로 합니다. 자세한 내용은 공고 원문을 참조해야 합니다.",
+      "summary": "아만티호텔서울에서 경영지원팀(총무, 출납) 담당자를 채용합니다. 총무 및 출납 업무 경력자를 우대하며, 호텔 산업에 대한 이해와 꼼꼼함, 책임감을 중요하게 평가합니다. 급여 및 복지 조건은 회사 내규에 따릅니다.",
       "required_skills": [
-        "AI 개발 기초 지식 (머신러닝, 딥러닝)",
-        "프로그래밍 능력 (Python 등)",
-        "클라우드 컴퓨팅 기초 지식"
+        "총무 업무 경험",
+        "출납 업무 경험",
+        "꼼꼼한 성격",
+        "책임감",
+        "MS Office 활용 능력 (Excel 필수)",
+        "원활한 커뮤니케이션 능력"
       ],
       "cover_letter_strategy": [
-        "AI 및 클라우드 기술에 대한 학습 의지 및 성장 가능성을 강조합니다.",
-        "프로젝트 경험 또는 관련 교육 이수 경험을 구체적으로 제시하여 실무 역량을 어필합니다.",
-        "IBMX RedHat 기술에 대한 관심과 이해도를 보여주고, 교육 과정 참여 후 기여할 수 있는 바를 명확히 제시합니다."
+        "호텔 산업에 대한 관심과 이해도를 보여주는 경험을 구체적으로 작성 (ex: 호텔 아르바이트 경험, 호텔 관련 교육 수강 경험 등)",
+        "총무 및 출납 관련 경험을 중심으로 꼼꼼함과 책임감을 어필 (정확한 자료 관리, 기한 내 업무 완료 경험 등)",
+        "지원하는 아만티호텔서울에 대한 이해와 기여 의지를 명확히 제시 (호텔의 강점, 개선점 분석 및 지원하는 직무를 통해 기여할 수 있는 부분 제시)"
       ]
     }
   },
   {
-    "id": "saramin_52722076",
+    "id": "saramin_52480724",
     "site": "Saramin",
-    "title": "뷰티플휴먼 인사팀 신입사원모집",
-    "company": "(주)뷰티플휴먼",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52722076&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=f66e3c8f-1814-438d-95a0-061917053ee9",
-    "deadline": "~ 02/03(화)",
-    "hidden_keyword": "HRM",
-    "scraped_at": "2026-01-30T17:25:45.066729",
+    "title": "[코스닥] 경영전략본부 재무팀 팀원 모집(신입)",
+    "company": "(주)디티앤씨",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52480724&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=869adf70-8456-4d12-80d5-d95032c997bb",
+    "deadline": "~ 02/02(월)",
+    "hidden_keyword": "재무",
+    "scraped_at": "2026-01-30T17:25:45.067074",
     "is_new": false,
     "ai_analysis": {
-      "summary": "뷰티플휴먼 인사팀에서 신입사원을 모집합니다. 상세 직무 내용은 공고 전문을 참고해야 합니다. 지원자는 인사 업무에 대한 기본적인 이해와 성장 가능성을 보여주는 것이 중요합니다.",
+      "summary": "코스닥 상장사 경영전략본부 재무팀 신입 팀원 채용 공고입니다. 재무 관련 지식과 꼼꼼함, 책임감을 강조하고 있습니다. 성장 가능성이 높은 회사에서 재무 전문가로 커리어를 시작할 기회입니다.",
       "required_skills": [
-        "커뮤니케이션 능력",
-        "문서 작성 능력",
-        "기본적인 HR 지식 (노동법, 4대 보험 등)"
+        "재무회계 지식",
+        "Excel 활용 능력",
+        "꼼꼼함과 책임감",
+        "원활한 커뮤니케이션 능력",
+        "데이터 분석 능력 (우대 사항 고려)"
       ],
       "cover_letter_strategy": [
-        "인사 관련 경험 어필: (아르바이트, 인턴, 동아리 활동 등) 구체적인 경험을 바탕으로 인사 직무에 대한 관심과 이해도를 보여주세요.",
-        "성장 가능성 강조: 새로운 것을 배우고 빠르게 적응하는 능력을 어필하고, 뷰티플휴먼에 대한 관심과 이해도를 보여주세요. 회사의 비전과 자신의 성장 목표를 연결하여 제시하는 것이 좋습니다.",
-        "책임감과 꼼꼼함 어필: 인사 업무는 정확성과 책임감이 중요한 만큼, 관련 경험이나 성격을 어필하여 신뢰감을 줄 수 있도록 작성하세요."
+        "재무 관련 학습 경험 및 성과 강조 (전공 과목, 관련 자격증, 프로젝트 경험 등 구체적 사례 제시)",
+        "꼼꼼함과 책임감을 보여주는 경험 어필 (데이터 관리, 마감 기한 준수, 문제 해결 경험 등)",
+        "성장 가능성에 대한 열정과 회사에 대한 이해도를 연결하여 지원 동기 작성 (회사의 성장 전략에 대한 관심, 재무팀 역할에 대한 이해 등)"
       ]
     }
   },
@@ -477,6 +608,21 @@
         "회사의 사업 및 문화에 대한 관심을 나타내고, 자신이 회사에 기여할 수 있는 부분을 명확하게 제시합니다.",
         "성장 가능성과 배우려는 의지를 어필하고, 어려운 상황에서도 긍정적으로 문제를 해결했던 경험을 제시하여 문제 해결 능력과 적응력을 강조합니다."
       ]
+    }
+  },
+  {
+    "id": "saramin_52952647",
+    "site": "Saramin",
+    "title": "[에스에프씨] 스틱제조 (생산직) 부문 계약직 채용",
+    "company": "에스에프씨 주식회사",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52952647&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=17609a3f-197f-4dbd-86f7-82e48cfd7d5d",
+    "deadline": "~ 02/02(월)",
+    "hidden_keyword": "채용",
+    "scraped_at": "2026-01-30T17:25:45.066631",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
     }
   },
   {
@@ -519,14 +665,38 @@
     }
   },
   {
-    "id": "saramin_52719626",
+    "id": "saramin_52919475",
     "site": "Saramin",
-    "title": "여울회계법인 3팀 - 회계·세무 담당자 모집",
-    "company": "여울회계법인",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52719626&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=5ddb5c93-61fa-419c-97e7-9286966c8c19",
-    "deadline": "~ 02/03(화)",
-    "hidden_keyword": "세무",
-    "scraped_at": "2026-01-30T17:25:45.066489",
+    "title": "2026년 상반기 현대글로비스 글로벌물류운영 신입채용(수시)",
+    "company": "현대글로비스(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52919475&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=17609a3f-197f-4dbd-86f7-82e48cfd7d5d",
+    "deadline": "~ 02/02(월)",
+    "hidden_keyword": "채용",
+    "scraped_at": "2026-01-30T17:25:45.066574",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "현대글로비스 2026년 상반기 글로벌물류운영 신입 수시 채용 공고입니다. 글로벌 물류 운영 직무에 대한 신입 인재를 찾고 있습니다. 상세 직무 내용은 공고 전문을 참고해야 합니다.",
+      "required_skills": [
+        "글로벌 시장 및 물류에 대한 이해",
+        "문제 해결 능력 및 분석적 사고",
+        "커뮤니케이션 및 협업 능력"
+      ],
+      "cover_letter_strategy": [
+        "글로벌 물류 산업에 대한 관심과 이해도를 구체적인 경험과 연결하여 어필 (예: 관련 분야 인턴, 프로젝트 경험 등)",
+        "데이터 분석 능력, 문제 해결 능력, 외국어 능력 등 직무 관련 강점을 명확히 제시하고, 성과를 정량적으로 제시",
+        "현대글로비스의 비전과 가치에 대한 공감대를 보여주고, 회사 성장에 기여하고자 하는 열정을 진솔하게 표현"
+      ]
+    }
+  },
+  {
+    "id": "saramin_52896831",
+    "site": "Saramin",
+    "title": "연구소 사무행정 직무 신입사원 모집",
+    "company": "(주)제뉴원사이언스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52896831&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=37690e13-406f-4737-ae22-f3c801c804f3",
+    "deadline": "~ 02/02(월)",
+    "hidden_keyword": "HRD",
+    "scraped_at": "2026-01-30T17:25:45.066294",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -603,41 +773,26 @@
     }
   },
   {
-    "id": "saramin_52947528",
+    "id": "saramin_52922809",
     "site": "Saramin",
-    "title": "[이천]데이터센터 시스템 운영원 모집(향후 엔지니어 양성)",
-    "company": "씨앤토트플러스(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52947528&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&searchType=search&paid_fl=n&search_uuid=ce46b402-f5e2-40cf-9bd9-2cda529bb56f",
-    "deadline": "~ 02/03(화)",
-    "hidden_keyword": "데이터 엔지니어",
-    "scraped_at": "2026-01-30T17:25:45.065968",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52725475",
-    "site": "Saramin",
-    "title": "IT/AI부문(전문연구요원 포함)신입",
-    "company": "(주)연합인포맥스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52725475&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=d6b5df4f-6f00-4413-aeca-34f0ba6e8aca",
-    "deadline": "~ 02/03(화)",
+    "title": "[㈜딥엑스] AI반도체 신입 (학/석/박사) HW / SW 엔지니어 모집",
+    "company": "(주)딥엑스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52922809&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=d6b5df4f-6f00-4413-aeca-34f0ba6e8aca",
+    "deadline": "~ 02/02(월)",
     "hidden_keyword": "머신러닝",
-    "scraped_at": "2026-01-30T17:25:45.044562",
+    "scraped_at": "2026-01-30T17:25:45.044520",
     "is_new": false,
     "ai_analysis": {
-      "summary": "IT/AI 부문 신입 (전문연구요원 포함) 채용 공고입니다. 구체적인 채용 분야 및 요구 조건은 공고 전문을 확인해야 합니다. 전문연구요원 지원 가능성을 명시하고 있습니다.",
+      "summary": "딥엑스에서 AI 반도체 HW/SW 분야 신입 엔지니어를 학/석/박사 대상으로 모집합니다. 주요 업무는 AI 반도체 개발 및 관련 SW 개발이며, 다양한 전공 분야 지원 가능합니다. 채용 규모는 구체적으로 명시되지 않았으나, 딥엑스의 성장과 함께 핵심 인력을 확보하려는 것으로 보입니다.",
       "required_skills": [
-        "IT/AI 분야 관련 지식",
-        "문제 해결 능력",
-        "협업 능력"
+        "C/C++ 프로그래밍 능력",
+        "컴퓨터 구조 및 운영체제 이해",
+        "AI/머신러닝 기본 지식"
       ],
       "cover_letter_strategy": [
-        "본인이 보유한 IT/AI 관련 지식 및 경험을 구체적인 프로젝트 경험과 함께 제시하여 직무 적합성을 강조합니다.",
-        "문제 해결 능력과 관련된 경험을 제시하고, 당시 상황, 본인의 역할, 문제 해결 과정, 결과를 구체적으로 작성하여 역량을 어필합니다.",
-        "협업 능력과 관련된 경험을 제시하고, 팀 내 소통 방식, 갈등 해결 과정, 팀 목표 달성에 기여한 바를 구체적으로 작성합니다."
+        "AI 반도체 분야에 대한 높은 관심과 학습 의지를 강조: 딥엑스가 AI 반도체 스타트업인 만큼, 해당 분야에 대한 열정을 보여주는 것이 중요합니다.",
+        "본인의 강점과 경험을 딥엑스의 필요 역량과 연결: 프로젝트 경험, 연구 경험 등을 통해 HW 또는 SW 분야에서 기여할 수 있음을 구체적으로 어필해야 합니다.",
+        "문제 해결 능력 및 협업 능력 어필: 엔지니어로서의 기본적인 역량과 더불어, 딥엑스 팀에 잘 융화될 수 있다는 점을 강조하는 것이 좋습니다."
       ]
     }
   },
@@ -728,30 +883,6 @@
     }
   },
   {
-    "id": "saramin_52873662",
-    "site": "Saramin",
-    "title": "[넥센타이어] 1월 신입 수시채용 (물류관리)",
-    "company": "넥센타이어(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52873662&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=3779b92f-1ca1-4def-8e8e-52eeceaa7e0d",
-    "deadline": "~ 02/03(화)",
-    "hidden_keyword": "Data Analyst",
-    "scraped_at": "2026-01-30T17:25:45.044357",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "넥센타이어에서 물류관리 신입을 수시 채용합니다. 구체적인 직무 설명과 자격 요건을 상세히 확인해야 합니다. 물류 관련 전공 지식 및 경험, 문제 해결 능력, 그리고 넥센타이어에 대한 관심도를 어필하는 것이 중요합니다.",
-      "required_skills": [
-        "물류 관련 지식 (SCM, 물류 시스템)",
-        "데이터 분석 및 활용 능력",
-        "커뮤니케이션 및 협업 능력"
-      ],
-      "cover_letter_strategy": [
-        "물류 관련 전공 수업 또는 프로젝트 경험을 구체적인 사례와 함께 제시하여 직무 이해도를 강조합니다.",
-        "데이터 분석 도구를 활용한 경험이나 문제 해결 능력을 어필하고, 개선 결과를 수치화하여 제시합니다.",
-        "넥센타이어의 물류 시스템 개선 또는 효율화에 대한 아이디어를 제시하여 회사에 대한 관심과 직무 적합성을 어필합니다."
-      ]
-    }
-  },
-  {
     "id": "saramin_52917249",
     "site": "Saramin",
     "title": "[네이버] SNOW 3월 전분야 체험형 인턴(서비스 데이터 분석)",
@@ -772,865 +903,6 @@
         "데이터 분석 경험을 구체적인 프로젝트 중심으로 기술하고, 성과를 정량적으로 제시합니다.",
         "SNOW 서비스에 대한 이해도를 보여주고, 데이터 분석을 통해 서비스 개선에 기여할 수 있다는 점을 어필합니다.",
         "팀워크 및 커뮤니케이션 능력을 강조하고, 다양한 배경의 사람들과 협업하여 목표를 달성한 경험을 제시합니다."
-      ]
-    }
-  },
-  {
-    "id": "jk_48473362",
-    "site": "JobKorea",
-    "title": "호텔롯데 리조트부문 L-CREW(체험형인턴) 채용 (부여, 김해)",
-    "company": "㈜호텔롯데",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48473362?Oem_Code=C1&logpath=1&stext=%EC%B4%9D%EB%AC%B4&listno=13&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-02-01T09:44:24.805687",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "호텔롯데 리조트부문에서 부여, 김해 지역 L-CREW(체험형 인턴)을 채용합니다. 서비스 마인드, 문제 해결 능력, 팀워크를 갖춘 인재를 찾고 있으며, 실무 경험을 통해 호텔 및 리조트 운영 전반을 체험할 수 있습니다.",
-      "required_skills": [
-        "고객 지향적인 태도",
-        "원활한 의사소통 능력",
-        "긍정적인 마인드 및 적응력"
-      ],
-      "cover_letter_strategy": [
-        "지원하는 직무(부여 또는 김해)와 관련된 경험(아르바이트, 봉사활동 등)을 구체적으로 제시하고, 호텔 및 리조트 산업에 대한 관심과 이해도를 보여주세요.",
-        "팀워크, 소통 능력, 문제 해결 능력 등 인턴십 수행에 필요한 핵심 역량을 경험을 바탕으로 어필하고, 롯데 리조트에서 발휘할 수 있는 잠재력을 강조하세요.",
-        "호텔롯데 리조트부문에서 인턴십을 통해 얻고 싶은 목표와 개인적인 성장 계획을 명확히 제시하여, 회사에 대한 적극적인 기여 의지를 보여주세요."
-      ]
-    }
-  },
-  {
-    "id": "jk_48474623",
-    "site": "JobKorea",
-    "title": "3월 전분야 체험형 인턴 - 서비스 데이터 분석",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48474623?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&listno=11&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "데이터 분석",
-    "scraped_at": "2026-02-01T09:44:24.777679",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "3월 체험형 인턴, 서비스 데이터 분석 분야 채용 공고입니다. 데이터 분석 역량을 활용하여 실제 서비스 개선에 기여할 인재를 찾습니다. Entry Level 수준의 지원자를 대상으로 합니다.",
-      "required_skills": [
-        "데이터 분석 기초 (SQL, Python)",
-        "데이터 시각화 (Tableau, Power BI)",
-        "문제 해결 능력 및 커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "데이터 분석 프로젝트 경험을 구체적으로 작성하고, 본인이 수행한 역할과 결과를 명확히 제시하여 실무 능력을 어필합니다.",
-        "지원하는 서비스에 대한 이해도를 보여주고, 데이터 분석을 통해 서비스 개선에 기여할 수 있는 아이디어를 제시하여 적극적인 자세를 강조합니다.",
-        "데이터 분석 결과 해석 및 커뮤니케이션 능력을 어필하고, 팀 협업 경험을 통해 원활한 소통 능력을 갖추었음을 보여줍니다."
-      ]
-    }
-  },
-  {
-    "id": "jk_48458042",
-    "site": "JobKorea",
-    "title": "비서 계약직 구성원 채용",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48458042?Oem_Code=C1&logpath=1&stext=%EA%B2%B0%EC%82%B0&listno=14&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "결산",
-    "scraped_at": "2026-02-01T09:44:24.744413",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "비서 계약직 채용 공고이며, 상세 업무 내용은 공고 전문을 확인해야 합니다. 지원 자격 요건 및 우대 조건 역시 공고 전문을 통해 확인해야 합니다. 계약 기간 및 급여 조건 등 세부 사항 또한 공고 전문에 기재되어 있을 것입니다.",
-      "required_skills": [
-        "공고 전문 확인 후 분석 가능",
-        "공고 전문 확인 후 분석 가능"
-      ],
-      "cover_letter_strategy": [
-        "공고 전문 확인 후 분석 가능",
-        "공고 전문 확인 후 분석 가능",
-        "공고 전문 확인 후 분석 가능"
-      ]
-    }
-  },
-  {
-    "id": "jk_48412834",
-    "site": "JobKorea",
-    "title": "(주)루텍 2026년 정기공채 ROOTECH 신입/경력사원 인재영입 채용모집",
-    "company": "㈜루텍",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48412834?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=16&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-02-01T09:44:24.738734",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "(주)루텍 2026년 정기 공채 신입/경력 채용 공고입니다. ROOTECH 인재 영입을 목표로 합니다. 상세 내용은 직무별 요구사항 확인 필요.",
-      "required_skills": [
-        "직무 관련 전문 지식 (공고 내 직무 기술서 확인)",
-        "문제 해결 능력 및 분석적 사고",
-        "협업 능력 및 커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "지원하는 직무에 대한 이해도 및 관련 경험 강조 (프로젝트, 인턴 등 구체적인 사례 포함)",
-        "루텍의 가치 및 비전에 대한 공감 및 기여 의지 어필 (기업 분석 선행)",
-        "성장 가능성 및 학습 능력 어필 (새로운 기술/지식 습득에 대한 적극성)"
-      ]
-    }
-  },
-  {
-    "id": "jk_48480740",
-    "site": "JobKorea",
-    "title": "2026년 회계팀 사무지원직 수시채용 (재무회계 직무)",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48480740?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=10&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-02-01T09:44:24.737875",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "2026년 회계팀 사무지원직 수시채용 공고이며, 재무회계 직무를 담당합니다. 구체적인 공고 내용은 생략되었습니다. Entry Level 지원자를 대상으로 합니다.",
-      "required_skills": [
-        "재무회계 기본 지식",
-        "사무 행정 능력",
-        "데이터 처리 및 분석 능력"
-      ],
-      "cover_letter_strategy": [
-        "회계 관련 기초 지식 및 학습 의지 강조",
-        "꼼꼼함과 책임감을 바탕으로 한 업무 수행 능력 어필",
-        "데이터 처리 및 분석 관련 경험 (인턴, 프로젝트 등) 제시"
-      ]
-    }
-  },
-  {
-    "id": "jk_48486478",
-    "site": "JobKorea",
-    "title": "[GS리테일] '26년 상반기 경영지원본부 재경부문 체험형 인턴 채용",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48486478?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=2&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-02-01T09:44:24.735258",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "GS리테일 경영지원본부 재경부문에서 '26년 상반기 체험형 인턴을 채용합니다. 재경 관련 실무 경험을 쌓고 GS리테일 기업 문화를 경험할 수 있는 기회입니다. 상세 직무 및 지원 자격은 공고 내용을 참고해야 합니다.",
-      "required_skills": [
-        "재무/회계 지식 (기본)",
-        "데이터 분석 능력 (Excel 활용)",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "재경 관련 학습 경험 및 프로젝트 경험을 구체적으로 작성하여 직무 이해도를 어필합니다.",
-        "데이터 분석 능력 관련 경험 (인턴, 학업 프로젝트 등)을 제시하고, 이를 통해 얻은 성과를 정량적으로 제시합니다.",
-        "GS리테일에 대한 관심도 및 지원하는 인턴십을 통해 얻고 싶은 성장 목표를 명확하게 제시합니다."
-      ]
-    }
-  },
-  {
-    "id": "jk_48437074",
-    "site": "JobKorea",
-    "title": "2026년 상반기 우수인재 공채(사업부문, 검사부문)",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48437074?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=12&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "채용",
-    "scraped_at": "2026-02-01T09:44:24.733057",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "2026년 상반기 사업 및 검사 부문 우수인재 공개 채용 공고입니다.",
-      "required_skills": [
-        "직무 관련 전문 지식 (공고 상세 내용 참고)",
-        "문제 해결 능력",
-        "의사 소통 능력"
-      ],
-      "cover_letter_strategy": [
-        "지원하는 사업/검사 부문에 대한 깊이 있는 이해와 관심을 보여주세요.",
-        "본인의 강점과 경험이 회사 및 직무에 어떻게 기여할 수 있는지 구체적인 사례를 들어 설명하세요.",
-        "회사의 비전과 가치에 대한 공감대를 형성하고, 장기적인 성장 가능성을 어필하세요."
-      ]
-    }
-  },
-  {
-    "id": "jk_48377305",
-    "site": "JobKorea",
-    "title": "대한제분㈜ 2026년 상반기 부문별 대졸 신입사원 채용",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48377305?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=5&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "채용",
-    "scraped_at": "2026-02-01T09:44:24.731464",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "대한제분㈜ 2026년 상반기 대졸 신입사원 채용 공고입니다. 부문별 채용이며, 구체적인 직무 내용은 채용 상세 페이지에서 확인해야 합니다. 지원 자격 및 절차 또한 상세 페이지에 명시되어 있을 것으로 예상됩니다.",
-      "required_skills": [
-        "직무 관련 지식 (해당 부문 전공 지식)",
-        "문제 해결 능력",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "지원하는 부문/직무에 대한 이해도 및 관심도 어필",
-        "대한제분㈜에 대한 이해와 충성도 강조 (기업 분석 바탕)",
-        "본인의 강점과 경험을 바탕으로 기여할 수 있는 부분 구체적으로 제시"
-      ]
-    }
-  },
-  {
-    "id": "jk_48181836",
-    "site": "JobKorea",
-    "title": "[서울/경기/인천] 국비 전액지원 무료 취업교육생과정모집 (AI, 풀스택개발, 웹디자인/퍼블리싱, 게임/메타",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48181836?Oem_Code=C1&logpath=1&stext=AI&listno=15&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-02-01T09:44:24.717884",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "서울/경기/인천 지역에서 AI, 풀스택 개발, 웹디자인/퍼블리싱, 게임/메타버스 분야의 국비지원 무료 취업 교육생을 모집합니다. 해당 교육 과정은 전액 국비 지원으로 진행되며, 취업 연계를 목표로 합니다. 다양한 IT 분야 교육을 통해 취업 경쟁력을 강화할 수 있는 기회입니다.",
-      "required_skills": [
-        "기본적인 컴퓨터 활용 능력",
-        "학습 의지",
-        "IT 분야에 대한 관심"
-      ],
-      "cover_letter_strategy": [
-        "해당 분야에 대한 관심과 학습 의지를 구체적인 경험과 연결하여 어필 (예: 관련 온라인 강의 수강 경험, 개인 프로젝트 경험)",
-        "어려움 극복 및 문제 해결 능력 강조 (예: 독학 경험, 팀 프로젝트에서의 역할과 성과)",
-        "취업 후 목표와 포부를 명확하게 제시하여 성장 가능성을 어필 (예: 구체적인 직무 목표, 꾸준한 자기 개발 계획)"
-      ]
-    }
-  },
-  {
-    "id": "jk_48442084",
-    "site": "JobKorea",
-    "title": "2026 코오롱그룹 1월 정기공채",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48442084?Oem_Code=C1&logpath=1&stext=AI&listno=11&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-02-01T09:44:24.716638",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "2026년 1월 코오롱그룹 정기공채 공고입니다. 상세 내용은 채용공고 전문을 확인해야 합니다. (Start of text) 이후의 내용을 통해 직무, 자격 요건, 우대 조건 등을 파악해야 합니다.",
-      "required_skills": [
-        "공고 내용 분석 후 기재",
-        "공고 내용 분석 후 기재"
-      ],
-      "cover_letter_strategy": [
-        "공고 내용 분석 후 기재",
-        "공고 내용 분석 후 기재",
-        "공고 내용 분석 후 기재"
-      ]
-    }
-  },
-  {
-    "id": "jk_48389911",
-    "site": "JobKorea",
-    "title": "[서울] AI 개발 담당자(신입,경력)",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48389911?Oem_Code=C1&logpath=1&stext=AI&listno=10&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-02-01T09:44:24.716366",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "서울 소재 AI 개발 담당자 채용 공고입니다. 신입 및 경력 모두 지원 가능하며, 구체적인 업무 내용 및 필요 역량은 상세 공고를 참조해야 합니다.",
-      "required_skills": [
-        "AI/ML 관련 지식 (모델링, 학습, 평가)",
-        "Python 또는 관련 프로그래밍 언어 능력",
-        "문제 해결 능력 및 협업 능력"
-      ],
-      "cover_letter_strategy": "1. AI/ML 관련 프로젝트 경험 강조 (개인 프로젝트, 스터디 등) 2. 관련 분야 학습 의지 및 성장 가능성 어필 3. 문제 해결 능력 및 협업 능력 관련 구체적인 사례 제시"
-    }
-  },
-  {
-    "id": "jk_48181834",
-    "site": "JobKorea",
-    "title": "[서울/경기/인천] 최대 전액지원 AI 무료 취업교육생과정 모집",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48181834?Oem_Code=C1&logpath=1&stext=AI&listno=6&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-02-01T09:44:24.715773",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "서울/경기/인천 지역 AI 분야 취업 희망자를 위한 전액 지원 무료 교육 과정 모집 공고입니다. 교육 후 취업 연계를 지원하며, AI 분야 필수 역량 습득을 목표로 합니다.",
-      "required_skills": [
-        "Python",
-        "머신러닝 기초",
-        "데이터 분석"
-      ],
-      "cover_letter_strategy": [
-        "AI 분야에 대한 관심과 학습 의지를 적극적으로 어필합니다. 구체적인 학습 목표와 향후 AI 분야에서 기여하고 싶은 바를 명확히 제시합니다.",
-        "데이터 분석 또는 프로그래밍 경험이 있다면, 교육 과정을 통해 AI 분야 역량을 더욱 발전시키고 싶다는 점을 강조합니다. 프로젝트 경험을 간략하게 언급하는 것도 좋습니다.",
-        "교육 과정에 대한 기대감과 성실하게 참여하여 성과를 내겠다는 의지를 보여주는 것이 중요합니다. 적극적인 자세와 배우려는 태도를 어필합니다."
-      ]
-    }
-  },
-  {
-    "id": "jk_48506137",
-    "site": "JobKorea",
-    "title": "정규직 수시 채용 - 건축공사",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48506137?Oem_Code=C1&logpath=1&stext=HRM&listno=16&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "HRM",
-    "scraped_at": "2026-02-01T09:44:24.714264",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "건축공사 분야 정규직 수시 채용 공고이며, 구체적인 자격 요건 및 직무 내용은 채용 공고 전문을 확인해야 합니다. Entry Level 지원자를 대상으로 하며, 건축 공사 관련 지식 및 실무 경험을 어필하는 것이 중요합니다. 회사의 규모, 연봉, 복지 등의 상세 정보는 공고 전문을 통해 확인해야 합니다.",
-      "required_skills": [
-        "건축공학 관련 지식",
-        "도면 해독 능력",
-        "AutoCAD 및 관련 소프트웨어 활용 능력"
-      ],
-      "cover_letter_strategy": [
-        "건축공학 전공 지식 및 학업 성취도를 구체적인 사례를 통해 어필하고, 프로젝트 경험을 강조하여 실무 적응력을 보여주세요.",
-        "건축 현장 실습 경험이나 관련 아르바이트 경험을 통해 건축 공사에 대한 이해도와 열정을 강조하고, 안전 의식과 책임감을 어필하세요.",
-        "팀워크, 소통 능력 등 협업 능력을 강조하고, 문제 해결 능력과 적극적인 자세를 어필하여 조직 적응력을 보여주세요."
-      ]
-    }
-  },
-  {
-    "id": "jk_48506149",
-    "site": "JobKorea",
-    "title": "정규직 수시 채용 - 기계",
-    "company": "스크랩",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48506149?Oem_Code=C1&logpath=1&stext=HRM&listno=13&sc=630",
-    "deadline": "오늘마감",
-    "hidden_keyword": "HRM",
-    "scraped_at": "2026-02-01T09:44:24.713889",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "기계 분야 정규직 수시 채용 공고입니다. 구체적인 직무 내용, 요구 경력, 필요 역량 등 상세 정보는 공고 전문을 확인해야 합니다. 수시 채용인 만큼 빠른 지원이 필요할 수 있습니다.",
-      "required_skills": [
-        "공고 전문 확인 후 직무 관련 전공 지식 (기계공학)",
-        "공고 전문 확인 후 관련 기술 및 소프트웨어 활용 능력",
-        "공고 전문 확인 후 문제 해결 능력 및 분석적 사고"
-      ],
-      "cover_letter_strategy": [
-        "공고 전문 분석 후 해당 직무에 대한 이해도 및 관심도를 명확히 표현 (기업 분석 선행)",
-        "공고 전문 분석 후 요구하는 필수 역량과 관련된 경험 및 성과를 구체적으로 제시 (STAR 기법 활용)",
-        "공고 전문 분석 후 기계 분야에 대한 열정과 지속적인 학습 의지를 강조 (미래 성장 가능성 어필)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52905489",
-    "site": "Saramin",
-    "title": "[GS리테일] '26년 상반기 경영지원본부 재경부문 체험형 인턴 채용",
-    "company": "(주)지에스리테일",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52905489&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5d87ab61-4d4e-48bd-974a-582570be4d2b",
-    "deadline": "오늘마감",
-    "hidden_keyword": "결산",
-    "scraped_at": "2026-02-01T02:34:41.680416",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "GS리테일에서 2026년 상반기 경영지원본부 재경부문 체험형 인턴을 채용합니다. 재경 관련 실무 경험을 쌓고 GS리테일 기업 문화를 경험할 수 있는 기회입니다. 구체적인 채용 상세 내용은 공고 전문을 참고해야 합니다.",
-      "required_skills": [
-        "재무/회계 지식",
-        "데이터 분석 능력",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "재경 관련 학습 경험 및 프로젝트 경험을 구체적으로 제시하여 직무 이해도를 어필",
-        "데이터 분석 능력 및 엑셀 활용 능력을 강조하고, 관련 경험을 바탕으로 업무 효율성을 높일 수 있음을 시사",
-        "GS리테일에 대한 관심과 이해도를 보여주고, 인턴십을 통해 성장하고 싶은 목표를 명확히 제시"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52894254",
-    "site": "Saramin",
-    "title": "[GBH] PEOPLE팀 인턴 모집 (채용전환형)",
-    "company": "(주)지비에이치",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52894254&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=17fa83c8-70d8-4f5c-9c31-2157ae4edf54",
-    "deadline": "오늘마감",
-    "hidden_keyword": "HRM",
-    "scraped_at": "2026-01-31T15:40:02.162390",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "GBH에서 PEOPLE팀 인턴을 채용하며, 채용 전환형으로 운영됩니다. 인턴 기간 동안 실무 경험을 쌓고 정규직 전환 기회를 얻을 수 있습니다. PEOPLE팀은 HR 관련 업무를 수행하며, 인턴은 채용, 교육, 평가, 보상 등 다양한 HR 업무를 지원할 것으로 예상됩니다.",
-      "required_skills": [
-        "꼼꼼함",
-        "커뮤니케이션 능력",
-        "HR에 대한 관심"
-      ],
-      "cover_letter_strategy": [
-        "HR 분야에 대한 깊은 관심과 학습 의지를 강조하고, 관련 경험 (인턴, 동아리, 프로젝트 등)을 구체적으로 제시하여 직무 적합성을 어필합니다.",
-        "뛰어난 커뮤니케이션 능력과 협업 능력을 강조하고, 팀워크를 통해 성과를 달성한 경험을 구체적인 사례를 들어 설명합니다. 긍정적이고 적극적인 태도를 보여주는 것이 중요합니다.",
-        "꼼꼼하고 책임감 있는 성격을 강조하고, 데이터 분석 능력 또는 문서 작성 능력을 어필합니다. HR 업무는 정확성과 효율성이 중요하므로, 관련 역량을 보여주는 것이 유리합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52885550",
-    "site": "Saramin",
-    "title": "기술부문 수시채용 (IT, 요소기술)",
-    "company": "한국요꼬가와일렉트로닉스매뉴팩처링(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52885550&location=ts&searchword=Data+Scientist&searchType=search&paid_fl=n&search_uuid=943e8015-8153-4adf-888c-57c90d1c1453",
-    "deadline": "오늘마감",
-    "hidden_keyword": "Data Scientist",
-    "scraped_at": "2026-01-31T15:40:02.162323",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "IT 및 요소기술 분야 기술부문 수시채용 공고입니다. 구체적인 직무 및 요구사항은 상세 공고 내용을 확인해야 합니다. 성장 가능성이 높은 기술 인재를 확보하고자 하는 채용으로 보입니다.",
-      "required_skills": [
-        "문제 해결 능력",
-        "협업 능력",
-        "기술적 이해도"
-      ],
-      "cover_letter_strategy": [
-        "본인이 보유한 IT 또는 요소기술 관련 경험 및 지식을 구체적인 프로젝트 또는 문제 해결 사례를 통해 제시합니다.",
-        "해당 회사의 기술 스택 및 개발 문화에 대한 이해도를 보여주고, 기여할 수 있는 부분을 어필합니다.",
-        "학습 능력과 성장 가능성을 강조하고, 끊임없이 새로운 기술을 배우고 발전하려는 의지를 보여줍니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52925433",
-    "site": "Saramin",
-    "title": "2026년 포스코GYS테크 신입사원 채용",
-    "company": "(주)포스코지와이에스테크",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52925433&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=ce542dff-47e9-4e06-873c-532c64467538",
-    "deadline": "오늘마감",
-    "hidden_keyword": "채용",
-    "scraped_at": "2026-01-31T15:40:02.142514",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "2026년 포스코GYS테크 신입사원 채용 공고입니다. 상세 내용은 채용 공고 원문을 참조해야 합니다. 지원자는 해당 직무와 관련된 필수 역량과 경험을 어필해야 합니다.",
-      "required_skills": [
-        "공정/설비 기술",
-        "데이터 분석 및 활용",
-        "문제 해결 능력"
-      ],
-      "cover_letter_strategy": [
-        "포스코GYS테크의 비전과 핵심 가치에 대한 이해를 바탕으로, 회사 발전에 기여하고자 하는 열정을 구체적인 경험과 연결하여 어필합니다.",
-        "직무 관련 프로젝트 경험이나 인턴십 경험을 상세히 기술하고, 해당 경험을 통해 얻은 역량과 성과를 정량적으로 제시하여 실무 능력을 강조합니다.",
-        "지원하는 직무에 대한 깊이 있는 이해를 보여주고, 입사 후 포부를 구체적으로 제시하여 회사에 대한 관심과 장기적인 성장 가능성을 어필합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52959556",
-    "site": "Saramin",
-    "title": "아만티호텔서울 경영지원팀(총무,출납) 채용 공고",
-    "company": "(주)원앤온니에이엠씨",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52959556&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=af39e349-94b3-4139-aad8-dcc3a0432f0a",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-01-31T02:03:31.440401",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "아만티호텔서울에서 경영지원팀(총무, 출납) 담당자를 채용합니다. 총무 및 출납 업무 경력자를 우대하며, 호텔 산업에 대한 이해와 꼼꼼함, 책임감을 중요하게 평가합니다. 급여 및 복지 조건은 회사 내규에 따릅니다.",
-      "required_skills": [
-        "총무 업무 경험",
-        "출납 업무 경험",
-        "꼼꼼한 성격",
-        "책임감",
-        "MS Office 활용 능력 (Excel 필수)",
-        "원활한 커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "호텔 산업에 대한 관심과 이해도를 보여주는 경험을 구체적으로 작성 (ex: 호텔 아르바이트 경험, 호텔 관련 교육 수강 경험 등)",
-        "총무 및 출납 관련 경험을 중심으로 꼼꼼함과 책임감을 어필 (정확한 자료 관리, 기한 내 업무 완료 경험 등)",
-        "지원하는 아만티호텔서울에 대한 이해와 기여 의지를 명확히 제시 (호텔의 강점, 개선점 분석 및 지원하는 직무를 통해 기여할 수 있는 부분 제시)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52794787",
-    "site": "Saramin",
-    "title": "Research Scientist Internship(Data Intelligence)",
-    "company": "(주)엘지경영개발원",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52794787&location=ts&searchword=Data+Scientist&searchType=search&paid_fl=n&search_uuid=a6248c22-f757-404b-a818-574d6b5c8b93",
-    "deadline": "오늘마감",
-    "hidden_keyword": "Data Scientist",
-    "scraped_at": "2026-01-30T17:25:45.067400",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "데이터 인텔리전스 분야의 Research Scientist 인턴십 채용 공고이며, 머신러닝/딥러닝 모델 개발 및 실험, 데이터 분석 및 인사이트 도출, 연구 결과 발표 및 논문 작성 등을 수행합니다. 석/박사 과정 학생 또는 졸업생을 대상으로 하며, 관련 분야 경험과 뛰어난 문제 해결 능력을 요구합니다.",
-      "required_skills": [
-        "머신러닝/딥러닝 모델링",
-        "데이터 분석 및 시각화",
-        "Python 또는 R 프로그래밍"
-      ],
-      "cover_letter_strategy": [
-        "개인 프로젝트 또는 연구 경험을 통해 데이터 분석 및 모델링 능력을 구체적으로 제시하고, 실제 성과를 강조합니다.",
-        "공고에서 제시된 기술 스택(Python, R, TensorFlow, PyTorch 등)에 대한 숙련도를 입증하고, 관련 경험을 상세히 설명합니다.",
-        "데이터 인텔리전스 분야에 대한 깊은 관심과 학습 의지를 보여주고, 인턴십을 통해 얻고자 하는 목표와 회사 기여 방안을 명확히 제시합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52766047",
-    "site": "Saramin",
-    "title": "[6개월 인턴] Associate Product Manager(Experience파트)",
-    "company": "(주)버즈빌",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52766047&location=ts&searchword=Data+Scientist&searchType=search&paid_fl=n&search_uuid=a6248c22-f757-404b-a818-574d6b5c8b93",
-    "deadline": "오늘마감",
-    "hidden_keyword": "Data Scientist",
-    "scraped_at": "2026-01-30T17:25:45.067359",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "6개월 인턴 Associate Product Manager(Experience파트) 채용 공고이며, Product Manager 경험을 쌓을 수 있는 기회입니다. Experience 파트에서 사용자 경험 개선 및 제품 개발에 기여할 인재를 찾고 있습니다. 구체적인 JD는 상세 공고를 참고해야 합니다.",
-      "required_skills": [
-        "Product Sense (제품 감각)",
-        "데이터 분석 능력",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "Experience 파트에 대한 높은 이해도와 관심도를 어필하고, 관련 경험 (예: UX/UI 관련 프로젝트, 사용자 리서치 경험)을 구체적인 성과와 함께 제시합니다.",
-        "데이터 분석 능력과 이를 바탕으로 제품 개선에 기여할 수 있음을 강조합니다. (예: A/B 테스트 결과 분석, 사용자 행동 분석 경험)",
-        "뛰어난 커뮤니케이션 능력과 협업 능력을 보여줄 수 있는 경험을 제시합니다. (예: 다양한 팀과의 협업 경험, 효과적인 의사 전달 능력)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52809529",
-    "site": "Saramin",
-    "title": "[신입] 보건의료 용어 표준화 전문가",
-    "company": "(주)카카오헬스케어",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52809529&location=ts&searchword=Data+Scientist&searchType=search&paid_fl=n&search_uuid=a6248c22-f757-404b-a818-574d6b5c8b93",
-    "deadline": "오늘마감",
-    "hidden_keyword": "Data Scientist",
-    "scraped_at": "2026-01-30T17:25:45.067321",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "보건의료 용어 표준화 신입 전문가 채용 공고입니다. 주요 업무는 보건의료 용어 및 코드 표준화, 데이터 품질 관리, 관련 시스템 운영 및 개선입니다. 보건 관련 학문 전공자를 우대하며, 데이터 분석 및 정보 관리 역량을 필요로 합니다.",
-      "required_skills": [
-        "보건 관련 지식 (의학, 보건학, 간호학 등)",
-        "데이터 분석 및 품질 관리",
-        "표준화 관련 지식 (HL7, ICD, SNOMED CT 등)"
-      ],
-      "cover_letter_strategy": [
-        "보건의료 분야에 대한 관심과 이해도를 명확히 드러내고, 용어 표준화의 중요성에 대한 인식을 어필합니다.",
-        "데이터 분석 능력과 정보 관리 역량을 구체적인 경험을 바탕으로 강조합니다. (예: 학부 연구 프로젝트, 데이터 분석 스터디 참여 경험)",
-        "표준화 관련 경험 (관련 교육 이수, 프로젝트 참여 등)이 있다면 적극적으로 어필하고, 관련 지식이 부족하다면 학습 의지를 강조합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52835070",
-    "site": "Saramin",
-    "title": "관리본부 회계팀 / 철강본부 품질보증팀 인턴사원 채용",
-    "company": "(주)동국에스엔씨",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52835070&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=fcb2b76a-f669-476d-acb2-408eb0dcd019",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-01-30T17:25:45.067189",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "관리본부 회계팀 및 철강본부 품질보증팀에서 인턴 사원을 채용합니다. 직무 관련 경험과 성장 가능성을 어필하는 것이 중요합니다. 꼼꼼함과 책임감을 강조하여 지원자의 역량을 보여주세요.",
-      "required_skills": [
-        "회계/재무 지식 (회계팀)",
-        "품질 관리 지식 (품질보증팀)",
-        "MS Office 활용 능력"
-      ],
-      "cover_letter_strategy": [
-        "인턴 경험 또는 관련 프로젝트 경험을 구체적으로 작성하고, 성과를 정량적으로 제시합니다.",
-        "지원하는 팀(회계/품질보증)에 대한 이해도를 보여주고, 해당 직무에 대한 관심과 학습 의지를 강조합니다.",
-        "꼼꼼함, 책임감, 분석력 등 직무 수행에 필요한 성격적 강점을 사례를 들어 어필합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52924340",
-    "site": "Saramin",
-    "title": "[비엠에스] 경영지원팀 회계담당자 신입 채용",
-    "company": "(주)비엠에스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52924340&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=fcb2b76a-f669-476d-acb2-408eb0dcd019",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-01-30T17:25:45.067132",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "비엠에스에서 경영지원팀 회계담당 신입을 채용합니다. 주요 업무는 회계 전반 및 재무 보고 관련 업무입니다. 꼼꼼함과 책임감, 원활한 커뮤니케이션 능력을 중요하게 평가할 것으로 예상됩니다.",
-      "required_skills": [
-        "회계 관련 지식 (회계원리, 재무회계 등)",
-        "꼼꼼하고 정확한 업무 처리 능력",
-        "MS Office 활용 능력 (Excel 필수, Powerpoint 활용 가능)",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "회계 관련 과목 수강 경험 및 성적 강조: 학교에서 배운 회계 지식을 실제 업무에 적용할 수 있음을 어필하고, 관련 과목 성적을 구체적으로 제시하여 학습 능력과 성실성을 보여주세요.",
-        "꼼꼼함과 책임감을 보여주는 경험 제시: 아르바이트, 동아리 활동, 봉사활동 등 어떤 경험이든 꼼꼼하게 업무를 처리하고 책임을 다했던 경험을 구체적인 사례를 들어 설명하세요. 숫자를 다루는 업무에 적합한 성격임을 강조합니다.",
-        "MS Office 활용 능력 어필: Excel 활용 경험 (함수 사용, 데이터 분석 등)을 구체적으로 언급하고, 실제 프로젝트 경험을 바탕으로 실무 능력을 어필하세요. Powerpoint 활용 경험도 있다면 함께 언급하여 가산점을 노려보세요."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52855324",
-    "site": "Saramin",
-    "title": "신입 수시 채용 [회계]",
-    "company": "(주)인동에프엔",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52855324&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=fcb2b76a-f669-476d-acb2-408eb0dcd019",
-    "deadline": "오늘마감",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-01-30T17:25:45.067108",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "신입 회계 담당자 수시 채용 공고입니다. 회계 관련 지식과 꼼꼼함, 책임감을 중요하게 평가할 것으로 예상됩니다. 적극적인 자세와 성장 가능성을 어필하는 것이 중요합니다.",
-      "required_skills": [
-        "회계 지식",
-        "꼼꼼함",
-        "책임감"
-      ],
-      "cover_letter_strategy": [
-        "회계 관련 전공 지식 및 학습 경험을 구체적인 사례와 함께 제시하여 직무 이해도를 어필합니다.",
-        "꼼꼼함과 책임감을 보여주는 경험 (예: 학업, 프로젝트, 아르바이트 등)을 예시를 통해 구체적으로 제시하여 신뢰도를 높입니다.",
-        "회계 분야에 대한 성장 가능성과 학습 의지를 강조하고, 회사에 기여하고자 하는 적극적인 자세를 어필합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52480724",
-    "site": "Saramin",
-    "title": "[코스닥] 경영전략본부 재무팀 팀원 모집(신입)",
-    "company": "(주)디티앤씨",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52480724&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=869adf70-8456-4d12-80d5-d95032c997bb",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "재무",
-    "scraped_at": "2026-01-30T17:25:45.067074",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "코스닥 상장사 경영전략본부 재무팀 신입 팀원 채용 공고입니다. 재무 관련 지식과 꼼꼼함, 책임감을 강조하고 있습니다. 성장 가능성이 높은 회사에서 재무 전문가로 커리어를 시작할 기회입니다.",
-      "required_skills": [
-        "재무회계 지식",
-        "Excel 활용 능력",
-        "꼼꼼함과 책임감",
-        "원활한 커뮤니케이션 능력",
-        "데이터 분석 능력 (우대 사항 고려)"
-      ],
-      "cover_letter_strategy": [
-        "재무 관련 학습 경험 및 성과 강조 (전공 과목, 관련 자격증, 프로젝트 경험 등 구체적 사례 제시)",
-        "꼼꼼함과 책임감을 보여주는 경험 어필 (데이터 관리, 마감 기한 준수, 문제 해결 경험 등)",
-        "성장 가능성에 대한 열정과 회사에 대한 이해도를 연결하여 지원 동기 작성 (회사의 성장 전략에 대한 관심, 재무팀 역할에 대한 이해 등)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52829675",
-    "site": "Saramin",
-    "title": "(주)에이팩 회계 재무 담당 신입 사원 모집",
-    "company": "(주)에이팩",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52829675&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=869adf70-8456-4d12-80d5-d95032c997bb",
-    "deadline": "오늘마감",
-    "hidden_keyword": "재무",
-    "scraped_at": "2026-01-30T17:25:45.067062",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52908068",
-    "site": "Saramin",
-    "title": "재무 및 회계, 채용연계형 인턴사원 채용",
-    "company": "(주)한국종합기술",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52908068&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=869adf70-8456-4d12-80d5-d95032c997bb",
-    "deadline": "오늘마감",
-    "hidden_keyword": "재무",
-    "scraped_at": "2026-01-30T17:25:45.066950",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "재무/회계 분야 채용연계형 인턴 채용 공고이며, 정규직 전환 기회를 제공합니다. 재무 및 회계 관련 지식과 실무 경험을 쌓을 수 있는 기회입니다. 적극적이고 성장 가능성이 높은 인재를 찾고 있습니다.",
-      "required_skills": [
-        "재무/회계 지식",
-        "데이터 분석 능력",
-        "커뮤니케이션 능력"
-      ],
-      "cover_letter_strategy": [
-        "재무/회계 관련 학습 경험 및 성과 구체적 제시 (관련 수업, 자격증, 프로젝트 등)",
-        "데이터 분석 능력 및 관련 경험 강조 (Excel 활용 능력, 통계 분석 경험 등)",
-        "인턴십을 통해 얻고 싶은 목표와 회사 기여 방안 제시 (성장 의지와 적극적인 자세 어필)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52907864",
-    "site": "Saramin",
-    "title": "리크루터 인턴",
-    "company": "(주)코드잇",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52907864&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=f66e3c8f-1814-438d-95a0-061917053ee9",
-    "deadline": "오늘마감",
-    "hidden_keyword": "HRM",
-    "scraped_at": "2026-01-30T17:25:45.066773",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "본 공고는 리크루터 인턴 채용 공고이며, 채용 관련 다양한 업무 지원을 통해 실무 경험을 쌓을 수 있는 기회 제공. 인턴으로서 채용 프로세스 전반에 대한 이해도를 높이고, HR 분야 커리어를 위한 발판 마련 가능.",
-      "required_skills": [
-        "커뮤니케이션 능력",
-        "꼼꼼함 및 책임감",
-        "MS Office 활용 능력"
-      ],
-      "cover_letter_strategy": [
-        "채용 및 HR 분야에 대한 높은 관심과 학습 의지 강조 (지원 동기 명확히 제시)",
-        "인턴 경험 또는 관련 프로젝트 경험을 구체적으로 제시 (실무 적응력 어필)",
-        "적극적인 자세와 뛰어난 문제 해결 능력을 어필 (성장 가능성 강조)"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52952647",
-    "site": "Saramin",
-    "title": "[에스에프씨] 스틱제조 (생산직) 부문 계약직 채용",
-    "company": "에스에프씨 주식회사",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52952647&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=17609a3f-197f-4dbd-86f7-82e48cfd7d5d",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "채용",
-    "scraped_at": "2026-01-30T17:25:45.066631",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52919475",
-    "site": "Saramin",
-    "title": "2026년 상반기 현대글로비스 글로벌물류운영 신입채용(수시)",
-    "company": "현대글로비스(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52919475&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=17609a3f-197f-4dbd-86f7-82e48cfd7d5d",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "채용",
-    "scraped_at": "2026-01-30T17:25:45.066574",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "현대글로비스 2026년 상반기 글로벌물류운영 신입 수시 채용 공고입니다. 글로벌 물류 운영 직무에 대한 신입 인재를 찾고 있습니다. 상세 직무 내용은 공고 전문을 참고해야 합니다.",
-      "required_skills": [
-        "글로벌 시장 및 물류에 대한 이해",
-        "문제 해결 능력 및 분석적 사고",
-        "커뮤니케이션 및 협업 능력"
-      ],
-      "cover_letter_strategy": [
-        "글로벌 물류 산업에 대한 관심과 이해도를 구체적인 경험과 연결하여 어필 (예: 관련 분야 인턴, 프로젝트 경험 등)",
-        "데이터 분석 능력, 문제 해결 능력, 외국어 능력 등 직무 관련 강점을 명확히 제시하고, 성과를 정량적으로 제시",
-        "현대글로비스의 비전과 가치에 대한 공감대를 보여주고, 회사 성장에 기여하고자 하는 열정을 진솔하게 표현"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52841915",
-    "site": "Saramin",
-    "title": "현대엠아이비인터내셔널 경영관리본부 신입사원 모집 - 회계·세무·재무",
-    "company": "현대엠아이비인터내셔널",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52841915&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=5ddb5c93-61fa-419c-97e7-9286966c8c19",
-    "deadline": "오늘마감",
-    "hidden_keyword": "세무",
-    "scraped_at": "2026-01-30T17:25:45.066562",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52896831",
-    "site": "Saramin",
-    "title": "연구소 사무행정 직무 신입사원 모집",
-    "company": "(주)제뉴원사이언스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52896831&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=37690e13-406f-4737-ae22-f3c801c804f3",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "HRD",
-    "scraped_at": "2026-01-30T17:25:45.066294",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52895768",
-    "site": "Saramin",
-    "title": "[어시스턴트] 데이터 산출 지원",
-    "company": "(주)카카오페이",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52895768&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&searchType=search&paid_fl=n&search_uuid=ce46b402-f5e2-40cf-9bd9-2cda529bb56f",
-    "deadline": "오늘마감",
-    "hidden_keyword": "데이터 엔지니어",
-    "scraped_at": "2026-01-30T17:25:45.066193",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52535809",
-    "site": "Saramin",
-    "title": "전산실 AI(인공지능) 서버 운영 관리",
-    "company": "IPEA(정보처리기사협회)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52535809&location=ts&searchword=AI&searchType=search&paid_fl=n&search_uuid=49e129fd-99a1-4127-9147-5b8b6a62ab5a",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-01-30T17:25:45.065608",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "전산실 AI 서버 운영 및 관리를 담당할 인재 채용 공고입니다. 주요 업무는 AI 서버의 안정적인 운영, 장애 처리 및 성능 최적화입니다. 관련 기술 경험과 문제 해결 능력을 갖춘 지원자를 찾고 있습니다.",
-      "required_skills": [
-        "Linux 서버 운영 경험",
-        "AI 서버(GPU 서버) 관리 경험",
-        "네트워크 기본 지식",
-        "장애 처리 및 문제 해결 능력"
-      ],
-      "cover_letter_strategy": [
-        "AI 서버 운영 및 관리 경험을 구체적인 프로젝트 경험과 함께 강조합니다 (예: GPU 서버 관리, CUDA 설정 경험 등).",
-        "본인이 가진 문제 해결 능력 및 위기 대처 능력을 실제 사례를 통해 어필합니다 (예: 서버 장애 발생 시 신속하게 원인을 파악하고 해결했던 경험).",
-        "회사의 AI 서비스 및 기술에 대한 이해도를 보여주고, 해당 분야에 대한 학습 의지를 적극적으로 표현합니다."
-      ]
-    }
-  },
-  {
-    "id": "saramin_52896494",
-    "site": "Saramin",
-    "title": "[플랫폼본부] AI 엔지니어 (인턴)",
-    "company": "(주)넥슨코리아",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52896494&location=ts&searchword=AI&searchType=search&paid_fl=n&search_uuid=49e129fd-99a1-4127-9147-5b8b6a62ab5a",
-    "deadline": "오늘마감",
-    "hidden_keyword": "AI",
-    "scraped_at": "2026-01-30T17:25:45.065519",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_52713919",
-    "site": "Saramin",
-    "title": "AI(이미지 생성형 AI) 개발자 (신입)",
-    "company": "라이프스케이프(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52713919&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=d6b5df4f-6f00-4413-aeca-34f0ba6e8aca",
-    "deadline": "오늘마감",
-    "hidden_keyword": "머신러닝",
-    "scraped_at": "2026-01-30T17:25:45.065509",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "이미지 생성형 AI 개발 신입 채용 공고이며, 필수/우대 조건들을 통해 지원자의 역량을 확인하고자 함. 특히, 이미지 생성 AI 모델 개발 및 관련 기술 이해도를 중요하게 평가할 것으로 예상됨. 주도적인 문제 해결 능력과 성장 가능성을 어필하는 것이 중요.",
-      "required_skills": [
-        "Python 프로그래밍",
-        "딥러닝 프레임워크(TensorFlow, PyTorch) 사용 경험",
-        "이미지 처리 및 컴퓨터 비전 기초 지식"
-      ],
-      "cover_letter_strategy": [
-        "이미지 생성 AI 관련 프로젝트 경험 강조 (개인 프로젝트, 스터디 등)",
-        "딥러닝 및 이미지 처리 관련 학습 경험 및 이해도 어필 (논문 리뷰, 컨퍼런스 참석 등)",
-        "새로운 기술 학습에 대한 적극적인 자세 및 성장 가능성 강조"
-      ]
-    }
-  },
-  {
-    "id": "saramin_52922809",
-    "site": "Saramin",
-    "title": "[㈜딥엑스] AI반도체 신입 (학/석/박사) HW / SW 엔지니어 모집",
-    "company": "(주)딥엑스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52922809&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=d6b5df4f-6f00-4413-aeca-34f0ba6e8aca",
-    "deadline": "~ 02/02(월)",
-    "hidden_keyword": "머신러닝",
-    "scraped_at": "2026-01-30T17:25:45.044520",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "딥엑스에서 AI 반도체 HW/SW 분야 신입 엔지니어를 학/석/박사 대상으로 모집합니다. 주요 업무는 AI 반도체 개발 및 관련 SW 개발이며, 다양한 전공 분야 지원 가능합니다. 채용 규모는 구체적으로 명시되지 않았으나, 딥엑스의 성장과 함께 핵심 인력을 확보하려는 것으로 보입니다.",
-      "required_skills": [
-        "C/C++ 프로그래밍 능력",
-        "컴퓨터 구조 및 운영체제 이해",
-        "AI/머신러닝 기본 지식"
-      ],
-      "cover_letter_strategy": [
-        "AI 반도체 분야에 대한 높은 관심과 학습 의지를 강조: 딥엑스가 AI 반도체 스타트업인 만큼, 해당 분야에 대한 열정을 보여주는 것이 중요합니다.",
-        "본인의 강점과 경험을 딥엑스의 필요 역량과 연결: 프로젝트 경험, 연구 경험 등을 통해 HW 또는 SW 분야에서 기여할 수 있음을 구체적으로 어필해야 합니다.",
-        "문제 해결 능력 및 협업 능력 어필: 엔지니어로서의 기본적인 역량과 더불어, 딥엑스 팀에 잘 융화될 수 있다는 점을 강조하는 것이 좋습니다."
       ]
     }
   },
@@ -8620,6 +7892,245 @@
     }
   },
   {
+    "id": "wanted_339215",
+    "site": "Wanted",
+    "title": "글로벌 브랜드 경영지원/마케팅 서포터 (신입 가능)",
+    "company": "큐라에스",
+    "link": "https://www.wanted.co.kr/wd/339215",
+    "deadline": "",
+    "hidden_keyword": "AI AGENT",
+    "scraped_at": "2026-02-02T04:41:32.048300",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "글로벌 브랜드의 경영지원 및 마케팅 업무를 지원하는 신입 가능 채용 공고입니다. 다양한 업무 경험을 통해 글로벌 브랜드 운영 전반을 배울 수 있는 기회입니다. 서포터 역할이지만, 실제 업무에 기여하며 성장할 수 있는 점을 강조합니다.",
+      "required_skills": [
+        "영어 Communication 능력 (필수)",
+        "MS Office 활용 능력 (Excel, PowerPoint)",
+        "꼼꼼함과 책임감"
+      ],
+      "cover_letter_strategy": [
+        "글로벌 브랜드에 대한 관심과 이해도를 보여주는 경험 (관련 프로젝트 참여, 외국 문화 경험 등)을 구체적으로 작성합니다.",
+        "지원하는 직무(경영지원/마케팅)와 관련된 경험 (인턴, 아르바이트, 동아리 활동 등)을 통해 얻은 성과를 정량적으로 제시하고, 직무 적합성을 어필합니다.",
+        "학습 능력과 성장 가능성을 강조합니다. 빠르게 변화하는 글로벌 트렌드에 대한 관심과 배우려는 자세를 보여주며, 팀에 기여하고자 하는 열정을 어필합니다."
+      ]
+    }
+  },
+  {
+    "id": "incruit_2602020002348",
+    "site": "Incruit",
+    "title": "세종사이버대학교  IT학부 학부조교 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602020002348&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-02-02T04:41:32.042862",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "세종사이버대학교 IT학부에서 학부조교를 채용합니다. 주요 업무는 학부 행정 업무 지원, 학생 질의 응답, 온라인 교육 시스템 관리 등입니다. IT 관련 지식 및 원활한 커뮤니케이션 능력을 갖춘 지원자를 우대합니다.",
+      "required_skills": [
+        "문서작성 능력 (워드, 엑셀, 파워포인트)",
+        "온라인 교육 시스템 활용 능력",
+        "원활한 커뮤니케이션 능력"
+      ],
+      "cover_letter_strategy": [
+        "IT학부에 대한 관심과 이해도를 보여주세요. 특히 세종사이버대학교 IT학부의 특징과 강점에 대한 이해를 어필하세요.",
+        "조교 업무에 필요한 실무 능력을 구체적인 경험을 바탕으로 어필하세요. (예: 엑셀 활용 경험, 온라인 학습 플랫폼 사용 경험 등)",
+        "성실하고 책임감 있는 자세를 강조하고, 긍정적인 소통 능력을 어필하여 팀워크에 기여할 수 있음을 어필하세요."
+      ]
+    }
+  },
+  {
+    "id": "incruit_2602020001222",
+    "site": "Incruit",
+    "title": "[김해시도시개발공사] 진영스포츠센터팀 기간제근로자 (육아휴직 대체인력) 공개채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602020001222&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "scraped_at": "2026-02-02T04:41:31.916116",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "김해시도시개발공사 진영스포츠센터팀에서 육아휴직 대체 기간제 근로자를 채용합니다. 스포츠센터 운영 및 관리 업무를 수행하며, 관련 경험이 있는 지원자를 우대합니다. 서류, 면접 전형을 거쳐 최종 합격자를 선발합니다.",
+      "required_skills": [
+        "고객 응대 능력",
+        "스포츠센터 시설 관리 지식",
+        "컴퓨터 활용 능력 (문서 작성 등)"
+      ],
+      "cover_letter_strategy": [
+        "스포츠센터 또는 유사 시설에서의 근무 경험을 구체적으로 기술하여 즉시 전력으로 투입 가능하다는 점을 어필합니다.",
+        "고객 만족을 위한 적극적인 자세와 원활한 소통 능력을 강조하여 서비스 마인드를 보여줍니다.",
+        "관련 자격증 (예: 수상안전, 응급처치) 보유 시 명시하고, 지원하는 직무에 대한 이해도를 높이는 것이 중요합니다."
+      ]
+    }
+  },
+  {
+    "id": "incruit_2602020001249",
+    "site": "Incruit",
+    "title": "구매/자산관리",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602020001249&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "scraped_at": "2026-02-02T04:41:31.905417",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "본 채용 공고는 구매 및 자산 관리 직무를 모집하며, 구체적인 업무 내용과 필요 역량은 상세 내용 확인이 필요합니다. 채용 조건은 Entry Level 기준으로 작성되었으며, 자소서 작성 전략이 함께 제시됩니다.",
+      "required_skills": [
+        "(상세 공고 내용 분석 후 기재)",
+        "(상세 공고 내용 분석 후 기재)"
+      ],
+      "cover_letter_strategy": [
+        "(상세 공고 내용 분석 후 기재)",
+        "(상세 공고 내용 분석 후 기재)",
+        "(상세 공고 내용 분석 후 기재)"
+      ]
+    }
+  },
+  {
+    "id": "incruit_2602020001405",
+    "site": "Incruit",
+    "title": "ILE어학원에서  디자인팀 정규직 직원을 모집합니다",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602020001405&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "scraped_at": "2026-02-02T04:41:31.859133",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "ILE어학원에서 디자인팀 정규직을 채용합니다. 구체적인 공고 내용은 확인해야 합니다.",
+      "required_skills": [
+        "디자인 툴 활용 능력 (Photoshop, Illustrator, InDesign 등)",
+        "시각 디자인 기본 원리 이해",
+        "커뮤니케이션 능력 (협업 및 피드백 수용)"
+      ],
+      "cover_letter_strategy": [
+        "어학원이라는 특성을 고려하여 교육 관련 디자인 경험 또는 관심도를 어필 (예: 교육 콘텐츠 디자인 경험, 교육 트렌드에 대한 이해)",
+        "본인의 디자인 스타일과 ILE어학원의 브랜드 이미지와의 적합성을 강조 (어학원 웹사이트, 홍보물 등을 분석하여 유사점 어필)",
+        "신입으로서의 성장 가능성과 배우려는 자세를 적극적으로 어필 (배움에 대한 의지, 빠른 적응력 등을 강조)"
+      ]
+    }
+  },
+  {
+    "id": "incruit_2602020002327",
+    "site": "Incruit",
+    "title": "총무팀 모집합니다 - 사무업무",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602020002327&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "scraped_at": "2026-02-02T04:41:31.847218",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "총무팀 사무업무 담당자 채용 공고입니다. 구체적인 직무 내용은 상세 정보 확인이 필요합니다. 지원 자격 및 우대 조건 등을 꼼꼼히 살펴보고, 관련 경험 및 강점을 어필해야 합니다.",
+      "required_skills": [
+        "문서 작성 능력",
+        "사무 자동화 프로그램 활용 능력 (Excel, Word 등)",
+        "커뮤니케이션 능력"
+      ],
+      "cover_letter_strategy": [
+        "총무 업무 관련 경험 (인턴, 아르바이트 등) 상세 기술: 구체적인 업무 내용, 성과, 배운 점 등을 정량적으로 제시하여 실무 역량을 어필합니다.",
+        "꼼꼼함과 책임감을 강조: 총무 업무는 꼼꼼함과 책임감이 중요하므로, 관련 경험이나 사례를 제시하여 이러한 강점을 부각합니다.",
+        "빠른 적응력 및 배우려는 자세 어필: 신입의 경우, 빠른 적응력과 배우려는 자세를 어필하여 성장 가능성을 보여주는 것이 중요합니다."
+      ]
+    }
+  },
+  {
+    "id": "jk_48445566",
+    "site": "JobKorea",
+    "title": "[강소기업] 케이웨더(주) 인사총무팀 신입/경력 채용",
+    "company": "케이웨더(주)",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/48445566?Oem_Code=C1&logpath=1&stext=%EC%B4%9D%EB%AC%B4&listno=19&sc=630",
+    "deadline": "03/21(토) 마감",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-02-02T04:41:31.805040",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "케이웨더(주)에서 인사총무팀 신입/경력 직원을 채용합니다. 강소기업으로, 인사, 총무 업무 전반을 수행할 인재를 찾고 있습니다. 신입의 경우 성장 가능성을, 경력직의 경우 즉시 전력으로 활용 가능한 경험을 중요하게 평가할 것으로 예상됩니다.",
+      "required_skills": [
+        "인사 관련 법규 지식",
+        "문서 작성 능력",
+        "커뮤니케이션 능력"
+      ],
+      "cover_letter_strategy": [
+        "케이웨더 및 기상 산업에 대한 관심도 어필 (케이웨더의 사업 분야에 대한 이해)",
+        "인사/총무 관련 아르바이트 또는 인턴 경험 강조 (조직문화, 행정업무 경험)",
+        "꼼꼼함, 책임감, 문제 해결 능력 등 직무 관련 성격적 강점 어필 (성실성, 긍정적인 태도)"
+      ]
+    }
+  },
+  {
+    "id": "saramin_52979001",
+    "site": "Saramin",
+    "title": "[펨트론] SW Tester 채용",
+    "company": "(주)펨트론",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52979001&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=8cbdd990-0e15-43f6-8749-0f800199165e",
+    "deadline": "~ 02/27(금)",
+    "hidden_keyword": "머신러닝",
+    "scraped_at": "2026-02-02T04:41:31.771989",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "펨트론에서 SW Tester를 채용하며, SW 테스트 계획 및 수행, 테스트 케이스 설계, 결함 관리 등을 담당합니다. 펌웨어, PC S/W, Mobile App, Web 등 다양한 환경에서의 테스트 경험을 우대합니다. 적극적인 자세와 문제 해결 능력을 갖춘 인재를 찾고 있습니다.",
+      "required_skills": [
+        "SW 테스트 설계 및 수행",
+        "결함 관리",
+        "문제 해결 능력"
+      ],
+      "cover_letter_strategy": [
+        "다양한 SW 환경(펌웨어, PC S/W, Mobile App, Web 등)에서의 테스트 경험을 구체적인 프로젝트 경험과 함께 강조합니다. 실제 수행했던 테스트의 종류, 사용했던 도구, 발견했던 주요 결함 및 해결 과정 등을 상세히 기술하여 직무 적합성을 어필해야 합니다.",
+        "적극적인 자세와 문제 해결 능력을 보여주는 경험을 제시합니다. 예상치 못한 문제 상황에 직면했을 때, 어떤 방식으로 문제를 분석하고 해결했는지, 그리고 그 과정에서 어떤 역할을 수행했는지 구체적인 사례를 통해 설명해야 합니다.",
+        "펨트론의 제품 및 서비스에 대한 이해도를 보여주는 것이 중요합니다. 펨트론의 사업 분야 및 주요 제품에 대한 사전 조사를 바탕으로, SW 테스터로서 펨트론의 품질 향상에 어떻게 기여할 수 있는지 구체적인 비전을 제시해야 합니다."
+      ]
+    }
+  },
+  {
+    "id": "saramin_52939076",
+    "site": "Saramin",
+    "title": "분당 오리역 세무사 사무실 직원 모십니다",
+    "company": "김태경세무사사무실",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52939076&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=84d87173-34ba-47e6-8e07-d24eb9afaf51",
+    "deadline": "~ 02/26(목)",
+    "hidden_keyword": "세무",
+    "scraped_at": "2026-02-02T04:41:31.771781",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분당 오리역 소재 세무사 사무실에서 직원을 채용합니다. 경력 수준에 따라 급여 및 직급이 결정될 것으로 예상됩니다. 세무회계 관련 기본적인 지식과 꼼꼼함, 성실함 등을 강조하는 것이 중요합니다.",
+      "required_skills": [
+        "전산회계/세무 프로그램 활용 능력 (더존, 세무사랑 등)",
+        "세무회계 기본 지식 (회계원리, 세법개론)",
+        "문서 작성 능력 (워드, 엑셀)"
+      ],
+      "cover_letter_strategy": [
+        "세무회계 관련 교육 이수 경험 및 자격증 취득 (전산회계, 전산세무 등)을 강조하여 기본적인 지식을 어필합니다.",
+        "꼼꼼하고 책임감 있는 성격과 성실함을 어필하고, 세무 업무에 대한 적합성을 강조합니다.",
+        "세무사 사무실 인턴 경험이나 관련 아르바이트 경험이 있다면 구체적인 업무 내용을 상세히 작성하여 실무 적응력을 어필합니다."
+      ]
+    }
+  },
+  {
+    "id": "saramin_52977779",
+    "site": "Saramin",
+    "title": "[서율회계법인 본점 2본부] 회계/세무/기장 신입직원 채용 공고",
+    "company": "서율회계법인",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52977779&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=84d87173-34ba-47e6-8e07-d24eb9afaf51",
+    "deadline": "~ 02/28(토)",
+    "hidden_keyword": "세무",
+    "scraped_at": "2026-02-02T04:41:31.771726",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "서율회계법인 본점 2본부에서 회계/세무/기장 업무를 담당할 신입 직원을 채용합니다. 주요 업무는 회계 감사, 세무 자문, 기장 대행 등이며, 회계/세무 분야에 대한 기본적인 이해와 꼼꼼함, 책임감을 갖춘 인재를 찾고 있습니다. 성장 가능성이 높고 실무 경험을 쌓을 수 있는 기회입니다.",
+      "required_skills": [
+        "회계/세무 지식",
+        "꼼꼼함과 책임감",
+        "원활한 커뮤니케이션 능력"
+      ],
+      "cover_letter_strategy": [
+        "회계/세무 관련 학습 경험 및 성과 강조 (관련 자격증, 교육 수료 등)",
+        "꼼꼼함과 책임감을 보여주는 구체적인 경험 제시 (실수 없이 업무를 완수했던 경험 등)",
+        "팀워크 및 협업 능력 어필 (프로젝트 경험, 팀 활동 경험 등)"
+      ]
+    }
+  },
+  {
     "id": "wanted_339323",
     "site": "Wanted",
     "title": "자사솔루션 구축 및 유지보수 엔지니어",
@@ -8628,7 +8139,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.928538",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "자사 솔루션 구축 및 유지보수 엔지니어를 채용하는 공고입니다. 솔루션 구축, 유지보수, 문제 해결 능력이 요구됩니다. 기술 지원 및 고객과의 커뮤니케이션 능력 또한 중요합니다.",
       "required_skills": [
@@ -8652,7 +8163,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.928473",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "[헤트라스]의 CX 담당자 채용 공고이며, 고객 경험 관리 및 개선을 주 업무로 합니다. 데이터 분석 기반 문제 해결 능력과 커뮤니케이션 능력을 중요하게 평가할 것으로 예상됩니다. 적극적인 자세와 성장 가능성을 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -8676,7 +8187,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.928407",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "헤트라스 사업부에서 사업 기획 인턴을 채용하며, 전환형 인턴으로 정규직 전환 기회가 주어집니다. 사업 전략 수립, 시장 조사, 데이터 분석 등 사업 기획 전반을 지원하는 역할을 수행합니다. 분석적 사고와 커뮤니케이션 능력을 갖춘 인재를 찾고 있습니다.",
       "required_skills": [
@@ -8700,7 +8211,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.928345",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "헤트라스에서 총무 담당자를 채용하며, 시설 관리, 사무 환경 조성, 비품 구매, 행사 지원 등 전반적인 총무 업무를 담당합니다. 꼼꼼함, 책임감, 원활한 커뮤니케이션 능력이 요구되며, 유관 경력은 우대합니다.",
       "required_skills": [
@@ -8725,7 +8236,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.851640",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "뉴질랜드 대사관에서 운전 및 행정 업무를 수행할 인재를 찾고 있습니다. 운전 능력과 기본적인 행정 지원 능력이 요구됩니다. 뉴질랜드 대사관의 이미지에 부합하는 성실하고 책임감 있는 지원자를 우대합니다.",
       "required_skills": [
@@ -8749,7 +8260,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.829061",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "충북 지역 서비스 컨설턴트 채용 공고이며, 청주, 진천, 음성 등 충북 전 지역을 대상으로 합니다. 서비스 컨설턴트로서 고객 응대 및 문제 해결 능력이 중요하며, 지역 사회에 대한 이해도가 필요합니다. 경력 무관 채용으로 보이며, 신입 지원자에게도 기회가 열려있습니다.",
       "required_skills": [
@@ -8773,7 +8284,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.822527",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석/계측 장비 기술 영업 사원 채용 공고이며, 장비에 대한 이해와 고객과의 소통 능력이 중요합니다. 관련 산업 및 시장에 대한 지식과 영업 경험을 가진 인재를 찾고 있습니다.",
       "required_skills": [
@@ -8797,7 +8308,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.813344",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "홈케어서울서부에서 마포구, 용산구, 서대문구, 은평구, 고양시, 파주시, 문산읍 지역을 담당할 홈케어 전문가를 채용합니다. 주요 업무는 해당 지역 내 고객의 가정을 방문하여 홈케어 서비스를 제공하는 것입니다. 상세한 내용은 공고 전문을 참고해야 합니다.",
       "required_skills": [
@@ -8821,7 +8332,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.807043",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "시험분석 서비스 고객 관리 및 기술 지원 담당자 채용 공고입니다. 고객과의 소통을 통해 니즈를 파악하고 분석 서비스를 제공하며, 고객 만족도 향상에 기여하는 역할을 수행합니다. 분석 결과에 대한 기술적인 설명과 문제 해결 능력이 요구됩니다.",
       "required_skills": [
@@ -8845,7 +8356,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.801344",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "전자부품 조립 부업 모집 공고입니다. 특별한 기술 없이도 가능하며, 간단한 손재주와 집중력을 요구할 것으로 예상됩니다. 재택근무 또는 유연한 시간 활용이 가능한 부업일 가능성이 높습니다.",
       "required_skills": [
@@ -8869,7 +8380,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.794525",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "기구 개발 및 설계 직무 채용 공고입니다. 제시된 직무 설명과 자격 요건을 통해 회사가 필요로 하는 인재상을 파악하는 것이 중요합니다. 특히, 해당 분야 경력 및 관련 기술 숙련도를 강조해야 합니다.",
       "required_skills": [
@@ -8893,7 +8404,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.788397",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "기계설비 분야 신입/경력 사원 채용 공고입니다. 상세 직무 내용, 자격 요건, 우대 조건 등을 꼼꼼히 확인 후 지원해야 합니다. 신입의 경우, 관련 전공 지식과 성장 가능성을 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -8917,7 +8428,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.780119",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "글로벌 소비재 기업에서 Para Legal 1년 계약직 채용 공고입니다. 계약서 검토, 법률 문서 작성 및 관리, 내부 법률 지원 등의 업무를 수행합니다. Entry Level 지원자에게 기회가 될 수 있으며, 관련 경험과 꼼꼼함, 커뮤니케이션 능력이 중요합니다.",
       "required_skills": [
@@ -8941,7 +8452,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.765909",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "정수기 냉동 시스템 개발 채용 공고이며, 냉동 시스템 설계 및 개발 경험을 요구합니다. 에너지 효율 향상 및 소음 감소 기술 개발 경험이 우대됩니다. 관련 분야 경력과 문제 해결 능력을 강조하는 것이 중요합니다.",
       "required_skills": [
@@ -8965,7 +8476,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.753741",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "살충제 등 케미컬 개발 팀장 채용 공고입니다. 주요 업무는 살충제 개발 및 팀 관리이며, 관련 분야 경력과 리더십을 요구합니다.",
       "required_skills": [
@@ -8989,7 +8500,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.748284",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "법인영업 담당자를 채용하는 공고입니다. 주요 업무는 신규 법인 고객 발굴 및 관리, 기존 고객과의 관계 강화, 그리고 영업 목표 달성입니다. 제안서 작성 및 프레젠테이션 능력, 뛰어난 커뮤니케이션 능력을 요구합니다.",
       "required_skills": [
@@ -9015,7 +8526,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.742400",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "대전광역시장애아동·발달장애인지원센터에서 2026년도 기간제 계약직(개인별지원팀, 운영지원팀)을 채용합니다. 장애아동 및 발달장애인 지원 관련 업무를 수행하며, 관련 자격 요건 및 경력을 갖춘 지원자를 모집합니다. 상세 자격 요건 및 채용 절차는 공고 원문을 참조해야 합니다.",
       "required_skills": [
@@ -9040,7 +8551,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.705983",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "블라썸에듀 안양 영어학원에서 신규 관리 강사를 채용합니다. 자세한 내용은 공고 전문을 참고해야 합니다. (자세한 업무 내용, 자격 요건, 급여 조건 등은 공고 전문에 기재되어 있을 것으로 예상됩니다.)",
       "required_skills": [
@@ -9063,7 +8574,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.695404",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "현대자동차 마장판매 대리점에서 신차 판매 카마스터를 모집하며, 고객 응대 및 판매 실적 향상에 기여할 인재를 찾고 있습니다. 자동차 판매 경험이 없더라도 적극적인 자세와 고객 중심 마인드를 가진 신입 지원자를 환영합니다. 급여 및 복지 조건은 회사 내규에 따릅니다.",
       "required_skills": [
@@ -9087,7 +8598,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.669989",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "한국중소기업지원센터 영남지사에서 정책자금 관련 프리랜서를 모집합니다. 경영기술지도법인 소속으로 중소기업 정책자금 지원 업무를 수행합니다. 상세 자격 요건 및 우대 조건은 공고 전문을 확인해야 합니다.",
       "required_skills": [
@@ -9111,7 +8622,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.654324",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "에이블 영어에서 3월부터 근무할 초중등 영어 선생님을 모집합니다. 구체적인 자격 요건 및 우대 조건은 공고 전문을 참조해야 합니다. 긍정적이고 학생들과 소통을 잘하는 선생님을 찾는 것으로 예상됩니다.",
       "required_skills": [
@@ -9135,7 +8646,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.646062",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "LS네트웍스 대표이사 비서 채용 공고입니다. 대표이사의 업무를 보좌하며, 능동적이고 꼼꼼한 업무 처리 능력과 뛰어난 커뮤니케이션 역량이 요구됩니다. 비서 경력 및 관련 자격증 소지자를 우대합니다.",
       "required_skills": [
@@ -9159,7 +8670,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.637258",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "수원 카인드짐 매교점에서 오후 트레이너를 구인합니다. 구체적인 자격 요건 및 우대 조건은 공고 전문을 확인해야 합니다. 지원자는 카인드짐의 가치에 부합하고 고객에게 긍정적인 영향을 줄 수 있는 인재를 찾고 있습니다.",
       "required_skills": [
@@ -9183,7 +8694,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.629209",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "카인드짐 24시 휘트니스 매교점에서 트레이너 연습생을 구인합니다. 구체적인 공고 내용은 확인해야 하지만, 트레이너로서 성장할 수 있는 기회를 제공하는 것으로 보입니다. 24시 휘트니스라는 점을 고려하면, 유연한 근무 시간 및 다양한 고객층을 경험할 수 있을 것으로 예상됩니다.",
       "required_skills": [
@@ -9207,7 +8718,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.619759",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "입출고 및 물류 관리 직무 채용 공고로, 신입/경력 모두 지원 가능합니다. 구체적인 업무 범위와 필요 역량은 상세 공고 내용을 확인해야 합니다. 물류 관리 전반에 대한 이해와 책임감, 꼼꼼함이 중요할 것으로 예상됩니다.",
       "required_skills": [
@@ -9231,7 +8742,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.611771",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "수질환경 분야 신입/경력 채용 공고이며, 구체적인 직무 내용은 공고 상세 내용 확인 필요. 수질 환경 관련 지식 및 기술, 문제 해결 능력, 관련 법규 이해 등을 요구할 것으로 예상됨.",
       "required_skills": [
@@ -9255,7 +8766,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.605412",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "케미칼 수출입 전문 기업에서 기획/마케팅 담당자를 채용하며, 대리~과장급 경력자를 대상으로 함. 수출입 관련 기획, 시장 조사, 마케팅 전략 수립 및 실행 능력을 요구하며, 화학 제품에 대한 이해도가 중요함.",
       "required_skills": [
@@ -9282,7 +8793,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.590163",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "동두천중앙성모병원에서 간호조무사를 채용합니다. 자세한 자격 요건 및 근무 조건은 공고 내용을 참고해야 합니다. 성모병원이라는 점을 고려하여 환자 중심의 따뜻한 마음과 책임감을 강조하는 것이 중요합니다.",
       "required_skills": [
@@ -9306,7 +8817,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.581716",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "동두천중앙성모병원 건강검진센터에서 임상심리사를 채용합니다. 건강검진 수검자 대상 심리평가 및 상담을 주 업무로 하며, 관련 자격증 소지자를 우대합니다. 채용 관련 자세한 내용은 공고 전문을 참고해야 합니다.",
       "required_skills": [
@@ -9330,7 +8841,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.564214",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "자동차 부품 생산직 사원 모집 공고입니다. 구체적인 업무 내용은 공고 원문을 참조해야 합니다. 생산직으로서 요구되는 기본적인 자질과 책임감을 강조하는 것이 중요합니다.",
       "required_skills": [
@@ -9354,7 +8865,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.556689",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "현대자동차 삼전대리점에서 영업사원을 모집하며, 자동차 판매 및 고객 관리를 주요 업무로 합니다. 상세 내용은 공고 전문을 확인해야 합니다.",
       "required_skills": [
@@ -9378,7 +8889,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.547677",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 채용은 화장품 R&D 분야 책임연구원을 모집하는 공고이며, 제형 연구 및 신제품 개발 경험, 분석 능력, 그리고 리더십을 요구합니다. 특히, 시장 트렌드에 대한 이해와 창의적인 아이디어를 바탕으로 제품 개발을 주도할 수 있는 인재를 찾고 있습니다.",
       "required_skills": [
@@ -9402,7 +8913,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.541093",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "나주농업진흥재단 로컬푸드지원센터에서 기간제 근로자를 채용합니다. 로컬푸드 직매장 운영 및 관리, 농산물 품질 관리, 고객 응대 등의 업무를 수행하며, 관련 경험과 역량을 갖춘 지원자를 찾고 있습니다.",
       "required_skills": [
@@ -9426,7 +8937,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.510254",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "절삭공구 전문기업에서 해외영업 팀장을 모집하며, 절삭공구 산업에 대한 높은 이해도와 해외영업 경력을 중요하게 평가할 것으로 예상됨. 팀장 리더십 경험과 함께 적극적인 시장 개척 및 관리 능력이 필요하며, 영어 구사 능력은 필수적임.",
       "required_skills": [
@@ -9450,7 +8961,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.501762",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "더스에서 해외사업(수출) 및 마케팅 담당자를 채용합니다. 성과금 및 최고 수준의 복지를 제공합니다. 상세 직무 내용은 공고 전문을 확인해야 합니다.",
       "required_skills": [
@@ -9474,7 +8985,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.484704",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "모두의연구소에서 진행하는 부트캠프 교육 운영을 지원하는 CS/사무보조 아르바이트 채용 공고입니다. 교육생 응대, 질의응답, 학습 환경 조성 등 CS 업무와 행정 업무 지원을 주요 내용으로 합니다. 교육 관련 경험이나 IT 분야에 대한 이해가 있으면 유리합니다.",
       "required_skills": [
@@ -9498,7 +9009,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.479424",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "OVLR 여주물류센터에서 물류현장직 정규직을 채용합니다. 주 업무는 물류센터 내 입출고, 재고관리, 분류, 포장 등 현장 작업입니다. 학력, 경력 무관하게 지원 가능하며 성실하고 책임감 있는 인재를 찾고 있습니다.",
       "required_skills": [
@@ -9522,7 +9033,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.467072",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "유초중 고객센터에서 일반/기술 상담 관리자를 채용합니다. 고객 응대 경험과 문제 해결 능력을 갖춘 인재를 찾고 있습니다. 교육 서비스에 대한 이해도가 높고, 긍정적인 소통 능력을 가진 지원자를 우대합니다.",
       "required_skills": [
@@ -9546,7 +9057,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.458631",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분당 메가스터디학원에서 입시 담임을 채용하며, 학생 관리, 입시 상담, 학부모 소통 능력이 요구됨. 학원 성장과 학생 성공을 함께 이끌어갈 인재를 찾고 있음.",
       "required_skills": [
@@ -9566,7 +9077,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.449296",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "THE CUBE에서 클라이언트 프로그래머 경력직을 모집합니다. 게임 클라이언트 개발 경험자를 찾고 있으며, 즉시 전력으로 투입 가능한 인재를 선호합니다.",
       "required_skills": [
@@ -9590,7 +9101,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.443007",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "중견 오디오 디바이스 기업에서 HW 회로 설계 개발자를 채용합니다. 주요 업무는 오디오 제품 회로 설계, 개발, 검증이며, 관련 경력과 지식을 요구합니다. 오디오 분야에 대한 이해와 문제 해결 능력이 중요합니다.",
       "required_skills": [
@@ -9614,7 +9125,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.437250",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "중견 오디오 디바이스 기업에서 중국 시장 해외영업 담당자를 채용합니다. 주요 업무는 중국 시장 영업 전략 수립 및 실행, 고객 관리, 시장 조사 및 분석입니다. 중국어 능통 및 관련 경력 보유자를 우대합니다.",
       "required_skills": [
@@ -9640,7 +9151,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.431617",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "신규 MMORPG 프로젝트에 참여할 경력 이펙트 아티스트를 모집합니다. 이펙트 제작 및 연출 능력을 요구하며, 다양한 툴 사용 경험과 MMORPG 장르 이해도를 중요하게 평가합니다. 창의적인 이펙트 디자인과 최적화 능력을 갖춘 인재를 찾고 있습니다.",
       "required_skills": [
@@ -9664,7 +9175,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.425859",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "대구/진주 지역 플라톤 독서토론논술 지도교사 모집 공고입니다. 독서, 토론, 논술 지도 역량을 갖춘 인재를 찾고 있습니다. 상세 내용은 공고 전문을 참고해야 합니다.",
       "required_skills": [
@@ -9688,7 +9199,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.418115",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "신규 MMORPG 프로젝트에 참여할 경력직 캐릭터 모델러를 모집합니다. 3D 모델링 및 텍스처링 기술, MMORPG 캐릭터 제작 경험, 팀 협업 능력 등을 중요하게 평가합니다.",
       "required_skills": [
@@ -9712,7 +9223,7 @@
     "deadline": "",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.412794",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 채용 공고는 국비지원 KDT 과정으로, AI 기술을 활용한 언리얼 엔진 기반 게임 프로그래밍 및 VR 콘텐츠 개발 교육생을 모집합니다. 3D 게임 및 VR 관련 기술 습득 기회를 제공하며, 특히 언리얼 엔진 활용 능력을 강조합니다. 교육 과정을 통해 해당 분야 취업을 목표로 하는 사람들에게 적합합니다.",
       "required_skills": [
@@ -9737,7 +9248,7 @@
     "deadline": "",
     "hidden_keyword": "세무",
     "scraped_at": "2026-02-02T04:21:25.322269",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "무역사무, 서류, 경리 업무를 수행할 신입/경력 정규직 채용 공고입니다. 폭넓은 업무 범위를 요구하며, 꼼꼼함과 책임감을 중요하게 평가할 것으로 예상됩니다. 신입의 경우, 빠른 학습 능력과 성장 가능성을 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -9761,7 +9272,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.230008",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "K-POP 엔터테크 기업에서 글로벌 마케팅 리드를 채용합니다. 주요 업무는 글로벌 마케팅 전략 수립 및 실행, 해외 시장 분석, 마케팅 캠페인 관리입니다. 엔터테인먼트와 기술에 대한 이해를 바탕으로 글로벌 시장에서 K-POP의 영향력을 확대할 리더를 찾고 있습니다.",
       "required_skills": [
@@ -9785,7 +9296,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.224416",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "경영 데이터 관리 및 분석 담당자를 채용하는 공고입니다. 데이터 수집, 정제, 분석, 시각화 등을 통해 경영 의사결정에 기여할 인재를 찾고 있습니다. 데이터 분석 툴 활용 능력 및 비즈니스 이해도가 중요합니다.",
       "required_skills": [
@@ -9809,7 +9320,7 @@
     "deadline": "",
     "hidden_keyword": "데이터 분석",
     "scraped_at": "2026-02-02T04:21:25.208584",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "미국계 소비재 기업에서 5-12년 경력의 화장품 마케팅 매니저를 채용합니다. 주요 업무는 브랜드 전략 수립 및 실행, 신제품 출시 관리, 마케팅 캠페인 기획 및 실행 등입니다. 영어 능력이 필수적이며, 화장품 업계 경험과 디지털 마케팅 역량을 중요하게 평가합니다.",
       "required_skills": [
@@ -9836,7 +9347,7 @@
     "deadline": "02/28(토) 마감",
     "hidden_keyword": "Data Scientist",
     "scraped_at": "2026-02-02T04:21:25.187998",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "본 공고는 국비지원으로 진행되는 IT 취업 교육 과정이며, JAVA 웹 개발, 프론트엔드, 백엔드, 풀스택, 빅데이터, 인공지능 등 다양한 분야의 자바 개발자를 양성하는 것을 목표로 합니다. 교육 과정은 취업을 위한 실무 중심의 교육을 제공할 것으로 예상됩니다.",
       "required_skills": [
@@ -9860,7 +9371,7 @@
     "deadline": "02/28(토) 마감",
     "hidden_keyword": "인사",
     "scraped_at": "2026-02-02T04:21:25.177662",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "DB생명 창원TC지점에서 신입 및 경력직을 대규모로 모집하며, 관리자 포지션 또한 채용합니다. 신입에게는 성장의 기회를, 경력자에게는 역량 발휘의 장을 제공할 것으로 예상됩니다. 창원 지역 거주자에게 유리하며, 금융/영업 관련 경험이 있다면 더욱 경쟁력 있을 것으로 보입니다.",
       "required_skills": [
@@ -9884,7 +9395,7 @@
     "deadline": "02/18(수) 마감",
     "hidden_keyword": "인사",
     "scraped_at": "2026-02-02T04:21:25.176125",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "kt M mobile 2026년 상반기 공개 채용 공고입니다. 직무, 자격요건, 전형절차 등 상세 내용은 채용 공고 원문을 확인해야 합니다. 지원자들은 kt M mobile의 성장 가능성과 미래 비전에 대한 이해를 바탕으로 지원해야 합니다.",
       "required_skills": [
@@ -9908,7 +9419,7 @@
     "deadline": "02/08(일) 마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.166541",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "경보제약에서 생산, 분석연구, 임상 부문 채용을 진행합니다. 각 직무별 상세 자격 요건 및 우대 사항을 확인 후 지원해야 합니다. 제약/바이오 산업에 대한 이해와 직무 관련 경험을 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -9932,7 +9443,7 @@
     "deadline": "02/28(토) 마감",
     "hidden_keyword": "채용",
     "scraped_at": "2026-02-02T04:21:25.165260",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "ABB코리아에서 다양한 부문 채용을 진행하며, 각 부문별 요구 역량 및 자격 요건은 상이함. 지원자는 ABB의 가치와 혁신에 대한 이해를 바탕으로 자신의 전문성을 강조해야 함. 채용 절차는 서류 전형, 면접 등으로 구성될 것으로 예상됨.",
       "required_skills": [
@@ -9956,7 +9467,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "Data Analyst",
     "scraped_at": "2026-02-02T04:21:25.158138",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "평택 소재 석유화학 시험원 채용 공고입니다. 주 업무는 석유화학 제품의 품질 관리 및 분석입니다. Entry Level 지원자를 대상으로 하며, 관련 지식 및 꼼꼼함을 강조하는 것이 중요합니다.",
       "required_skills": [
@@ -9980,7 +9491,7 @@
     "deadline": "~ 03/06(금)",
     "hidden_keyword": "총무",
     "scraped_at": "2026-02-02T04:21:25.157833",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "DAECO에서 환경/안전/보건 관리자를 담당할 총무팀 신입사원을 채용합니다. 환경, 안전, 보건 관련 법규 및 실무 지식을 갖춘 인재를 찾고 있으며, 긍정적인 자세와 뛰어난 커뮤니케이션 능력을 요구합니다. 관련 자격증 소지자를 우대하며, 회사 성장에 기여할 책임감 있는 인재를 선호합니다.",
       "required_skills": [
@@ -10004,7 +9515,7 @@
     "deadline": "~ 02/15(일)",
     "hidden_keyword": "인사",
     "scraped_at": "2026-02-02T04:21:25.157397",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "제우인터내셔날에서 인사총무 담당 사원을 채용합니다. 확장 채용이며, 경영지원팀에 소속됩니다. 공고 상세 내용을 확인하여 관련 경험과 역량을 어필하는 것이 중요합니다.",
       "required_skills": [
@@ -10028,7 +9539,7 @@
     "deadline": "~ 02/10(화)",
     "hidden_keyword": "재무",
     "scraped_at": "2026-02-02T04:21:25.157145",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "(주)그린씨에스에서 재무관리실 신입사원을 채용합니다. 채용 직무는 재무, 회계, 자금이며 꼼꼼함과 분석적 사고, 커뮤니케이션 능력을 요구합니다. 관련 자격증 보유자 및 OA 활용 능력이 우수한 지원자를 우대합니다.",
       "required_skills": [
