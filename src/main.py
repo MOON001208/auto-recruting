@@ -51,8 +51,13 @@ def main():
         # But for speed in this demo, we might just analyze based on Title
         job['ai_analysis'] = ai_agent.analyze_job(job['title'], job['title']) 
         
-    # 6. Merge & Save
+    # 6. Merge & Filter
     all_jobs = data_manager.merge_jobs(existing_jobs, new_jobs)
+    
+    # 기한이 지난 공고 자동 삭제
+    print("\n🔍 Checking for expired jobs...")
+    all_jobs = DeadlineChecker.filter_active_jobs(all_jobs)
+    
     # Check deadlines on ALL jobs (even old ones)
     deadline_jobs = DeadlineChecker.get_deadline_day_jobs(all_jobs)
     
