@@ -51,6 +51,7 @@
         let currentCategory = 'all';
         let currentPlatform = 'all';
         let showOnlyDeadlineToday = false;
+        let showOnlyDeadlineTomorrow = false;
         let showOnlyNew = false;
 
         // 플랫폼 목록 (site 필드 기준)
@@ -77,6 +78,8 @@
                 const filterParam = urlParams.get('filter');
                 if (filterParam === 'deadline') {
                     showOnlyDeadlineToday = true;
+                } else if (filterParam === 'tomorrow') {
+                    showOnlyDeadlineTomorrow = true;
                 } else if (filterParam === 'new') {
                     showOnlyNew = true;
                 }
@@ -141,9 +144,32 @@
             updateStats();
         }
 
+        function toggleTomorrowFilter() {
+            showOnlyDeadlineTomorrow = !showOnlyDeadlineTomorrow;
+            if (showOnlyDeadlineTomorrow) {
+                showOnlyDeadlineToday = false;
+                showOnlyNew = false;
+            }
+
+            const url = new URL(window.location);
+            if (showOnlyDeadlineTomorrow) {
+                url.searchParams.set('filter', 'tomorrow');
+            } else {
+                url.searchParams.delete('filter');
+            }
+            window.history.pushState({}, '', url);
+
+            renderJobs(allJobs);
+            updateFilterButtons();
+            updateStats();
+        }
+
         function toggleNewFilter() {
             showOnlyNew = !showOnlyNew;
-            if (showOnlyNew) showOnlyDeadlineToday = false; // 상호 배타적
+            if (showOnlyNew) {
+                showOnlyDeadlineToday = false;
+                showOnlyDeadlineTomorrow = false;
+            }
 
             // URL 업데이트
             const url = new URL(window.location);
@@ -225,6 +251,18 @@
                 }
             }
 
+            // 내일 마감 버튼 업데이트
+            const tomorrowBtn = document.getElementById('btn-tomorrow');
+            if (tomorrowBtn) {
+                if (showOnlyDeadlineTomorrow) {
+                    tomorrowBtn.classList.add('active', 'bg-orange-500', 'text-white');
+                    tomorrowBtn.classList.remove('bg-gray-200', 'text-gray-700');
+                } else {
+                    tomorrowBtn.classList.remove('active', 'bg-orange-500', 'text-white');
+                    tomorrowBtn.classList.add('bg-gray-200', 'text-gray-700');
+                }
+            }
+
             // 플랫폼 버튼 업데이트
             document.querySelectorAll('.filter-btn[data-platform]').forEach(btn => {
                 const btnPlatform = btn.dataset.platform;
@@ -246,10 +284,14 @@
             const total = filteredJobs.length;
             const newCount = filteredJobs.filter(j => j.is_new).length;
             const deadlineCount = filteredJobs.filter(j => checkDeadline(j.deadline)).length;
+            const tomorrowCount = filteredJobs.filter(j => checkDeadlineTomorrow(j.deadline)).length;
 
             document.getElementById('stat-total').textContent = total;
             document.getElementById('stat-new').textContent = newCount;
             document.getElementById('stat-deadline').textContent = deadlineCount;
+
+            const statTomorrow = document.getElementById('stat-tomorrow');
+            if (statTomorrow) statTomorrow.textContent = tomorrowCount;
         }
 
         function renderJobs(jobs) {
@@ -264,6 +306,11 @@
             // 오늘 마감 필터 적용
             if (showOnlyDeadlineToday) {
                 filteredJobs = filteredJobs.filter(job => checkDeadline(job.deadline));
+            }
+
+            // 내일 마감 필터 적용
+            if (showOnlyDeadlineTomorrow) {
+                filteredJobs = filteredJobs.filter(job => checkDeadlineTomorrow(job.deadline));
             }
 
             // 플랫폼 필터 적용
@@ -428,8 +475,8 @@
         </header>
 
         <!-- 통계 카드 (클릭 가능) -->
-        <div class="grid grid-cols-3 gap-4 mb-6">
-            <div onclick="showOnlyNew=false; showOnlyDeadlineToday=false; renderJobs(allJobs); updateFilterButtons(); updateStats();"
+        <div class="grid grid-cols-4 gap-4 mb-6">
+            <div onclick="showOnlyNew=false; showOnlyDeadlineToday=false; showOnlyDeadlineTomorrow=false; renderJobs(allJobs); updateFilterButtons(); updateStats();"
                 class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
                 <p class="text-2xl font-bold text-gray-800" id="stat-total">0</p>
                 <p class="text-sm text-gray-500">전체 공고</p>
@@ -439,10 +486,15 @@
                 <p class="text-2xl font-bold text-green-600" id="stat-new">0</p>
                 <p class="text-sm text-gray-500">신규 공고</p>
             </div>
+            <div onclick="toggleTomorrowFilter()"
+                class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
+                <p class="text-2xl font-bold text-orange-500" id="stat-tomorrow">0</p>
+                <p class="text-sm text-gray-500">🔥 내일 마감</p>
+            </div>
             <div onclick="toggleDeadlineFilter()"
                 class="bg-white rounded-lg p-4 text-center shadow cursor-pointer hover:shadow-lg transition">
                 <p class="text-2xl font-bold text-red-600" id="stat-deadline">0</p>
-                <p class="text-sm text-gray-500">오늘 마감</p>
+                <p class="text-sm text-gray-500">🚨 오늘 마감</p>
             </div>
         </div>
 
@@ -468,9 +520,13 @@
 
         <!-- 상태 필터 버튼 -->
         <div class="flex flex-wrap justify-center gap-3 mb-8">
+            <button onclick="toggleTomorrowFilter()" id="btn-tomorrow"
+                class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
+                🔥 내일 마감
+            </button>
             <button onclick="toggleDeadlineFilter()" id="btn-deadline"
                 class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
-                🔥 오늘 마감
+                � 오늘 마감
             </button>
             <button onclick="toggleNewFilter()" id="btn-new"
                 class="filter-btn px-5 py-2.5 rounded-full font-medium shadow-sm hover:shadow-md bg-gray-200 text-gray-700">
