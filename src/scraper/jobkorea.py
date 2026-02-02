@@ -141,17 +141,28 @@ class JobKoreaScraper:
         return ""
 
     def _extract_deadline(self, text):
-        """마감일 추출"""
+        """마감일 추출 - 오늘마감/내일마감은 실제 날짜로 변환"""
+        from datetime import datetime, timedelta
+        
+        today = datetime.now()
+        tomorrow = today + timedelta(days=1)
+        
+        # 오늘마감 → 실제 날짜로 변환
+        if '오늘마감' in text or '오늘 마감' in text:
+            return today.strftime('%m/%d') + ' 마감'
+        
+        # 내일마감 → 실제 날짜로 변환
+        if '내일마감' in text or '내일 마감' in text:
+            return tomorrow.strftime('%m/%d') + ' 마감'
+        
         # 다양한 마감일 패턴 (우선순위 순)
         patterns = [
-            # 오늘마감, 내일마감
-            (r'(오늘마감|내일마감)', lambda m: m.group(1)),
             # 02/18(수) 마감
             (r'(\d{2}/\d{2}\([월화수목금토일]\))\s*마감', lambda m: m.group(1) + ' 마감'),
             # 상시채용
             (r'(상시채용)', lambda m: m.group(1)),
-            # D-숫자
-            (r'(D-\d+)', lambda m: m.group(1)),
+            # D-숫자 → 실제 날짜로 변환
+            (r'D-(\d+)', lambda m: (today + timedelta(days=int(m.group(1)))).strftime('%m/%d') + ' 마감'),
             # ~02.18(수)
             (r'~\s*(\d{2}\.\d{2}\([월화수목금토일]\))', lambda m: '~' + m.group(1)),
             # ~02/18

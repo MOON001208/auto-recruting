@@ -303,6 +303,15 @@
                 ? jobs
                 : jobs.filter(job => getJobCategory(job) === currentCategory);
 
+            // ⚠️ 마감된 공고(D < 0) 제외 - 상시채용/OPEN은 유지
+            filteredJobs = filteredJobs.filter(job => {
+                const days = getDaysUntilDeadline(job.deadline);
+                // days가 null이면 (상시채용, OPEN 등) 유지
+                // days가 0 이상이면 유지
+                // days가 음수면 마감됨 → 제외
+                return days === null || days >= 0;
+            });
+
             // 오늘 마감 필터 적용
             if (showOnlyDeadlineToday) {
                 filteredJobs = filteredJobs.filter(job => checkDeadline(job.deadline));
