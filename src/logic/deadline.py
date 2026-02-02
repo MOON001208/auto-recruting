@@ -3,87 +3,87 @@ import re
 
 class DeadlineChecker:
     @staticmethod
-    def is_deadline_today(deadline_str):
-        # Handle various formats: "2024.01.30", "01/30", "~ 01/30(화)"
+    def _parse_deadline(deadline_str):
+        """
+        다양한 마감일 형식을 파싱하여 date 객체로 반환
+        지원 형식:
+        - 02/14(토) 마감
+        - ~ 02/28(토)
+        - 2026-02-28
+        - 2026.02.28
+        - 02.28
+        - 내일마감, 오늘마감 등 텍스트
+        """
         try:
             today = datetime.now()
             
-            # Clean string
-            clean_date = re.sub(r'[^\d.]', '', deadline_str) # Keep digits and dots
+            # 텍스트 키워드 체크
+            if '오늘' in deadline_str or 'today' in deadline_str.lower():
+                return today.date()
+            if '내일' in deadline_str or 'tomorrow' in deadline_str.lower():
+                return (today + timedelta(days=1)).date()
             
-            # Cases
-            # 1. YYYY.MM.DD
-            # 2. MM.DD (Assume current year)
+            # 구분자 통일: / 와 - 를 . 으로 변환
+            normalized = deadline_str.replace('/', '.').replace('-', '.')
+            
+            # 숫자와 점만 추출
+            clean_date = re.sub(r'[^\d.]', '', normalized)
+            
+            if not clean_date:
+                return None
             
             parsed_date = None
             
+            # 형식 판별
             if clean_date.count('.') == 2:
-                parsed_date = datetime.strptime(clean_date, "%Y.%m.%d")
+                # YYYY.MM.DD 또는 MM.DD.YY
+                parts = clean_date.split('.')
+                if len(parts[0]) == 4:  # YYYY.MM.DD
+                    parsed_date = datetime.strptime(clean_date, "%Y.%m.%d")
+                elif len(parts[0]) == 2:  # MM.DD.YY
+                    parsed_date = datetime.strptime(clean_date, "%m.%d.%y")
             elif clean_date.count('.') == 1:
+                # MM.DD
                 parsed_date = datetime.strptime(clean_date, "%m.%d")
                 parsed_date = parsed_date.replace(year=today.year)
-                # Edge case: Jan deadline scraped in Dec logic omitted for simplicity
-                
-            if parsed_date:
-                return parsed_date.date() == today.date()
-                
-            return False
+            elif len(clean_date) == 8:
+                # YYYYMMDD (점 없이 붙어있는 경우)
+                parsed_date = datetime.strptime(clean_date, "%Y%m%d")
+            elif len(clean_date) == 4:
+                # MMDD (점 없이 붙어있는 경우)
+                parsed_date = datetime.strptime(clean_date, "%m%d")
+                parsed_date = parsed_date.replace(year=today.year)
+            
+            return parsed_date.date() if parsed_date else None
+            
         except:
-            return False
+            return None
+
+    @staticmethod
+    def is_deadline_today(deadline_str):
+        """마감일이 오늘인지 확인"""
+        parsed = DeadlineChecker._parse_deadline(deadline_str)
+        if parsed:
+            return parsed == datetime.now().date()
+        return False
     
     @staticmethod
     def is_deadline_passed(deadline_str):
         """마감일이 지났는지 확인 (오늘 이전인 경우 True)"""
-        try:
-            today = datetime.now()
-            
-            # Clean string
-            clean_date = re.sub(r'[^\d.]', '', deadline_str)
-            
-            # 날짜가 추출되지 않으면 (상시채용, PENDING 등) 유지
-            if not clean_date:
-                return False
-            
-            parsed_date = None
-            
-            if clean_date.count('.') == 2:
-                parsed_date = datetime.strptime(clean_date, "%Y.%m.%d")
-            elif clean_date.count('.') == 1:
-                parsed_date = datetime.strptime(clean_date, "%m.%d")
-                parsed_date = parsed_date.replace(year=today.year)
-                
-            if parsed_date:
-                # 오늘보다 이전이면 True (마감 지남)
-                return parsed_date.date() < today.date()
-                
-            return False
-        except:
-            return False
+        parsed = DeadlineChecker._parse_deadline(deadline_str)
+        if parsed:
+            return parsed < datetime.now().date()
+        # 날짜가 파싱 안 되면 (상시채용, PENDING 등) 유지
+        return False
             
     @staticmethod
     def is_deadline_tomorrow(deadline_str):
         """마감일이 내일인지 확인 (D-1)"""
-        try:
-            today = datetime.now()
-            tomorrow = today + timedelta(days=1)
-            
-            # Clean string
-            clean_date = re.sub(r'[^\d.]', '', deadline_str) 
-            
-            parsed_date = None
-            
-            if clean_date.count('.') == 2:
-                parsed_date = datetime.strptime(clean_date, "%Y.%m.%d")
-            elif clean_date.count('.') == 1:
-                parsed_date = datetime.strptime(clean_date, "%m.%d")
-                parsed_date = parsed_date.replace(year=today.year)
-                
-            if parsed_date:
-                return parsed_date.date() == tomorrow.date()
-                
-            return False
-        except:
-            return False
+        parsed = DeadlineChecker._parse_deadline(deadline_str)
+        if parsed:
+            tomorrow = datetime.now().date() + timedelta(days=1)
+            return parsed == tomorrow
+        return False
 
     @staticmethod
     def get_deadline_day_jobs(jobs):
