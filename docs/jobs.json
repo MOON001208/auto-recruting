@@ -1,5 +1,482 @@
 [
   {
+    "id": "saramin_55105375",
+    "site": "Saramin",
+    "title": "JB (구 중부도시가스) 도시가스 안전관리(신입) 채용",
+    "company": "제이비(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55105375&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=da4c6ff6-1d13-42bb-a801-446fbb411bc8",
+    "deadline": "09/30 마감",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.135564",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55002895",
+    "site": "Saramin",
+    "title": "동아출판㈜ 채용전환형 인턴 사원 모집",
+    "company": "동아출판(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002895&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5603c469-0704-46cc-bafe-3e6dee0d05e5",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-28T00:26:37.807650",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55102688",
+    "site": "Saramin",
+    "title": "[노블컴퍼니] 2026 하반기 총무 신입채용",
+    "company": "(주)노블컴퍼니",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102688&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7b13ebba-ae0e-496b-aa2c-754bf844aa83",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-09-23T00:07:51.817282",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55100438",
+    "site": "Saramin",
+    "title": "(주)제이스에이티에스 - 인사총무(신입-근태/복리후생/서무)",
+    "company": "(주)제이스에이티에스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55100438&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=fae766f4-1d36-4424-819c-1c02ec26c329",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-23T00:07:51.816679",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55100442",
+    "site": "Saramin",
+    "title": "(주)제이스에이티에스 - 재경팀 (신입 - 자금/회계/결산)",
+    "company": "(주)제이스에이티에스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55100442&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=863c022e-56e6-4dd6-9d0c-a53f4d4507b5",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-23T00:07:51.815609",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55089841",
+    "site": "Saramin",
+    "title": "2026년 광주은행 신입행원 채용공고",
+    "company": "(주)광주은행",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55089841&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=15d298d9-fbc3-4a66-a2ee-0820bf7eeeb6",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-09-22T00:37:24.217973",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55031257",
+    "site": "Saramin",
+    "title": "[외국계기업] 조광요턴(주) 구매 신입사원 채용",
+    "company": "조광요턴(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55031257&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=9430b412-d37a-47f0-a9fc-4b6aa6b8c16a",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-18T00:01:36.037238",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55050008",
+    "site": "Saramin",
+    "title": "세무법인오성 군산지점 사무원 모집",
+    "company": "세무법인오성 군산지점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050008&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=cc32b9ba-74fc-4ed9-b2dc-35ddac00bfae",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-17T00:12:16.833315",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55044301",
+    "site": "Saramin",
+    "title": "[채용연계형 인턴] 회계·세무·자금 경영지원 (Virtual CFO)",
+    "company": "(주)파인드어스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55044301&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=00d4d01e-eaec-47bd-b152-dd5a5771c373",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-16T00:04:34.700906",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55039035",
+    "site": "Saramin",
+    "title": "2026년 하반기 대우건설 신입사원 채용(경영지원-재무)",
+    "company": "(주)대우건설",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55039035&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=48f9d410-5375-47c5-98f1-6f56e0da0383",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-16T00:04:34.700034",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54998016",
+    "site": "Saramin",
+    "title": "[kt 그룹] 2026년 채용 공고",
+    "company": "(주)케이티엠오에스북부",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54998016&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=86615fc3-35d5-45f5-8968-2b7f26d5cd04",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-12T23:55:17.981107",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54170497",
+    "site": "Saramin",
+    "title": "Data Analytics Engineer",
+    "company": "토스인컴(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54170497&location=ts&searchword=Business+Data+Analyst&searchType=search&paid_fl=n&search_uuid=0f4619b2-8a59-4992-8e56-5b9feaf2be78",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "Business Data Analyst",
+    "description": "",
+    "data_relevance": {
+      "matched": true,
+      "score": 0,
+      "matched_keywords": [],
+      "matched_roles": [
+        "Data Analytics Engineer",
+        "Analytics Engineer"
+      ],
+      "jd_status": "unavailable",
+      "reason": "직무명 일치 · JD 확인 필요"
+    },
+    "category": "Data",
+    "scraped_at": "2026-09-09T23:54:15.798082",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "JD 본문을 가져오지 못했습니다.",
+      "required_skills": [],
+      "cover_letter_strategy": "원문 공고에서 담당 업무와 자격요건을 확인해주세요."
+    }
+  },
+  {
+    "id": "saramin_54957125",
+    "site": "Saramin",
+    "title": "우신특수강(주) 경영지원실 신입 모집(재무.회계)",
+    "company": "우신특수강(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54957125&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=76ab45f3-0eef-4622-b4c5-fe89a86ba46d",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-08T00:06:24.014786",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54897847",
+    "site": "Saramin",
+    "title": "[미소페] 관리부 인사 총무 신입 직원 채용",
+    "company": "(주)비경통상",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54897847&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=e6378d91-2245-41bd-bc2a-3bf4e4e3df1c",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-09-06T23:41:12.076366",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54923093",
+    "site": "Saramin",
+    "title": "세무사사무실 신입 직원 채용",
+    "company": "세무법인석성 경기북부지사",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923093&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=ec6ccc65-a8bc-4317-96bd-903cfc5bc4bd",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-06T23:41:12.074808",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54868136",
+    "site": "Saramin",
+    "title": "[마제스티골프코리아] 재무회계 담당자(재무팀)",
+    "company": "마제스티골프코리아(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54868136&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=daae47cb-e605-4259-9cf8-db3cc93987c3",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-06T23:41:12.074217",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_54926270",
+    "site": "Saramin",
+    "title": "2026 상반기 경영관리 신입직원 채용",
+    "company": "한진철관(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54926270&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=d6b55f19-9495-40ea-81db-0bd54b2ba244",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "HRD",
+    "scraped_at": "2026-09-03T23:46:12.857990",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54899269",
+    "site": "Saramin",
+    "title": "(주)에이엘로봇 인사/총무 신입사원 채용",
+    "company": "(주)에이엘로봇",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54899269&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=18c51900-9386-4f24-9df9-27f58fe66409",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "인사",
+    "scraped_at": "2026-09-01T01:03:22.949008",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54901500",
+    "site": "Saramin",
+    "title": "(유)나라고속 경리 및 회계 / 사무보조직원 채용 공고",
+    "company": "(유)나라고속",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54901500&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=6bc403af-31b7-4d56-96f7-29976042105c",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "회계",
+    "scraped_at": "2026-09-01T01:03:22.943293",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "Accounting"
+  },
+  {
+    "id": "saramin_54893673",
+    "site": "Saramin",
+    "title": "세무회계사무실에서 신입직원을 모집합니다.",
+    "company": "신승세무회계",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893673&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=6bc403af-31b7-4d56-96f7-29976042105c",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "회계",
+    "scraped_at": "2026-09-01T01:03:22.942142",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "Accounting"
+  },
+  {
+    "id": "saramin_54893793",
+    "site": "Saramin",
+    "title": "[엠블던호텔] 총무부 사무보조 신입사원 채용공고",
+    "company": "(주)호텔로",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893793&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-09-01T01:03:22.928799",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54895613",
+    "site": "Saramin",
+    "title": "(주)아츠클라우드 총무 · 운영지원 담당자 채용",
+    "company": "(주)아츠클라우드",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54895613&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-09-01T01:03:22.928410",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54894856",
+    "site": "Saramin",
+    "title": "인코크손해사정(주)-총무팀 직원 채용(업무지원)  / 부산지점",
+    "company": "인코크화재해상손해사정(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894856&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-09-01T01:03:22.927130",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54894284",
+    "site": "Saramin",
+    "title": "경영지원실 총무팀 신입 모집",
+    "company": "(주)코어로보틱스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894284&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-09-01T01:03:22.926565",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "saramin_54878233",
+    "site": "Saramin",
+    "title": "경영지원부 재무/회계 신입직원 채용",
+    "company": "(주)탑선",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54878233&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=014fca96-c3bd-456f-b2d7-e0c14adb0ae3",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "재무",
+    "scraped_at": "2026-08-29T23:47:51.289382",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "Accounting"
+  },
+  {
+    "id": "saramin_54799707",
+    "site": "Saramin",
+    "title": "세무법인 한미 인턴 채용 공고",
+    "company": "세무법인한미",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54799707&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=2c83517b-d401-4ec4-b8dd-b86ab80b5aba",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "세무",
+    "scraped_at": "2026-08-20T22:22:05.724753",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "Accounting"
+  },
+  {
+    "id": "saramin_54629121",
+    "site": "Saramin",
+    "title": "경영지원실 인턴 채용",
+    "company": "(주)애자일소다",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54629121&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=edaf02ab-abc0-4abd-b88e-8f11ba1786cd",
+    "deadline": "~ 09/30(수)",
+    "hidden_keyword": "HRD",
+    "scraped_at": "2026-08-03T22:57:38.018723",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
+    "id": "wanted_369492",
+    "site": "Wanted",
+    "title": "[스테니] 콘텐츠 마케터",
+    "company": "사각코퍼레이션",
+    "link": "https://www.wanted.co.kr/wd/369492",
+    "deadline": "2026-09-30",
+    "hidden_keyword": "회계",
+    "scraped_at": "2026-06-18T23:37:28.857295",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "Accounting"
+  },
+  {
+    "id": "wanted_369184",
+    "site": "Wanted",
+    "title": "Chief Business Officer (CBO)",
+    "company": "오피지지(OP.GG)",
+    "link": "https://www.wanted.co.kr/wd/369184",
+    "deadline": "2026-09-30",
+    "hidden_keyword": "총무",
+    "scraped_at": "2026-06-17T23:22:42.465473",
+    "is_new": false,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    },
+    "category": "HR"
+  },
+  {
     "id": "saramin_55111532",
     "site": "Saramin",
     "title": "인사부 신입사원 모집(총무)",
@@ -80,32 +557,536 @@
     "category": "Accounting"
   },
   {
-    "id": "saramin_55024242",
-    "site": "Saramin",
-    "title": "[세무법인 동안 이수] 신규 직원 채용합니다",
-    "company": "세무법인 동안",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55024242&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9edc12aa-6a23-4d26-83ad-a873218db98a",
-    "deadline": "~ 09/28(월)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-15T00:20:20.277229",
-    "is_new": false,
+    "id": "jk_50066192",
+    "site": "JobKorea",
+    "title": "영어학원 풀타임 전임강사 채용",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50066192?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=4&sc=552&traceId=4ce3e95797db546f823e5a9bc134c4d5",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.276071",
+    "is_new": true,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
     }
   },
   {
-    "id": "saramin_54999887",
-    "site": "Saramin",
-    "title": "총무, HRM 부문 신입사원 모집",
-    "company": "㈜서흥",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54999887&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=801c1fcc-7698-4483-a974-48fda9235b0f",
-    "deadline": "~ 09/28(월)",
+    "id": "jk_49923001",
+    "site": "JobKorea",
+    "title": "[하이버] 패션 플랫폼 MD (경력) 채용",
+    "company": "㈜뉴넥스",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49923001?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=2&sc=552&traceId=4ce3e95797db546f823e5a9bc134c4d5",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.268342",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50032812",
+    "site": "JobKorea",
+    "title": "시각공공 디자이너 채용 (정규직)",
+    "company": "㈜일렉펀앤엠에스",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032812?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=3&sc=551&traceId=4ce3e95797db546f823e5a9bc134c4d5",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.267517",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50049816",
+    "site": "JobKorea",
+    "title": "이트너스(주) 2027년 1차 E-ON 채용연계형 인턴 모집 (광주, 부산)",
+    "company": "이트너스(주)",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50049816?Oem_Code=C1&logpath=1&stext=HRM&listno=14&sc=630",
+    "deadline": "",
     "hidden_keyword": "HRM",
     "category": "HR",
-    "scraped_at": "2026-09-10T23:50:08.784835",
-    "is_new": false,
+    "scraped_at": "2026-09-29T01:35:31.239492",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_49993394",
+    "site": "JobKorea",
+    "title": "보람상조피플 성수동본사 관리자 후보",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49993394?Oem_Code=C1&logpath=1&stext=%EC%9D%B8%EC%82%AC&listno=5&sc=808",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.236867",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50059411",
+    "site": "JobKorea",
+    "title": "2026년 주식회사 스마트로 하반기 경력직 채용",
+    "company": "(주)스마트로",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50059411?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=12&sc=630",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.190439",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50067476",
+    "site": "JobKorea",
+    "title": "세무ㆍ회계ㆍ경리 담당자 채용",
+    "company": "㈜브이알네이쳐",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50067476?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=3&sc=552&traceId=dd5cfeb1366b6f56d18ee1cb14e965ba",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.178591",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50036832",
+    "site": "JobKorea",
+    "title": "세무회계예지 기장담당 직원채용 공고 (경력 2년이상)",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50036832?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=2&sc=552&traceId=dd5cfeb1366b6f56d18ee1cb14e965ba",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.178407",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50029829",
+    "site": "JobKorea",
+    "title": "호텔 재무회계팀 (경력직) 담당자 모집공고",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50029829?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=3&sc=551&traceId=dd5cfeb1366b6f56d18ee1cb14e965ba",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.168918",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50061950",
+    "site": "JobKorea",
+    "title": "GEO 서비스 운영 및 데이터 분석 채용",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50061950?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&listno=14&sc=630",
+    "deadline": "",
+    "hidden_keyword": "데이터 분석",
+    "description": "",
+    "data_relevance": {
+      "matched": true,
+      "score": 0,
+      "matched_keywords": [],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "unavailable",
+      "reason": "직무명 일치 · JD 확인 필요"
+    },
+    "category": "Data",
+    "scraped_at": "2026-09-29T01:35:31.159491",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "JD 본문을 가져오지 못했습니다.",
+      "required_skills": [],
+      "cover_letter_strategy": "원문 공고에서 담당 업무와 자격요건을 확인해주세요."
+    }
+  },
+  {
+    "id": "jk_49946531",
+    "site": "JobKorea",
+    "title": "[판교] 데이터 분석 및 서비스품질 리포팅 업무(영어가능자)",
+    "company": "㈜에스이에스",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49946531?Oem_Code=C1&logpath=1&stext=Data+Analyst&listno=17&sc=630",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
+    "description": "",
+    "data_relevance": {
+      "matched": true,
+      "score": 0,
+      "matched_keywords": [],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "unavailable",
+      "reason": "직무명 일치 · JD 확인 필요"
+    },
+    "category": "Data",
+    "scraped_at": "2026-09-29T01:35:31.148582",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "JD 본문을 가져오지 못했습니다.",
+      "required_skills": [],
+      "cover_letter_strategy": "원문 공고에서 담당 업무와 자격요건을 확인해주세요."
+    }
+  },
+  {
+    "id": "saramin_55127479",
+    "site": "Saramin",
+    "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
+    "company": "한화오션(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55127479&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=0e8a9ca6-4bbe-4ee8-b9da-2bbec22f2162",
+    "deadline": "~ 10/11(일)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.138262",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55137407",
+    "site": "Saramin",
+    "title": "[동아제약]생산본부 10월 수시채용",
+    "company": "동아제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55137407&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=0e8a9ca6-4bbe-4ee8-b9da-2bbec22f2162",
+    "deadline": "~ 10/05(월)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.138053",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55132034",
+    "site": "Saramin",
+    "title": "[케이씨이앤씨] 신입사원 공개채용",
+    "company": "(주)케이씨이앤씨",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132034&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=0e8a9ca6-4bbe-4ee8-b9da-2bbec22f2162",
+    "deadline": "~ 10/05(월)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.137570",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55126342",
+    "site": "Saramin",
+    "title": "(사)한국목욕업중앙회 총무 업무 담당자 모집",
+    "company": "(사)한국목욕업중앙회",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55126342&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8a855709-1084-48c2-8f96-0fb760d88525",
+    "deadline": "~ 11/27(금)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.137323",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55127881",
+    "site": "Saramin",
+    "title": "총무 및 법무 사원 모집 부동산관리분야 (정규직 신입 사원)",
+    "company": "(주)에스제이탱커",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55127881&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8a855709-1084-48c2-8f96-0fb760d88525",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.137145",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55134421",
+    "site": "Saramin",
+    "title": "채용연계형 인턴 모집 (총무성 구매)",
+    "company": "코오롱베니트(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134421&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8a855709-1084-48c2-8f96-0fb760d88525",
+    "deadline": "~ 10/07(수)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.136958",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55123992",
+    "site": "Saramin",
+    "title": "2026년 동서식품 대졸 신입사원 채용(일반관리)",
+    "company": "동서식품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55123992&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=9a700d0c-9dd8-49b3-a21d-cc9f3a5a3a57",
+    "deadline": "~ 10/12(월)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.136772",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55126715",
+    "site": "Saramin",
+    "title": "[정규직-신입-5급] 전산",
+    "company": "농업정책보험금융원",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55126715&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=554bcbf7-b6d8-49df-93b1-c8e62e9fb404",
+    "deadline": "~ 10/06(화)",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.136495",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55126577",
+    "site": "Saramin",
+    "title": "[대명상선] 신입 (해무팀) 사원 채용 공고 (선원 인사·관리)",
+    "company": "(주)대명상선",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55126577&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=ba847531-e1c4-4bf0-bf72-dc368470d18d",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.136176",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55130358",
+    "site": "Saramin",
+    "title": "[메드렉스병원] 인사총무팀 신규 채용공고",
+    "company": "메드렉스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55130358&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=ba847531-e1c4-4bf0-bf72-dc368470d18d",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.135970",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55124274",
+    "site": "Saramin",
+    "title": "(주)아테코 인사/총무 담당자 모집",
+    "company": "(주)아테코",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55124274&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=ba847531-e1c4-4bf0-bf72-dc368470d18d",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-29T01:35:31.135765",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55126943",
+    "site": "Saramin",
+    "title": "세무사사무실 신입 직원 모집",
+    "company": "세무사김상명사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55126943&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7e76104a-6997-4f07-906d-9516142c136d",
+    "deadline": "~ 11/27(금)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.135325",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55127641",
+    "site": "Saramin",
+    "title": "세무사사무실 신입사원 채용합니다.",
+    "company": "신영세무법인포승지점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55127641&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7e76104a-6997-4f07-906d-9516142c136d",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.135131",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55133050",
+    "site": "Saramin",
+    "title": "세무회계사무소 직원 구함",
+    "company": "이기훈세무회계사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55133050&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7e76104a-6997-4f07-906d-9516142c136d",
+    "deadline": "~ 10/16(금)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.134952",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55129625",
+    "site": "Saramin",
+    "title": "세무사사무실 신입 채용합니다.",
+    "company": "세무법인우리",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129625&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7e76104a-6997-4f07-906d-9516142c136d",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.134573",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55123966",
+    "site": "Saramin",
+    "title": "회계·세무·재무 정규직 채용(신입)",
+    "company": "세무사손영철사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55123966&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=eddbec93-f1fb-4848-a185-f35d1ead7f6a",
+    "deadline": "~ 10/12(월)",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.134210",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55130766",
+    "site": "Saramin",
+    "title": "경영지원팀(재무 및 기타) 신입 채용",
+    "company": "지피투원",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55130766&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=eddbec93-f1fb-4848-a185-f35d1ead7f6a",
+    "deadline": "~ 10/30(금)",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.133942",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55115103",
+    "site": "Saramin",
+    "title": "건설사 원가관리, 회계(급여)업무 신입",
+    "company": "(주)신보",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115103&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=638c557b-5632-4be9-96ba-2fac021215a3",
+    "deadline": "~ 10/25(일)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.133653",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55134433",
+    "site": "Saramin",
+    "title": "(주)대현철강 회계관리팀 신입사원 모집",
+    "company": "(주)대현철강",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134433&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=638c557b-5632-4be9-96ba-2fac021215a3",
+    "deadline": "~ 10/31(토)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.133438",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55134205",
+    "site": "Saramin",
+    "title": "(주)메젠 회계.총무 신입 채용 공고",
+    "company": "(주)메젠",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134205&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=638c557b-5632-4be9-96ba-2fac021215a3",
+    "deadline": "~ 10/28(수)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.133219",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55127458",
+    "site": "Saramin",
+    "title": "부산 해운대 회계사무실(세무사사무소) 신입 직원 구합니다",
+    "company": "세무법인창신 마린시티점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55127458&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=638c557b-5632-4be9-96ba-2fac021215a3",
+    "deadline": "~ 10/02(금)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-09-29T01:35:31.132993",
+    "is_new": true,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -132,7 +1113,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-09-28T00:26:37.808130",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -148,23 +1129,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-09-28T00:26:37.807872",
-    "is_new": true,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_55002895",
-    "site": "Saramin",
-    "title": "동아출판㈜ 채용전환형 인턴 사원 모집",
-    "company": "동아출판(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002895&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5603c469-0704-46cc-bafe-3e6dee0d05e5",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-09-28T00:26:37.807650",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -180,7 +1145,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-09-28T00:26:37.807372",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -196,7 +1161,7 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-09-28T00:26:37.806760",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -212,7 +1177,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-09-28T00:26:37.806273",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -228,7 +1193,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-09-28T00:26:37.806019",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -244,7 +1209,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-09-28T00:26:37.805744",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -260,7 +1225,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-09-28T00:26:37.805477",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -276,7 +1241,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-09-28T00:26:37.805122",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -955,22 +1920,6 @@
     }
   },
   {
-    "id": "saramin_55102688",
-    "site": "Saramin",
-    "title": "[노블컴퍼니] 2026 하반기 총무 신입채용",
-    "company": "(주)노블컴퍼니",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102688&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7b13ebba-ae0e-496b-aa2c-754bf844aa83",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "category": "HR",
-    "scraped_at": "2026-09-23T00:07:51.817282",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "saramin_55099202",
     "site": "Saramin",
     "title": "한솔그룹 2026년 하반기 신입사원 공개채용(HR)",
@@ -980,22 +1929,6 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-09-23T00:07:51.817097",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_55100438",
-    "site": "Saramin",
-    "title": "(주)제이스에이티에스 - 인사총무(신입-근태/복리후생/서무)",
-    "company": "(주)제이스에이티에스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55100438&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=fae766f4-1d36-4424-819c-1c02ec26c329",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "인사",
-    "category": "HR",
-    "scraped_at": "2026-09-23T00:07:51.816679",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -1076,22 +2009,6 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-09-23T00:07:51.815775",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_55100442",
-    "site": "Saramin",
-    "title": "(주)제이스에이티에스 - 재경팀 (신입 - 자금/회계/결산)",
-    "company": "(주)제이스에이티에스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55100442&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=863c022e-56e6-4dd6-9d0c-a53f4d4507b5",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-09-23T00:07:51.815609",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -1344,22 +2261,6 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-09-22T00:37:24.218153",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_55089841",
-    "site": "Saramin",
-    "title": "2026년 광주은행 신입행원 채용공고",
-    "company": "(주)광주은행",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55089841&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=15d298d9-fbc3-4a66-a2ee-0820bf7eeeb6",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "HRD",
-    "category": "HR",
-    "scraped_at": "2026-09-22T00:37:24.217973",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -2443,22 +3344,6 @@
     }
   },
   {
-    "id": "saramin_55031257",
-    "site": "Saramin",
-    "title": "[외국계기업] 조광요턴(주) 구매 신입사원 채용",
-    "company": "조광요턴(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55031257&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=9430b412-d37a-47f0-a9fc-4b6aa6b8c16a",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-09-18T00:01:36.037238",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "saramin_55065176",
     "site": "Saramin",
     "title": "(주)빌리언대부 경영지원팀 인사총무 신입 채용 공고",
@@ -2787,22 +3672,6 @@
     }
   },
   {
-    "id": "saramin_55050008",
-    "site": "Saramin",
-    "title": "세무법인오성 군산지점 사무원 모집",
-    "company": "세무법인오성 군산지점",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050008&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=cc32b9ba-74fc-4ed9-b2dc-35ddac00bfae",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-17T00:12:16.833315",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "jk_49977100",
     "site": "JobKorea",
     "title": "음원 유통 IP 팀장 채용",
@@ -3043,22 +3912,6 @@
     }
   },
   {
-    "id": "saramin_55044301",
-    "site": "Saramin",
-    "title": "[채용연계형 인턴] 회계·세무·자금 경영지원 (Virtual CFO)",
-    "company": "(주)파인드어스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55044301&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=00d4d01e-eaec-47bd-b152-dd5a5771c373",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-16T00:04:34.700906",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "saramin_55037275",
     "site": "Saramin",
     "title": "메이머스트 경영지원본부 회계세무 모집",
@@ -3068,22 +3921,6 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-09-16T00:04:34.700667",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_55039035",
-    "site": "Saramin",
-    "title": "2026년 하반기 대우건설 신입사원 채용(경영지원-재무)",
-    "company": "(주)대우건설",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55039035&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=48f9d410-5375-47c5-98f1-6f56e0da0383",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "재무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-16T00:04:34.700034",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -4163,22 +5000,6 @@
     }
   },
   {
-    "id": "saramin_54998016",
-    "site": "Saramin",
-    "title": "[kt 그룹] 2026년 채용 공고",
-    "company": "(주)케이티엠오에스북부",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54998016&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=86615fc3-35d5-45f5-8968-2b7f26d5cd04",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-09-12T23:55:17.981107",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "saramin_54996233",
     "site": "Saramin",
     "title": "식품회사 인사총무팀 신입 및 경력 실무자 모집",
@@ -5091,35 +5912,6 @@
     }
   },
   {
-    "id": "saramin_54170497",
-    "site": "Saramin",
-    "title": "Data Analytics Engineer",
-    "company": "토스인컴(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54170497&location=ts&searchword=Business+Data+Analyst&searchType=search&paid_fl=n&search_uuid=0f4619b2-8a59-4992-8e56-5b9feaf2be78",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "Business Data Analyst",
-    "description": "",
-    "data_relevance": {
-      "matched": true,
-      "score": 0,
-      "matched_keywords": [],
-      "matched_roles": [
-        "Data Analytics Engineer",
-        "Analytics Engineer"
-      ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
-    },
-    "category": "Data",
-    "scraped_at": "2026-09-09T23:54:15.798082",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "JD 본문을 가져오지 못했습니다.",
-      "required_skills": [],
-      "cover_letter_strategy": "원문 공고에서 담당 업무와 자격요건을 확인해주세요."
-    }
-  },
-  {
     "id": "jk_49811007",
     "site": "JobKorea",
     "title": "현대캐피탈 TM상담원 채용",
@@ -5736,22 +6528,6 @@
     }
   },
   {
-    "id": "saramin_54957125",
-    "site": "Saramin",
-    "title": "우신특수강(주) 경영지원실 신입 모집(재무.회계)",
-    "company": "우신특수강(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54957125&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=76ab45f3-0eef-4622-b4c5-fe89a86ba46d",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-09-08T00:06:24.014786",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
     "id": "saramin_54966218",
     "site": "Saramin",
     "title": "(주)에스엠지아이 관리.재무 회계관리 지원 신입 모집",
@@ -5853,54 +6629,6 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-09-06T23:41:12.076603",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_54897847",
-    "site": "Saramin",
-    "title": "[미소페] 관리부 인사 총무 신입 직원 채용",
-    "company": "(주)비경통상",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54897847&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=e6378d91-2245-41bd-bc2a-3bf4e4e3df1c",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "category": "HR",
-    "scraped_at": "2026-09-06T23:41:12.076366",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_54923093",
-    "site": "Saramin",
-    "title": "세무사사무실 신입 직원 채용",
-    "company": "세무법인석성 경기북부지사",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923093&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=ec6ccc65-a8bc-4317-96bd-903cfc5bc4bd",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-06T23:41:12.074808",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    }
-  },
-  {
-    "id": "saramin_54868136",
-    "site": "Saramin",
-    "title": "[마제스티골프코리아] 재무회계 담당자(재무팀)",
-    "company": "마제스티골프코리아(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54868136&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=daae47cb-e605-4259-9cf8-db3cc93987c3",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "재무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-06T23:41:12.074217",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -7451,22 +8179,6 @@
     "category": "HR"
   },
   {
-    "id": "saramin_54926270",
-    "site": "Saramin",
-    "title": "2026 상반기 경영관리 신입직원 채용",
-    "company": "한진철관(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54926270&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=d6b55f19-9495-40ea-81db-0bd54b2ba244",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "HRD",
-    "scraped_at": "2026-09-03T23:46:12.857990",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
     "id": "saramin_54929008",
     "site": "Saramin",
     "title": "경영지원팀 채용",
@@ -8273,22 +8985,6 @@
     "category": "HR"
   },
   {
-    "id": "saramin_54899269",
-    "site": "Saramin",
-    "title": "(주)에이엘로봇 인사/총무 신입사원 채용",
-    "company": "(주)에이엘로봇",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54899269&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=18c51900-9386-4f24-9df9-27f58fe66409",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "인사",
-    "scraped_at": "2026-09-01T01:03:22.949008",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
     "id": "saramin_54891658",
     "site": "Saramin",
     "title": "위아마그나파워트레인 26년 재무 부문 채용",
@@ -8297,22 +8993,6 @@
     "deadline": "진행예정",
     "hidden_keyword": "재무",
     "scraped_at": "2026-09-01T01:03:22.946539",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "Accounting"
-  },
-  {
-    "id": "saramin_54901500",
-    "site": "Saramin",
-    "title": "(유)나라고속 경리 및 회계 / 사무보조직원 채용 공고",
-    "company": "(유)나라고속",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54901500&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=6bc403af-31b7-4d56-96f7-29976042105c",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-09-01T01:03:22.943293",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -8335,86 +9015,6 @@
       "strategy": "AI 호출 중 오류가 발생했습니다."
     },
     "category": "Accounting"
-  },
-  {
-    "id": "saramin_54893673",
-    "site": "Saramin",
-    "title": "세무회계사무실에서 신입직원을 모집합니다.",
-    "company": "신승세무회계",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893673&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=6bc403af-31b7-4d56-96f7-29976042105c",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-09-01T01:03:22.942142",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "Accounting"
-  },
-  {
-    "id": "saramin_54893793",
-    "site": "Saramin",
-    "title": "[엠블던호텔] 총무부 사무보조 신입사원 채용공고",
-    "company": "(주)호텔로",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893793&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-09-01T01:03:22.928799",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
-    "id": "saramin_54895613",
-    "site": "Saramin",
-    "title": "(주)아츠클라우드 총무 · 운영지원 담당자 채용",
-    "company": "(주)아츠클라우드",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54895613&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-09-01T01:03:22.928410",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
-    "id": "saramin_54894856",
-    "site": "Saramin",
-    "title": "인코크손해사정(주)-총무팀 직원 채용(업무지원)  / 부산지점",
-    "company": "인코크화재해상손해사정(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894856&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-09-01T01:03:22.927130",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
-    "id": "saramin_54894284",
-    "site": "Saramin",
-    "title": "경영지원실 총무팀 신입 모집",
-    "company": "(주)코어로보틱스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894284&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=9ea75c2b-1d94-419a-b6a7-c8344174880d",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-09-01T01:03:22.926565",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
   },
   {
     "id": "jk_49883111",
@@ -8559,22 +9159,6 @@
       "strategy": "AI 호출 중 오류가 발생했습니다."
     },
     "category": "HR"
-  },
-  {
-    "id": "saramin_54878233",
-    "site": "Saramin",
-    "title": "경영지원부 재무/회계 신입직원 채용",
-    "company": "(주)탑선",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54878233&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=014fca96-c3bd-456f-b2d7-e0c14adb0ae3",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "재무",
-    "scraped_at": "2026-08-29T23:47:51.289382",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "Accounting"
   },
   {
     "id": "jk_49864318",
@@ -10351,22 +10935,6 @@
     "deadline": "",
     "hidden_keyword": "재무",
     "scraped_at": "2026-08-20T22:22:05.815076",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "Accounting"
-  },
-  {
-    "id": "saramin_54799707",
-    "site": "Saramin",
-    "title": "세무법인 한미 인턴 채용 공고",
-    "company": "세무법인한미",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54799707&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=2c83517b-d401-4ec4-b8dd-b86ab80b5aba",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "세무",
-    "scraped_at": "2026-08-20T22:22:05.724753",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
@@ -14295,22 +14863,6 @@
       "strategy": "AI 호출 중 오류가 발생했습니다."
     },
     "category": "Accounting"
-  },
-  {
-    "id": "saramin_54629121",
-    "site": "Saramin",
-    "title": "경영지원실 인턴 채용",
-    "company": "(주)애자일소다",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54629121&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=edaf02ab-abc0-4abd-b88e-8f11ba1786cd",
-    "deadline": "~ 09/30(수)",
-    "hidden_keyword": "HRD",
-    "scraped_at": "2026-08-03T22:57:38.018723",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
   },
   {
     "id": "incruit_2607280003077",
@@ -35761,22 +36313,6 @@
     "category": "Accounting"
   },
   {
-    "id": "wanted_369492",
-    "site": "Wanted",
-    "title": "[스테니] 콘텐츠 마케터",
-    "company": "사각코퍼레이션",
-    "link": "https://www.wanted.co.kr/wd/369492",
-    "deadline": "2026-09-30",
-    "hidden_keyword": "회계",
-    "scraped_at": "2026-06-18T23:37:28.857295",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "Accounting"
-  },
-  {
     "id": "wanted_369518",
     "site": "Wanted",
     "title": "[인턴] 운영팀 담당자",
@@ -36233,22 +36769,6 @@
     "deadline": "",
     "hidden_keyword": "총무",
     "scraped_at": "2026-06-17T23:22:42.466355",
-    "is_new": false,
-    "ai_analysis": {
-      "summary": "분석 실패",
-      "strategy": "AI 호출 중 오류가 발생했습니다."
-    },
-    "category": "HR"
-  },
-  {
-    "id": "wanted_369184",
-    "site": "Wanted",
-    "title": "Chief Business Officer (CBO)",
-    "company": "오피지지(OP.GG)",
-    "link": "https://www.wanted.co.kr/wd/369184",
-    "deadline": "2026-09-30",
-    "hidden_keyword": "총무",
-    "scraped_at": "2026-06-17T23:22:42.465473",
     "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
