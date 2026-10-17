@@ -1,5 +1,21 @@
 [
   {
+    "id": "saramin_55289421",
+    "site": "Saramin",
+    "title": "중앙대학교의료원(광명병원) 재무팀 행정직 (계약직) (26.10)",
+    "company": "중앙대학교광명병원",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55289421&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=7a9d9d18-ebfe-4989-b0c3-2562b5e6ff7e",
+    "deadline": "10/18 마감",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.331429",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
     "id": "saramin_55075545",
     "site": "Saramin",
     "title": "2026년 신입사원 채용 (컨설팅 세일즈)",
@@ -252,6 +268,22 @@
     }
   },
   {
+    "id": "jk_50131307",
+    "site": "JobKorea",
+    "title": "생산기술직 오퍼레이터 자립준비청년/신입/경력 채용",
+    "company": "㈜한솔케미칼",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50131307?Oem_Code=C1&logpath=1&stext=%EC%9D%B8%EC%82%AC&listno=20&sc=630",
+    "deadline": "10/17 마감",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.451920",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
     "id": "saramin_55065176",
     "site": "Saramin",
     "title": "(주)빌리언대부 경영지원팀 인사총무 신입 채용 공고",
@@ -332,6 +364,694 @@
     "category": "HR"
   },
   {
+    "id": "incruit_2610140002308",
+    "site": "Incruit",
+    "title": "2026년 무림그룹 하반기 신입/경력 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140002308&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.652814",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610140002317",
+    "site": "Incruit",
+    "title": "사립학교교직원연금공단 자회사 티피에스 경영지원팀 행정직 신입사원 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140002317&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.608097",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610140002376",
+    "site": "Incruit",
+    "title": "[동국제약] 신입/경력 채용(관리/마케팅/영업/연구 등 모집) ~ 10/21",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140002376&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.535925",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610140003795",
+    "site": "Incruit",
+    "title": "[SK케미칼] 청주공장 원가회계 담당자 경력 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140003795&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.399161",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610140003759",
+    "site": "Incruit",
+    "title": "금강휴게소  관리자 (과,차장급) 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140003759&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.355832",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610140004496",
+    "site": "Incruit",
+    "title": "건설업(EPC) 재무팀장급  (차-부장급)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140004496&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:01.304519",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610150003261",
+    "site": "Incruit",
+    "title": "오토닉스 관리회계 담당자 신입 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610150003261&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.960684",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610150004155",
+    "site": "Incruit",
+    "title": "[이랜드리테일] 재무회계/FP&A 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610150004155&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.746789",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610150004233",
+    "site": "Incruit",
+    "title": "[해외 태국 근무] 온라인 여행사 총무·재무 리드 (FI Lead) 겸 전략담당",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610150004233&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.709276",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160000294",
+    "site": "Incruit",
+    "title": "재경 - 과차장급(철강/소재 제조 상장사)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160000294&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.559147",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160001081",
+    "site": "Incruit",
+    "title": "[글로벌 헬스케어 기업]러시아 현지채용 회계담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160001081&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.467466",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003475",
+    "site": "Incruit",
+    "title": "[CJ제일제당] SCM 담당자 경력 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003475&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.416665",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160002063",
+    "site": "Incruit",
+    "title": "재무회계 경력 - 국내 엔터/테크기업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160002063&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.338595",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160002073",
+    "site": "Incruit",
+    "title": "상장 테크 및 바이오 기업 IR담당 (대리~차장)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160002073&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.298319",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160002115",
+    "site": "Incruit",
+    "title": "[인카 린치핀]DB영업으로 걱정없이 영업에만 집중가능한 유일한 조직",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160002115&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.232636",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160002141",
+    "site": "Incruit",
+    "title": "[삼일회계법인] Global Sector Cross-Border Business경력직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160002141&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:50:00.154473",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003229",
+    "site": "Incruit",
+    "title": "[골프프렌드] 본사 기획관리부 총무·자산·구매관리 경력직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003229&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.897653",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003290",
+    "site": "Incruit",
+    "title": "2026년 한국여성인권진흥원 제6차 채용 공고(기간제(장애인제한포함))",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003290&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.762090",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003265",
+    "site": "Incruit",
+    "title": "의료솔루션 전문기업  IR/공시 담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003265&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.714125",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003411",
+    "site": "Incruit",
+    "title": "벤텍퍼니처 홈페이지 관리 및 총무업무자 채용합니다",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003411&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.651074",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160003471",
+    "site": "Incruit",
+    "title": "사업기획 경력자-외국계 에너지그룹 홀딩스",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003471&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.563516",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160004095",
+    "site": "Incruit",
+    "title": "[NAVER Cloud] 재무기획 및 경영관리 (경력)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160004095&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.291279",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610160004154",
+    "site": "Incruit",
+    "title": "[전국사업장] 경영지원/기술지원 직군 신입/경력 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160004154&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.187263",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000059",
+    "site": "Incruit",
+    "title": "펀드관리팀 공인회계사 (경력 7년-12년) - 벤처투자 전문기업, 그룹 계열사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000059&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:59.049890",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000076",
+    "site": "Incruit",
+    "title": "ERP 아키텍쳐 (경력 10년이상) - 그룹 토탈 IT 서비스 제공기업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000076&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.965705",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000136",
+    "site": "Incruit",
+    "title": "FP&A 7년 이상 / MAX8천5백",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000136&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.919798",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000142",
+    "site": "Incruit",
+    "title": "매출1조기업-총무 7년이상 / 영어 가능한 분",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000142&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.886190",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000244",
+    "site": "Incruit",
+    "title": "리스크관리팀 장기보험 리스크 관리 담당자 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000244&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.843024",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610170000291",
+    "site": "Incruit",
+    "title": "(국내 광학필름 제조 중견기업) 전략기획,M&A (대리-차장급) : 2명",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610170000291&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.774233",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610180000013",
+    "site": "Incruit",
+    "title": "전략기획팀 팀원 (주임-과장급) - 글로벌 외식 프렌차이즈 기업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610180000013&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.745365",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "incruit_2610180000015",
+    "site": "Incruit",
+    "title": "전략기획 (반도체 산업, 대리-차장급) - 시스템 반도체 파운드리 기업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610180000015&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.702236",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "linkareer_356804",
+    "site": "Linkareer",
+    "title": "[한화자산운용] 경력직 채용_상품전략팀",
+    "company": "한화자산운용",
+    "link": "https://linkareer.com/activity/356804",
+    "deadline": "OPEN",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.519123",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "linkareer_357679",
+    "site": "Linkareer",
+    "title": "[한국보건사회연구원] 청년인턴 채용 공고",
+    "company": "한국보건사회연구원",
+    "link": "https://linkareer.com/activity/357679",
+    "deadline": "PENDING",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.518971",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50129404",
+    "site": "JobKorea",
+    "title": "온라인 영업MD 경력 채용",
+    "company": "㈜더함전자",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50129404?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=2&sc=552&traceId=bef2118cb3e1c42d265f892419608a1c",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.514045",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50146875",
+    "site": "JobKorea",
+    "title": "UI/UX 기획 경력 채용",
+    "company": "㈜링크허브",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50146875?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=3&sc=551&traceId=bef2118cb3e1c42d265f892419608a1c",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.513875",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50182175",
+    "site": "JobKorea",
+    "title": "측량 팀장급 모십니다.",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182175?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=2&sc=551&traceId=bef2118cb3e1c42d265f892419608a1c",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.513698",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50183725",
+    "site": "JobKorea",
+    "title": "HRD 컨설턴트 포지션",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50183725?Oem_Code=C1&logpath=1&stext=HRD&listno=18&sc=630",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.484656",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50185256",
+    "site": "JobKorea",
+    "title": "세무법인 비에이치엘 본점",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50185256?Oem_Code=C1&logpath=1&stext=%EC%84%B8%EB%AC%B4&listno=18&sc=630",
+    "deadline": "",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.416302",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50185635",
+    "site": "JobKorea",
+    "title": "강동식세무회계사무소",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50185635?Oem_Code=C1&logpath=1&stext=%EC%84%B8%EB%AC%B4&listno=14&sc=630",
+    "deadline": "",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.404210",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "jk_50057405",
+    "site": "JobKorea",
+    "title": "[지엠지세무회계 역삼 1]과 함께하실 팀장님 구합니다.",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50057405?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=1&sc=551&traceId=e4afbdb6a326022f2f4a804a09fde73a",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.346498",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55313093",
+    "site": "Saramin",
+    "title": "2026년 4분기 이랜드이츠 F&B 매장관리자 정규직 신입채용(전국)",
+    "company": "(주)이랜드이츠",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55313093&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=fd00ea6c-602f-4731-965d-197dc126a730",
+    "deadline": "~ 11/08(일)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-10-17T23:49:58.332583",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55302037",
+    "site": "Saramin",
+    "title": "행성사 재경팀 신입사원 채용(자금)",
+    "company": "(주)행성사",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55302037&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=270bc5af-10dc-4827-80c9-520d74f000b7",
+    "deadline": "~ 10/29(목)",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.332020",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
+    "id": "saramin_55319591",
+    "site": "Saramin",
+    "title": "[ 택스온 ] 세무사사무실 신규 직원 구함",
+    "company": "택스온",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55319591&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=715f3bae-6b2a-4486-9e03-b43ef6e8f09b",
+    "deadline": "~ 11/16(월)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-17T23:49:58.331773",
+    "is_new": true,
+    "ai_analysis": {
+      "summary": "분석 실패",
+      "strategy": "AI 호출 중 오류가 발생했습니다."
+    }
+  },
+  {
     "id": "linkareer_357599",
     "site": "Linkareer",
     "title": "[코딧] B2B 세일즈 매니저B2B영업, 해외영업 외 1",
@@ -353,7 +1073,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-17T00:16:55.391229",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -369,7 +1089,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.391018",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -385,7 +1105,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.390836",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -401,7 +1121,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.390565",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -417,7 +1137,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.383691",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -433,7 +1153,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.356127",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -449,7 +1169,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.345641",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -465,7 +1185,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.345407",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -481,7 +1201,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.344723",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -497,7 +1217,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.331523",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -513,7 +1233,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.251606",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -529,7 +1249,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.238600",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -545,7 +1265,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.184290",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -561,7 +1281,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.158976",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -577,7 +1297,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.150692",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -593,7 +1313,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.139817",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -609,7 +1329,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.121954",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -625,7 +1345,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.096156",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -641,7 +1361,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.095981",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -657,7 +1377,7 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.095495",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -673,7 +1393,7 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-10-17T00:16:55.095088",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -689,7 +1409,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.094098",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -705,7 +1425,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.093912",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -721,7 +1441,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.093711",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
@@ -737,7 +1457,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-17T00:16:55.092401",
-    "is_new": true,
+    "is_new": false,
     "ai_analysis": {
       "summary": "분석 실패",
       "strategy": "AI 호출 중 오류가 발생했습니다."
