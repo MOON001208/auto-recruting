@@ -66,6 +66,26 @@ class DetailTests(unittest.TestCase):
         self.assertEqual(fetch_description(page.url, 'Incruit', session=client), '')
         self.assertEqual(client.get.call_count, 1)
 
+    def test_jobkorea_nextjs_frame_must_match_current_job(self):
+        page = Mock(text=r'<script>src=GI_Read_Comt_Ifrm?Gno=123\u0026isHiringCenter=false</script>', url='https://www.jobkorea.co.kr/Recruit/GI_Read/123')
+        detail = Mock(text='<main>데이터 분석 SQL Python</main>')
+        client = Mock()
+        client.get.side_effect = [page, detail]
+        self.assertEqual(fetch_description(page.url, 'JobKorea', session=client), '데이터 분석 SQL Python')
+        self.assertIn('Gno=123', client.get.call_args_list[1].args[0])
+        page.text = 'GI_Read_Comt_Ifrm?Gno=999'
+        client.get.side_effect = [page]
+        self.assertEqual(fetch_description(page.url, 'JobKorea', session=client), '')
+
+    def test_saramin_uses_only_requested_public_detail(self):
+        page = Mock(text='<html></html>', url='https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=123')
+        detail = Mock(text='<article>' + ('데이터 분석 업무 및 SQL Python 자격요건 ' * 5) + '</article>')
+        client = Mock()
+        client.get.side_effect = [page, detail]
+        text = fetch_description(page.url, 'Saramin', session=client)
+        self.assertIn('SQL Python', text)
+        self.assertEqual(client.get.call_args_list[1].kwargs['params']['rec_idx'], '123')
+
     def test_timeout_returns_no_jd(self):
         client = Mock()
         client.get.side_effect = requests.Timeout()

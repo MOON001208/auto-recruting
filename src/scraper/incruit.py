@@ -5,8 +5,9 @@ import random
 import urllib.parse
 import re
 from src.scraper.details import fetch_description
+from src.scraper.health import SearchHealth
 
-class IncruitScraper:
+class IncruitScraper(SearchHealth):
     """
     인크루트 스크래퍼
     신입 채용공고 수집
@@ -24,8 +25,10 @@ class IncruitScraper:
             "Referer": "https://job.incruit.com/"
         }
         self.session = requests.Session()
+        self.reset_health()
 
     def search(self, keywords):
+        self.reset_health()
         results = []
 
         for keyword in keywords:
@@ -47,6 +50,7 @@ class IncruitScraper:
                 )
 
                 if response.status_code == 200:
+                    self.search_succeeded()
                     soup = BeautifulSoup(response.text, "html.parser")
 
                     # 채용공고 목록 찾기
@@ -125,12 +129,17 @@ class IncruitScraper:
                         self._fallback_parse(soup, keyword, results)
 
                 else:
+                    self.search_failed(f'HTTP {response.status_code}')
                     print(f"  Incruit: HTTP {response.status_code}")
 
                 time.sleep(random.uniform(1, 2))
 
             except Exception as e:
+                self.search_failed(type(e).__name__)
                 print(f"Error scraping Incruit for {keyword}: {e}")
+            if self.should_stop():
+                print('Incruit: 연속 실패로 나머지 검색을 중단합니다.')
+                break
 
         # 중복 제거
         seen = set()

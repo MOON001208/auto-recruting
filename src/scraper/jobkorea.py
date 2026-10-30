@@ -4,8 +4,9 @@ import time
 import random
 import re
 from src.scraper.details import fetch_description
+from src.scraper.health import SearchHealth
 
-class JobKoreaScraper:
+class JobKoreaScraper(SearchHealth):
     """
     잡코리아 스크래퍼 (2025년 최신 구조 대응)
     """
@@ -21,8 +22,10 @@ class JobKoreaScraper:
             "Referer": "https://www.jobkorea.co.kr/"
         }
         self.session = requests.Session()
+        self.reset_health()
 
     def search(self, keywords):
+        self.reset_health()
         results = []
         for keyword in keywords:
             print(f"Searching JobKorea for: {keyword}")
@@ -42,6 +45,7 @@ class JobKoreaScraper:
                 )
 
                 if response.status_code == 200:
+                    self.search_succeeded()
                     soup = BeautifulSoup(response.text, "html.parser")
 
                     # 채용공고 링크 찾기 (제목이 있는 링크만)
@@ -100,12 +104,17 @@ class JobKoreaScraper:
                     print(f"  JobKorea: {len(seen_ids)} jobs collected")
 
                 else:
+                    self.search_failed(f'HTTP {response.status_code}')
                     print(f"  JobKorea: HTTP {response.status_code}")
 
                 time.sleep(random.uniform(1.5, 3))
 
             except Exception as e:
+                self.search_failed(type(e).__name__)
                 print(f"Error scraping JobKorea for {keyword}: {e}")
+            if self.should_stop():
+                print('JobKorea: 연속 실패로 나머지 검색을 중단합니다.')
+                break
 
         # 중복 제거
         seen = set()

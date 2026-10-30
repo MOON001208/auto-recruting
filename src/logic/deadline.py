@@ -1,5 +1,6 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import re
+from src.config import Config
 
 class DeadlineChecker:
     @staticmethod
@@ -111,9 +112,12 @@ class DeadlineChecker:
             deadline = job.get('deadline', '')
             
             # 마감일이 지났는지 확인
-            if DeadlineChecker.is_deadline_passed(deadline):
+            expired = DeadlineChecker.is_deadline_passed(deadline)
+            stale = DeadlineChecker.is_stale_data_job(job)
+            if expired or stale:
                 removed_count += 1
-                print(f"  🗑️  Removing expired job: {job['title']} (Deadline: {deadline})")
+                reason = '마감일 지남' if expired else '장기간 재확인되지 않음'
+                print(f"  🗑️  제외 ({reason}): {job['title']} (Deadline: {deadline})")
             else:
                 active_jobs.append(job)
         
@@ -121,3 +125,20 @@ class DeadlineChecker:
             print(f"✅ Removed {removed_count} expired job(s)")
         
         return active_jobs
+
+    @staticmethod
+    def is_stale_data_job(job, now=None):
+        """마감일이 없고 장기간 다시 확인되지 않은 데이터 공고를 정리한다."""
+        if job.get('category') != 'Data' or DeadlineChecker._parse_deadline(job.get('deadline', '')):
+            return False
+        last_seen = job.get('last_seen_at') or job.get('scraped_at')
+        if not last_seen:
+            return False
+        try:
+            seen = datetime.fromisoformat(last_seen.replace('Z', '+00:00'))
+            if seen.tzinfo is None:
+                seen = seen.replace(tzinfo=timezone.utc)
+            current = now or datetime.now(timezone.utc)
+            return current - seen > timedelta(days=Config.DATA_STALE_DAYS)
+        except (ValueError, TypeError):
+            return False

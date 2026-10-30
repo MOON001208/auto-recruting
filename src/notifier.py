@@ -67,7 +67,7 @@ class Notifier:
             message += "\n"
             
         message += f"✨ *신규 발견 공고:* {new_jobs_count}건\n"
-        message += f"👉 <{page_url}|전체 공고 및 AI 자소서 전략 보러가기>\n"
+        message += f"👉 <{page_url}|전체 공고 보러가기>\n"
         
         try:
             requests.post(self.slack_url, json={"text": message})
@@ -252,7 +252,7 @@ class Notifier:
             
         html += f"""
             <a href="{page_url}" style="display: inline-block; background: #4F46E5; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; margin-top: 20px;">
-                전체 공고 및 AI 자소서 전략 보러가기 →
+                전체 공고 보러가기 →
             </a>
             <p style="color: #9CA3AF; margin-top: 30px; font-size: 12px;">Job Scout AI가 자동으로 발송한 이메일입니다.</p>
         </body>

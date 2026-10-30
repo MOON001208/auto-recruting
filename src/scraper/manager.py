@@ -7,6 +7,8 @@ from src.scraper.wanted import WantedScraper
 from src.logic.job_relevance import evaluate_data_job, is_data_candidate, matched_roles, search_category
 from collections import deque
 import time
+import json
+from datetime import datetime, timezone
 
 class ScraperManager:
     def __init__(self):
@@ -20,6 +22,8 @@ class ScraperManager:
         self.detail_cache = {}
         self.detail_requests = 0
         self.detail_started_at = None
+        self.detail_request_limit = None
+        self.site_status = {}
 
     def run_all(self):
         all_jobs = []
@@ -42,11 +46,28 @@ class ScraperManager:
                 jobs = scraper.search(targets)
                 print(f"  ✅ {scraper_name}: {len(jobs)}개 공고 수집")
                 all_jobs.extend(jobs)
+                failures = getattr(scraper, 'failures', 0)
+                state = 'degraded' if failures and jobs else 'failed' if failures else 'ok' if jobs else 'empty'
+                self.site_status[scraper_name.removesuffix('Scraper')] = {
+                    'status': state, 'collected': len(jobs),
+                    'attempts': getattr(scraper, 'attempts', None),
+                    'failures': failures, 'reason': getattr(scraper, 'last_error', '')}
+                if state != 'ok':
+                    print(f"::warning::{scraper_name}: {state}, 수집 {len(jobs)}건, 실패 {failures}회")
             except Exception as e:
                 print(f"  ❌ {scraper_name} failed: {e}")
+                self.site_status[scraper_name.removesuffix('Scraper')] = {
+                    'status': 'failed', 'collected': 0, 'attempts': None,
+                    'failures': 1, 'reason': type(e).__name__}
+                print(f'::warning::{scraper_name}: 수집 실패 ({type(e).__name__})')
         
         print(f"\n📊 Total collected: {len(all_jobs)} jobs")
         return all_jobs
+
+    def save_status(self, path):
+        with open(path, 'w', encoding='utf-8') as stream:
+            json.dump({'checked_at': datetime.now(timezone.utc).isoformat(),
+                       'sites': self.site_status}, stream, ensure_ascii=False, indent=2)
 
     def review_jobs(self, jobs, fetch_details=True):
         """신규 및 저장 공고에 같은 데이터 직군 기준을 적용한다."""
@@ -58,7 +79,7 @@ class ScraperManager:
                 if is_data_candidate(job) and not job.get('description'):
                     buckets.setdefault(job.get('site', ''), deque()).append(job)
             while any(buckets.values()):
-                if self.detail_requests >= Config.DATA_DETAIL_LIMIT:
+                if self.detail_requests >= self._detail_limit():
                     break
                 if (self.detail_started_at is not None and
                         time.monotonic() - self.detail_started_at >= Config.DATA_DETAIL_BUDGET_SECONDS):
@@ -94,7 +115,7 @@ class ScraperManager:
             return self.detail_cache[key]
         if self.detail_started_at is None:
             self.detail_started_at = time.monotonic()
-        if (self.detail_requests >= Config.DATA_DETAIL_LIMIT or
+        if (self.detail_requests >= self._detail_limit() or
                 time.monotonic() - self.detail_started_at >= Config.DATA_DETAIL_BUDGET_SECONDS):
             return ''
         scraper = next((s for s in self.scrapers
@@ -109,3 +130,6 @@ class ScraperManager:
             text = ''
         self.detail_cache[key] = text[:20000]
         return self.detail_cache[key]
+
+    def _detail_limit(self):
+        return Config.DATA_DETAIL_LIMIT if self.detail_request_limit is None else self.detail_request_limit

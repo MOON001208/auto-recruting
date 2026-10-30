@@ -1,147 +1,64 @@
-import requests
-import time
 import random
-from src.scraper.details import fetch_description
+import time
 
-class WantedScraper:
-    """
-    원티드 스크래퍼
-    내부 API를 활용한 채용공고 수집
-    """
-    # 원티드 내부 API 엔드포인트
-    API_URL = "https://www.wanted.co.kr/api/v4/jobs"
+import requests
+
+from src.scraper.details import fetch_description
+from src.scraper.health import SearchHealth
+
+
+class WantedScraper(SearchHealth):
+    # v4/jobs는 keyword를 무시하므로 실제 통합검색 API를 사용한다.
+    SEARCH_URL = 'https://www.wanted.co.kr/api/v3/search'
 
     def __init__(self):
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept": "application/json, text/plain, */*",
-            "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Referer": "https://www.wanted.co.kr/",
-            "wanted-user-country": "KR",
-            "wanted-user-language": "ko"
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8',
+            'Referer': 'https://www.wanted.co.kr/',
+            'wanted-user-country': 'KR', 'wanted-user-language': 'ko',
         }
         self.session = requests.Session()
+        self.reset_health()
 
     def search(self, keywords):
-        results = []
-
+        self.reset_health()
+        results, seen = [], set()
         for keyword in keywords:
-            print(f"Searching Wanted for: {keyword}")
             try:
-                # 원티드 API 파라미터
-                params = {
-                    "country": "kr",
-                    "job_sort": "job.latest_order",
-                    "years": "0",  # 신입 (0년차)
-                    "locations": "all",
-                    "limit": 20,
-                    "offset": 0,
-                    "keyword": keyword
-                }
-
                 response = self.session.get(
-                    self.API_URL,
-                    params=params,
-                    headers=self.headers,
-                    timeout=15
-                )
-
-                if response.status_code == 200:
-                    try:
-                        data = response.json()
-                        jobs = data.get('data', [])
-
-                        for job in jobs:
-                            try:
-                                job_id = job.get('id', '')
-                                title = job.get('position', '')
-                                company = job.get('company', {}).get('name', '')
-
-                                if not title:
-                                    continue
-
-                                link = f"https://www.wanted.co.kr/wd/{job_id}"
-
-                                # 마감일 처리
-                                due_time = job.get('due_time', '')
-                                deadline = ""
-                                if due_time:
-                                    deadline = due_time[:10] if len(due_time) >= 10 else due_time
-
-                                results.append({
-                                    "id": f"wanted_{job_id}",
-                                    "site": "Wanted",
-                                    "title": title,
-                                    "company": company,
-                                    "link": link,
-                                    "deadline": deadline,
-                                    "hidden_keyword": keyword
-                                })
-                            except Exception as e:
-                                continue
-
-                    except Exception as e:
-                        print(f"  Wanted: JSON parsing failed, trying alternative...")
-                        self._fallback_search(keyword, results)
+                    self.SEARCH_URL, params={'query': keyword, 'tab': 'position', 'country': 'kr'},
+                    headers=self.headers, timeout=10)
+                if response.status_code != 200:
+                    self.search_failed(f'HTTP {response.status_code}')
+                    print(f'Wanted search: HTTP {response.status_code}')
                 else:
-                    print(f"  Wanted: HTTP {response.status_code}, trying alternative...")
-                    self._fallback_search(keyword, results)
-
-                time.sleep(random.uniform(1, 2))
-
-            except Exception as e:
-                print(f"Error scraping Wanted for {keyword}: {e}")
-                self._fallback_search(keyword, results)
-
-        # 중복 제거
-        seen = set()
-        unique_results = []
-        for job in results:
-            if job['id'] not in seen:
-                seen.add(job['id'])
-                unique_results.append(job)
-
-        return unique_results
-
-    def _fallback_search(self, keyword, results):
-        """대체 API 엔드포인트 시도"""
-        try:
-            # v3 API 시도
-            alt_url = "https://www.wanted.co.kr/api/v3/search"
-            params = {
-                "query": keyword,
-                "tab": "position",
-                "country": "kr"
-            }
-
-            response = self.session.get(alt_url, params=params, headers=self.headers, timeout=10)
-
-            if response.status_code == 200:
-                data = response.json()
-                positions = data.get('data', {}).get('positions', [])
-
-                for pos in positions[:20]:
-                    try:
-                        job_id = pos.get('id', '')
-                        title = pos.get('title', '') or pos.get('position', '')
-                        company = pos.get('company_name', '') or pos.get('company', {}).get('name', '')
-
-                        if not title or not job_id:
+                    data = response.json().get('data', {})
+                    jobs = data.get('jobs', data.get('positions'))
+                    if isinstance(jobs, dict):
+                        jobs = jobs.get('data')
+                    if not isinstance(jobs, list):
+                        raise ValueError('검색 응답에서 공고 목록을 찾을 수 없음')
+                    self.search_succeeded()
+                    for item in jobs:
+                        job_id = item.get('id')
+                        title = item.get('position') or item.get('title')
+                        if not job_id or not title or job_id in seen:
                             continue
-
-                        results.append({
-                            "id": f"wanted_{job_id}",
-                            "site": "Wanted",
-                            "title": title,
-                            "company": company,
-                            "link": f"https://www.wanted.co.kr/wd/{job_id}",
-                            "deadline": "",
-                            "hidden_keyword": keyword
-                        })
-                    except:
-                        continue
-        except Exception as e:
-            print(f"  Wanted fallback also failed: {e}")
+                        seen.add(job_id)
+                        company = item.get('company_name') or (item.get('company') or {}).get('name', '')
+                        results.append({'id': f'wanted_{job_id}', 'site': 'Wanted', 'title': title,
+                                        'company': company, 'link': f'https://www.wanted.co.kr/wd/{job_id}',
+                                        'deadline': (item.get('due_time') or '')[:10], 'hidden_keyword': keyword})
+            except (requests.RequestException, ValueError, TypeError, AttributeError) as exc:
+                self.search_failed(type(exc).__name__)
+                print(f'Wanted search failed: {type(exc).__name__}')
+            if self.should_stop():
+                print('Wanted: 연속 실패로 나머지 검색을 중단합니다.')
+                break
+            time.sleep(random.uniform(0.5, 1))
+        return results
 
     def get_details(self, url):
         return fetch_description(url, 'Wanted', self.headers, self.session)

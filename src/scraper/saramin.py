@@ -5,16 +5,19 @@ import random
 import re
 from datetime import datetime, timedelta
 from src.scraper.details import fetch_description
+from src.scraper.health import SearchHealth
 
-class SaraminScraper:
+class SaraminScraper(SearchHealth):
     BASE_URL = "https://www.saramin.co.kr/zf_user/search/recruit"
     
     def __init__(self):
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         }
+        self.reset_health()
 
     def search(self, keywords):
+        self.reset_health()
         results = []
         for keyword in keywords:
             print(f"Searching Saramin for: {keyword}")
@@ -32,6 +35,7 @@ class SaraminScraper:
                 
                 response = requests.get(self.BASE_URL, params=params, headers=self.headers, timeout=15)
                 if response.status_code == 200:
+                    self.search_succeeded()
                     soup = BeautifulSoup(response.text, "html.parser")
                     items = soup.select(".item_recruit")
                     
@@ -61,12 +65,18 @@ class SaraminScraper:
                         except Exception as e:
                             print(f"Error parsing item: {e}")
                             continue
+                else:
+                    self.search_failed(f'HTTP {response.status_code}')
                 
                 # Be nice to the server
                 time.sleep(random.uniform(1, 3))
                 
             except Exception as e:
+                self.search_failed(type(e).__name__)
                 print(f"Error scraping Saramin for {keyword}: {e}")
+            if self.should_stop():
+                print('Saramin: 연속 실패로 나머지 검색을 중단합니다.')
+                break
                 
         return results
 

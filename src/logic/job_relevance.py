@@ -96,6 +96,9 @@ def evaluate_data_job(job):
     jd_roles = matched_roles(description)
     signals = [name for name, aliases in JD_SIGNALS.items() if any(contains(description, alias) for alias in aliases)]
     excluded = any(re.search(pattern, normalize(title)) for pattern in EXCLUDED_TITLES)
+    # 회사 소개에 AI/고객 데이터가 있더라도 영업 포지션은 데이터 직군이 아니다.
+    if not title_roles and re.search(r'세일즈|(?:b2b\s*)?영업|\bsales\b', normalize(title)):
+        excluded = True
     # CDP는 환경 공시 등에도 쓰인다. 플랫폼/고객 데이터 업무가 확인되어야 한다.
     cdp_context = any(
         contains(title + " " + description, phrase)

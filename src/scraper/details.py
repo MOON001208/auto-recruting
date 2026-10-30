@@ -1,7 +1,8 @@
 """공고 본문만 추출한다. 전체 페이지/추천 공고는 JD로 사용하지 않는다."""
 
 import json
-from urllib.parse import urljoin, urlparse
+import re
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -101,7 +102,27 @@ def fetch_description(url, site, headers=None, session=None):
         text = extract_description(response.text, site)
         if text:
             return text
+        # 사람인 상세는 공개 view-detail 페이지에서 동일 공고 ID로 제공된다.
+        if site == 'Saramin':
+            ids = parse_qs(urlparse(response.url).query).get('rec_idx', [])
+            if len(ids) == 1 and ids[0].isdigit():
+                detail_url = urljoin(response.url, '/zf_user/jobs/relay/view-detail')
+                detail = client.get(detail_url, params={'rec_idx': ids[0], 'rec_seq': '0'},
+                                    headers=request_headers, timeout=10)
+                detail.raise_for_status()
+                text = clean_html(detail.text)
+                if len(text) >= 80:
+                    return text
         selector = FRAME_SELECTORS.get(site)
+        # 잡코리아의 최신 페이지는 상세 iframe 주소를 Next.js 데이터에 담는다.
+        if site == 'JobKorea':
+            job_id = re.search(r'/Recruit/GI_Read/(\d+)', urlparse(response.url).path, re.I)
+            iframe_ids = re.findall(r'GI_Read_Comt_Ifrm\?Gno=(\d+)', response.text, re.I)
+            if job_id and job_id.group(1) in iframe_ids:
+                frame_url = urljoin(response.url, '/Recruit/GI_Read_Comt_Ifrm?Gno=' + job_id.group(1))
+                detail = client.get(frame_url, headers=request_headers, timeout=10)
+                detail.raise_for_status()
+                return clean_html(detail.text)
         if selector:
             soup = BeautifulSoup(response.text, "html.parser")
             frame = soup.select_one(selector)

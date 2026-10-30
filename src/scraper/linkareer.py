@@ -2,9 +2,10 @@ import requests
 import time
 import random
 from src.scraper.details import fetch_description
+from src.scraper.health import SearchHealth
 from src.logic.job_relevance import contains
 
-class LinkareerScraper:
+class LinkareerScraper(SearchHealth):
     """
     링커리어 스크래퍼 (2025년 최신 API 구조 대응)
     대학생/취준생 대상 인턴, 신입 채용공고 수집
@@ -23,8 +24,10 @@ class LinkareerScraper:
             "Origin": "https://linkareer.com",
             "Referer": "https://linkareer.com/list/recruit"
         }
+        self.reset_health()
 
     def search(self, keywords):
+        self.reset_health()
         results = []
 
         print(f"Searching Linkareer for all keywords...")
@@ -55,6 +58,7 @@ class LinkareerScraper:
             if response.status_code == 200:
                 data = response.json()
                 nodes = data.get('data', {}).get('activities', {}).get('nodes', [])
+                self.search_succeeded()
 
                 print(f"  Linkareer: Retrieved {len(nodes)} recruit postings")
 
@@ -92,11 +96,13 @@ class LinkareerScraper:
                     except Exception as e:
                         continue
             else:
+                self.search_failed(f'HTTP {response.status_code}')
                 print(f"  Linkareer: HTTP {response.status_code}, trying fallback...")
 
             time.sleep(random.uniform(1, 2))
 
         except Exception as e:
+            self.search_failed(type(e).__name__)
             print(f"Error scraping Linkareer: {e}")
 
         # 전체 목록 API는 검색이 아니므로 모든 직무의 키워드 검색도 수행한다.
@@ -121,6 +127,7 @@ class LinkareerScraper:
                 response = requests.get(self.BASE_URL, params={"filterBy_keyword": keyword}, headers=self.headers, timeout=10)
 
                 if response.status_code == 200:
+                    self.search_succeeded()
                     soup = BeautifulSoup(response.text, "html.parser")
 
                     # __NEXT_DATA__에서 데이터 추출 시도
@@ -182,9 +189,16 @@ class LinkareerScraper:
                         except:
                             continue
 
+                else:
+                    self.search_failed(f'HTTP {response.status_code}')
+                    if self.should_stop():
+                        print('Linkareer: 연속 실패로 나머지 검색을 중단합니다.')
+                        break
+
                 time.sleep(random.uniform(0.5, 1))
 
         except Exception as e:
+            self.search_failed(type(e).__name__)
             print(f"Linkareer fallback failed: {e}")
 
     def get_details(self, url):

@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 class DataManager:
     def __init__(self, file_path):
@@ -18,6 +18,17 @@ class DataManager:
     def save_jobs(self, jobs):
         with open(self.file_path, 'w', encoding='utf-8') as f:
             json.dump(jobs, f, ensure_ascii=False, indent=2)
+
+    def refresh_seen_jobs(self, existing_jobs, scraped_jobs):
+        """재검색에서 확인된 동일 공고의 마지막 확인일과 마감일을 갱신한다."""
+        existing = {job['id']: job for job in existing_jobs}
+        seen_at = datetime.now(timezone.utc).isoformat()
+        for current in scraped_jobs:
+            saved = existing.get(current['id'])
+            if saved is not None and saved.get('category') == 'Data':
+                saved['last_seen_at'] = seen_at
+                if current.get('deadline'):
+                    saved['deadline'] = current['deadline']
             
     def filter_new_jobs(self, scraped_jobs, existing_jobs):
         seen_ids = set(job['id'] for job in existing_jobs)
@@ -44,6 +55,10 @@ class DataManager:
             current_title = self._normalize_text(job['title'])
             
             for existing in existing_signatures:
+                # 회사명이 비어 있거나 확인 불가인 공고끼리 다른 회사의 비슷한 직무를
+                # 같은 공고로 잘못 합치지 않는다. 이 경우 ID로만 중복을 확인한다.
+                if not current_company or current_company == '확인필요':
+                    break
                 # 1. 회사명이 다르면 바로 패스 (가장 강력한 필터)
                 if current_company != existing['company']:
                     continue
@@ -63,6 +78,8 @@ class DataManager:
             
             if not is_duplicate:
                 job['scraped_at'] = datetime.now().isoformat()
+                if job.get('category') == 'Data':
+                    job['last_seen_at'] = datetime.now(timezone.utc).isoformat()
                 job['is_new'] = True
                 
                 # 방금 추가된 것도 중복 비교군에 추가 (이번 실행 내에서의 중복 방지)

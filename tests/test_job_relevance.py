@@ -49,6 +49,8 @@ class RelevanceTests(unittest.TestCase):
     def test_tools_without_related_duties_do_not_make_data_role(self):
         self.assertFalse(evaluate_data_job(job('백엔드 개발자', 'Python SQL Pipeline Automation'))['matched'])
         self.assertFalse(evaluate_data_job(job('AI Research Scientist', 'Python LLM AI Agent'))['matched'])
+        self.assertFalse(evaluate_data_job(job('B2B 세일즈 매니저', '고객 데이터 기반 영업, LLM 기반 제품 판매'))['matched'])
+        self.assertTrue(evaluate_data_job(job('영업 데이터 분석가', 'SQL로 고객 데이터를 분석합니다'))['matched'])
 
     def test_ambiguous_cdp(self):
         self.assertFalse(evaluate_data_job(job('CDP 기후변화 공시 담당', '환경경영 보고서 작성'))['matched'])

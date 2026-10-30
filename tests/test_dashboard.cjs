@@ -16,6 +16,7 @@ const context = vm.createContext({
         createElement: () => ({
             dataset: {},
             insertBefore(node) { this.jdInfo = node; },
+            appendChild(node) { this.jdInfo = node; },
         }),
     },
 });

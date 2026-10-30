@@ -10,6 +10,10 @@ on:
         description: 'Retry attempt number'
         default: '0'
         required: false
+      dry_run:
+        description: '수집만 시험하고 공고 저장 및 알림은 건너뛰기 (true/false)'
+        default: 'false'
+        required: false
 
 permissions:
   contents: write
@@ -38,9 +42,7 @@ jobs:
 
     - name: Run Job Scout
       env:
-        # AI 분석
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        
+        JOB_SCOUT_DRY_RUN: ${{ github.event.inputs.dry_run }}
         # Slack 알림
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         
@@ -65,18 +67,19 @@ jobs:
         python src/main.py
         
     - name: Commit and push if changed
+      if: github.event_name != 'workflow_dispatch' || github.event.inputs.dry_run != 'true'
       run: |
         git config --global user.name 'Job Scout Bot'
         git config --global user.email 'bot@noreply.github.com'
-        git add docs/jobs.json
+        git add docs/jobs.json docs/scraper_status.json
         git diff --staged --quiet || git commit -m "Update daily jobs data [skip ci]"
-        git pull --rebase origin main || true
-        git push || echo "Push failed, will retry next run"
+        git pull --rebase origin main
+        git push
 
   # 실패 시 자동 재시도 (최대 3회)
   retry-on-failure:
     needs: scout
-    if: failure() && (github.event.inputs.retry_count == '' || github.event.inputs.retry_count < 3)
+    if: failure() && github.event.inputs.dry_run != 'true' && (github.event.inputs.retry_count == '' || github.event.inputs.retry_count < 3)
     runs-on: ubuntu-latest
     steps:
       - name: Calculate retry count

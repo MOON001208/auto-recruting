@@ -17,7 +17,7 @@ def record(job_id, title, keyword):
 
 
 class PipelineTests(unittest.TestCase):
-    def test_review_save_ai_and_notification_inputs_use_same_jobs(self):
+    def test_review_save_and_notification_inputs_use_same_jobs(self):
         old_data = record('old_bad', 'AI 콘텐츠 제작 인턴', 'AI')
         old_hr = record('old_hr', '인사 신입 담당자', '인사')
         new_data = record('new_good', 'Product Data Analyst', 'Product Data Analyst')
@@ -26,15 +26,14 @@ class PipelineTests(unittest.TestCase):
         manager.run_all = Mock(return_value=[new_data, new_noise])
         manager.scrapers[-1].get_details = Mock(side_effect=lambda url:
             '고객 데이터 분석 SQL Python dbt Airflow' if url.endswith('new_good') else '')
-        agent = Mock()
-        agent.analyze_job.return_value = {'summary': 'JD 기반 분석', 'cover_letter_strategy': 'SQL 분석 경험'}
+        old_hr['ai_analysis'] = {'summary': 'old analysis'}
         notifier = Mock()
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / 'jobs.json'
             path.write_text(json.dumps([old_data, old_hr]), encoding='utf-8')
             with (patch.object(pipeline.Config, 'DATA_FILE', str(path)),
+                  patch.object(pipeline.Config, 'STATUS_FILE', str(Path(directory) / 'status.json')),
                   patch.object(pipeline, 'ScraperManager', return_value=manager),
-                  patch.object(pipeline, 'AIAgent', return_value=agent),
                   patch.object(pipeline, 'Notifier', return_value=notifier)):
                 pipeline.main()
             saved = json.loads(path.read_text(encoding='utf-8'))
@@ -42,7 +41,7 @@ class PipelineTests(unittest.TestCase):
         good = next(job for job in saved if job['id'] == 'new_good')
         self.assertEqual(good['category'], 'Data')
         self.assertEqual(good['data_relevance']['score'], 5)
-        agent.analyze_job.assert_called_once_with(new_data['title'], good['description'])
+        self.assertTrue(all('ai_analysis' not in job for job in saved))
         sent_jobs = notifier.send_all_alerts.call_args.args[0]
         self.assertEqual([job['id'] for job in sent_jobs], ['new_good'])
         self.assertTrue(Notifier._is_in_category(None, good, 'Data'))
@@ -70,6 +69,21 @@ class PipelineTests(unittest.TestCase):
               patch('src.scraper.linkareer.time.sleep')):
             scraper._fallback_search(keywords, [])
         self.assertEqual([call.kwargs['params']['filterBy_keyword'] for call in get.call_args_list], keywords)
+
+    def test_dry_run_never_sends_notifications(self):
+        manager = ScraperManager()
+        manager.run_all = Mock(return_value=[])
+        notifier = Mock()
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / 'jobs.json'
+            path.write_text('[]', encoding='utf-8')
+            with (patch.dict('os.environ', {'JOB_SCOUT_DRY_RUN': 'true'}),
+                  patch.object(pipeline.Config, 'DATA_FILE', str(path)),
+                  patch.object(pipeline.Config, 'STATUS_FILE', str(Path(directory) / 'status.json')),
+                  patch.object(pipeline, 'ScraperManager', return_value=manager),
+                  patch.object(pipeline, 'Notifier', return_value=notifier)):
+                pipeline.main()
+        notifier.send_all_alerts.assert_not_called()
 
 
 if __name__ == '__main__':

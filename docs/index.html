@@ -72,6 +72,7 @@
         };
 
         async function loadJobs() {
+            loadScraperStatus();
             try {
                 const response = await fetch('jobs.json');
                 allJobs = await response.json();
@@ -102,6 +103,24 @@
             } catch (e) {
                 console.error("Failed to load jobs", e);
                 document.getElementById('job-list').innerHTML = `<p class="text-red-500">데이터를 불러오는데 실패했습니다: ${e}</p>`;
+            }
+        }
+
+        async function loadScraperStatus() {
+            try {
+                const response = await fetch('scraper_status.json');
+                if (!response.ok) return;
+                const status = await response.json();
+                const affected = Object.entries(status.sites || {})
+                    .filter(([, value]) => value.status !== 'ok')
+                    .map(([site]) => PLATFORMS[site]?.name || site);
+                const notice = document.getElementById('scraper-status');
+                if (affected.length && notice) {
+                    notice.textContent = `최근 수집에서 확인이 필요한 사이트: ${affected.join(', ')}. 해당 사이트의 공고가 적거나 없을 수 있습니다.`;
+                    notice.hidden = false;
+                }
+            } catch (e) {
+                console.warn('수집 상태를 불러오지 못했습니다.', e);
             }
         }
 
@@ -403,9 +422,6 @@
                 };
                 badges += `<span class="${categoryColors[jobCategory]} text-xs font-semibold px-2.5 py-0.5 rounded">${categoryNames[jobCategory]}</span>`;
 
-                const analysis = job.ai_analysis || {};
-                const strategy = analysis.cover_letter_strategy || "분석 대기 중...";
-
                 card.innerHTML = `
                     <div class="flex justify-between items-start">
                         <div>
@@ -415,20 +431,6 @@
                             <p class="text-sm text-gray-400 mt-1">마감일: ${job.deadline}</p>
                         </div>
                         <a href="${job.link}" target="_blank" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 text-sm">공고 보기</a>
-                    </div>
-                    
-                    <div class="mt-4 pt-4 border-t border-gray-100">
-                        <details class="group">
-                            <summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-                                <span class="text-purple-600">✨ AI 자소서 전략 보기</span>
-                                <span class="transition group-open:rotate-180">
-                                    <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
-                                </span>
-                            </summary>
-                            <div class="text-gray-600 mt-3 group-open:animate-fadeIn text-sm whitespace-pre-line bg-gray-50 p-3 rounded">
-                                ${typeof strategy === 'string' ? strategy : JSON.stringify(strategy, null, 2)}
-                            </div>
-                        </details>
                     </div>
                 `;
                 list.appendChild(card);
@@ -440,7 +442,7 @@
                     jdInfo.textContent = relevance.jd_status === 'available'
                         ? `JD 키워드 ${signals.length}개 일치${signals.length ? ': ' + signals.join(' · ') : ''}`
                         : 'JD 확인 필요 · 직무명 기준으로 수집한 공고입니다.';
-                    card.insertBefore(jdInfo, card.lastElementChild);
+                    card.appendChild(jdInfo);
                 }
             });
         }
@@ -563,10 +565,12 @@
         <header class="mb-8 text-center">
             <h1
                 class="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
-                Job Scout AI
+                Job Scout
             </h1>
             <p class="text-gray-500 mt-2">매일 아침 배달되는 맞춤형 채용 브리핑</p>
         </header>
+
+        <p id="scraper-status" hidden class="mb-6 rounded bg-amber-100 p-3 text-sm text-amber-900" role="status"></p>
 
         <!-- 통계 카드 (클릭 가능) -->
         <div class="grid grid-cols-4 gap-4 mb-6">

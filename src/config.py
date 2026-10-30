@@ -20,9 +20,10 @@ class Config:
     # 상세 페이지 장애가 전체 자동화를 지연시키지 않도록 실행당 조회를 제한.
     DATA_DETAIL_LIMIT = 100
     DATA_DETAIL_BUDGET_SECONDS = 300
+    # 마감일이 없는 데이터 공고는 검색에서 마지막으로 확인된 뒤 60일까지만 유지.
+    DATA_STALE_DAYS = 60
     
     # Secrets (Environment Variables)
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
     
     # 카테고리별 이메일 수신자 설정
@@ -36,3 +37,4 @@ class Config:
     
     # Paths
     DATA_FILE = "docs/jobs.json"
+    STATUS_FILE = "docs/scraper_status.json"
