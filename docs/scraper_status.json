@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-10-31T01:18:19.795902+00:00",
+  "checked_at": "2026-11-01T00:37:15.479801+00:00",
   "sites": {
     "Saramin": {
       "status": "ok",
-      "collected": 452,
+      "collected": 444,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "JobKorea": {
       "status": "ok",
-      "collected": 256,
+      "collected": 255,
       "attempts": 28,
       "failures": 0,
       "reason": ""
@@ -24,9 +24,9 @@
     },
     "Incruit": {
       "status": "degraded",
-      "collected": 20,
-      "attempts": 10,
-      "failures": 4,
+      "collected": 4,
+      "attempts": 6,
+      "failures": 3,
       "reason": "ConnectTimeout"
     },
     "Wanted": {
