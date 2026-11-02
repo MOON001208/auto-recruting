@@ -1,23 +1,23 @@
 {
-  "checked_at": "2026-11-01T00:37:15.479801+00:00",
+  "checked_at": "2026-11-02T01:11:37.824572+00:00",
   "sites": {
     "Saramin": {
       "status": "ok",
-      "collected": 444,
+      "collected": 440,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "JobKorea": {
       "status": "ok",
-      "collected": 255,
+      "collected": 260,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "Linkareer": {
       "status": "ok",
-      "collected": 16,
+      "collected": 15,
       "attempts": 29,
       "failures": 0,
       "reason": ""

@@ -1,5 +1,17 @@
 [
   {
+    "id": "saramin_55326342",
+    "site": "Saramin",
+    "title": "세무회계사무소 직원 구함",
+    "company": "이기훈세무회계사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55326342&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=d26fb56b-1d9c-4be0-92f5-f3dc22e5d484",
+    "deadline": "~ 11/03(화)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-20T01:03:21.139640",
+    "is_new": false
+  },
+  {
     "id": "saramin_55387342",
     "site": "Saramin",
     "title": "[한화임팩트] 생산직 오퍼레이터 신입 채용 (충남 대산)",
@@ -36,193 +48,13 @@
     "category": "Accounting"
   },
   {
-    "id": "saramin_55413238",
-    "site": "Saramin",
-    "title": "10월 설비 부문 신입/경력 채용 (설비보전담당, 고졸)",
-    "company": "스템코(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55413238&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=928eeadf-a79e-47a5-aa48-bb964b79d6ef",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-29T01:36:14.023307",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55366117",
-    "site": "Saramin",
-    "title": "2026년 하반기 6급 신입사원 공개채용",
-    "company": "(주)케이비손해보험",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55366117&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5d910556-4e22-45b9-920d-432ee3b67fee",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-25T00:07:59.824504",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55375822",
-    "site": "Saramin",
-    "title": "(주)엘앤에프 품질부문(품질보증) 신입사원 채용",
-    "company": "(주)엘앤에프",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55375822&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=6b806a40-f232-40dd-8e6f-7f308f2aa501",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-24T00:21:25.138677",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55377365",
-    "site": "Saramin",
-    "title": "[기획조정실] HRD 담당자 모집 (신입)",
-    "company": "(주)교원프라퍼티",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55377365&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=c64d4219-7c8a-4459-953a-900c56ff4897",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "HRD",
-    "category": "HR",
-    "scraped_at": "2026-10-24T00:21:25.136491",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55330173",
-    "site": "Saramin",
-    "title": "이네오스 스티롤루션 여수공장(KRCC) 채용(생산운전원-Operator)",
-    "company": "케이알코폴리머(유)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55330173&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=afdf51cb-ef73-40d0-99e1-2d990e71ac6c",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-22T00:30:43.620165",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55355489",
-    "site": "Saramin",
-    "title": "경영지원팀 경영지원(총무/인사) 신입사원 채용",
-    "company": "그린케미칼(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55355489&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=b44d62f5-9595-473c-b546-ed70856f8993",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "결산",
-    "category": "Accounting",
-    "scraped_at": "2026-10-22T00:30:43.616933",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55337926",
-    "site": "Saramin",
-    "title": "[카펙발레오] BSA 생산팀 사무직(정규직) 채용",
-    "company": "(주)카펙발레오",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55337926&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=ffa7eda8-f6bc-484b-bb59-4616d8f668df",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-21T00:27:41.788486",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55329903",
-    "site": "Saramin",
-    "title": "에이치엘만도(주) 생산 기능직 신입사원 채용 공고",
-    "company": "에이치엘만도(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55329903&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=caceabe4-975a-4a08-b243-5e8f26f47000",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-20T01:03:21.142670",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55302908",
-    "site": "Saramin",
-    "title": "2027 다이닝브랜즈그룹 대졸 신입사원 채용",
-    "company": "다이닝브랜즈그룹(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55302908&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=e783f5d5-d442-49df-9603-6a22ccbb4765",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "HRM",
-    "category": "HR",
-    "scraped_at": "2026-10-19T00:01:31.782423",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55289708",
-    "site": "Saramin",
-    "title": "26년 하반기 대졸 신입 공개채용(구매)",
-    "company": "에스케이피유코어(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55289708&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=18e0e608-0857-4fee-916f-84d805901a5a",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-10-15T00:24:31.516987",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55256617",
-    "site": "Saramin",
-    "title": "[KFC] 교육팀 트레이너 채용",
-    "company": "(주)케이에프씨코리아",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55256617&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=a565897c-2489-4fab-aac4-00e63a5b1a58",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "HRM",
-    "category": "HR",
-    "scraped_at": "2026-10-13T02:59:21.700113",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55188270",
-    "site": "Saramin",
-    "title": "(주)남일 경영지원팀(안전·보건·ESG·총무) 정규직 채용 공고",
-    "company": "(주)남일",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55188270&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8e1ff3b5-eb71-4ac3-8a01-726a5188791d",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "총무",
-    "category": "HR",
-    "scraped_at": "2026-10-12T01:03:48.599565",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55192269",
-    "site": "Saramin",
-    "title": "(주)동부 건설업 인사/노무 담당",
-    "company": "(주)동부",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192269&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=3d4fa65c-7661-47e3-9a51-9bfd24fd7c9c",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "인사",
-    "category": "HR",
-    "scraped_at": "2026-10-06T02:13:26.875814",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55190295",
-    "site": "Saramin",
-    "title": "주식회사 새벽에서 아웃소싱 관리자(인사·노무·HRD)를 모집해요",
-    "company": "주식회사 새벽",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55190295&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=af1c4a34-ce82-4955-8df3-f47c448e8e2a",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "HRD",
-    "category": "HR",
-    "scraped_at": "2026-10-03T01:08:22.452824",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55192364",
-    "site": "Saramin",
-    "title": "전산회계경리 정규직 채용합니다.",
-    "company": "(주)범창모산",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192364&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=1a4bc35b-f762-4062-b055-1197e70d5d21",
-    "deadline": "~ 11/01(일)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-10-03T01:08:22.448777",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55190938",
-    "site": "Saramin",
-    "title": "[퍼즐데이터] 데이터분석가 채용",
-    "company": "(주)퍼즐데이터",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55190938&location=ts&searchword=Business+Data+Analyst&searchType=search&paid_fl=n&search_uuid=17925e64-4884-474d-bfe1-319d328858ab",
-    "deadline": "11/01 마감",
-    "hidden_keyword": "Business Data Analyst",
+    "id": "incruit_2611020000146",
+    "site": "Incruit",
+    "title": "인사 시스템 운영 담당자(HR System & Data Analyst)  채용 (경력직)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611020000146&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
     "description": "",
     "data_relevance": {
       "matched": true,
@@ -235,9 +67,117 @@
       "reason": "직무명 일치 · JD 확인 필요"
     },
     "category": "Data",
-    "scraped_at": "2026-10-03T01:08:22.448415",
-    "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "scraped_at": "2026-11-02T01:14:25.899954",
+    "last_seen_at": "2026-11-02T01:14:25.899967+00:00",
+    "is_new": true
+  },
+  {
+    "id": "jk_50214964",
+    "site": "JobKorea",
+    "title": "상시채용 (인재DB) - 구매",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214964?Oem_Code=C1&logpath=1&stext=HRM&listno=20&sc=630",
+    "deadline": "상시채용",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.817632",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55392065",
+    "site": "Saramin",
+    "title": "2027년도 IBK투자증권 신입사원 공개채용",
+    "company": "아이비케이투자증권(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55392065&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5a040550-cc10-40b1-b41d-c3b67a1c0585",
+    "deadline": "~ 11/04(수)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.519424",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55391604",
+    "site": "Saramin",
+    "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+    "company": "에스케이실트론(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55391604&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5a040550-cc10-40b1-b41d-c3b67a1c0585",
+    "deadline": "~ 11/08(일)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.519043",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55444220",
+    "site": "Saramin",
+    "title": "[동아제약] 생산본부 11월 신입 수시채용",
+    "company": "동아제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55444220&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=5a040550-cc10-40b1-b41d-c3b67a1c0585",
+    "deadline": "~ 11/08(일)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.518645",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55438161",
+    "site": "Saramin",
+    "title": "2026년 하반기 현대백화점그룹 대졸 신입사원 채용(지원)",
+    "company": "(주)현대홈쇼핑",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55438161&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=e6bb35ff-8155-4428-a7c0-8cbc7d13683f",
+    "deadline": "~ 11/12(목)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.517859",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55438067",
+    "site": "Saramin",
+    "title": "2026년 하반기 현대백화점그룹 대졸 신입사원 채용(경영지원)",
+    "company": "(주)현대백화점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55438067&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=e6bb35ff-8155-4428-a7c0-8cbc7d13683f",
+    "deadline": "~ 11/12(목)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.517432",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55391416",
+    "site": "Saramin",
+    "title": "2026년도 부산지사 비정규직(육아휴직 대체인력) 공개 모집",
+    "company": "대한적십자사",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55391416&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=e6bb35ff-8155-4428-a7c0-8cbc7d13683f",
+    "deadline": "~ 11/12(목)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.517031",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55437079",
+    "site": "Saramin",
+    "title": "2026년 4분기 글로벌 외식관리자 채용(전국/외국인 전형)",
+    "company": "(주)이랜드이츠",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437079&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=e6bb35ff-8155-4428-a7c0-8cbc7d13683f",
+    "deadline": "~ 11/15(일)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.516615",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55449288",
+    "site": "Saramin",
+    "title": "인사총무팀 신입 모집",
+    "company": "(주)에이치티로보틱스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55449288&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=d2f37e5d-8be1-46c6-99ce-3caf0f32e09e",
+    "deadline": "~ 11/13(금)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-02T01:14:25.515211",
+    "is_new": true
   },
   {
     "id": "jk_50099355",
@@ -249,7 +189,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-01T00:40:00.867142",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50175034",
@@ -261,7 +201,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-01T00:40:00.797391",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55440755",
@@ -273,7 +213,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-01T00:40:00.669642",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55439206",
@@ -285,7 +225,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-01T00:40:00.667593",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55440281",
@@ -297,7 +237,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-01T00:40:00.666930",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2609170003157",
@@ -419,7 +359,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236775",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -468,7 +408,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236759",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -492,7 +432,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236742",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -720,7 +660,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.012545",
-    "last_seen_at": "2026-10-31T01:21:47.012546+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -744,7 +684,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.012265",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -768,7 +708,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.012014",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -792,7 +732,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.011769",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -816,7 +756,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.005046",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -841,7 +781,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.000707",
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00",
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00",
     "is_new": false
   },
   {
@@ -1133,7 +1073,7 @@
     "category": "Data",
     "scraped_at": "2026-10-30T01:45:17.935148",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "jk_50238633",
@@ -1533,7 +1473,7 @@
     "category": "Data",
     "scraped_at": "2026-10-28T01:03:49.268258",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "saramin_55399989",
@@ -3132,7 +3072,7 @@
     "category": "Data",
     "scraped_at": "2026-10-22T00:30:43.615036",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "saramin_55308205",
@@ -3156,7 +3096,7 @@
     "category": "Data",
     "scraped_at": "2026-10-22T00:30:43.614086",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "linkareer_348189",
@@ -3384,18 +3324,6 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-10-20T01:03:21.140431",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55326342",
-    "site": "Saramin",
-    "title": "세무회계사무소 직원 구함",
-    "company": "이기훈세무회계사무소",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55326342&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=d26fb56b-1d9c-4be0-92f5-f3dc22e5d484",
-    "deadline": "~ 11/03(화)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-10-20T01:03:21.139640",
     "is_new": false
   },
   {
@@ -5218,7 +5146,7 @@
     "category": "Data",
     "scraped_at": "2026-10-14T00:59:53.062220",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "jk_50135552",
@@ -5511,7 +5439,7 @@
     "category": "Data",
     "scraped_at": "2026-10-13T02:59:21.697957",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "jk_50086162",
@@ -5595,7 +5523,7 @@
     "category": "Data",
     "scraped_at": "2026-10-12T01:03:48.596732",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "linkareer_355831",
@@ -6435,7 +6363,7 @@
     "category": "Data",
     "scraped_at": "2026-10-07T01:21:34.246223",
     "is_new": false,
-    "last_seen_at": "2026-11-01T00:37:15.483777+00:00"
+    "last_seen_at": "2026-11-02T01:11:37.830723+00:00"
   },
   {
     "id": "jk_49970828",
