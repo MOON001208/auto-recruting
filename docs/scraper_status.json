@@ -1,40 +1,40 @@
 {
-  "checked_at": "2026-11-13T02:22:11.349803+00:00",
+  "checked_at": "2026-11-14T02:03:54.131287+00:00",
   "sites": {
     "Saramin": {
-      "status": "ok",
-      "collected": 442,
+      "status": "degraded",
+      "collected": 419,
       "attempts": 28,
-      "failures": 0,
-      "reason": ""
+      "failures": 1,
+      "reason": "ConnectTimeout"
     },
     "JobKorea": {
       "status": "ok",
-      "collected": 208,
+      "collected": 213,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "Linkareer": {
       "status": "ok",
-      "collected": 16,
+      "collected": 17,
       "attempts": 29,
       "failures": 0,
       "reason": ""
     },
     "Incruit": {
       "status": "ok",
-      "collected": 642,
+      "collected": 655,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "Wanted": {
-      "status": "failed",
-      "collected": 0,
-      "attempts": 3,
-      "failures": 3,
-      "reason": "HTTP 403"
+      "status": "ok",
+      "collected": 136,
+      "attempts": 28,
+      "failures": 0,
+      "reason": ""
     }
   }
 }
