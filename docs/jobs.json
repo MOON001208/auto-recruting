@@ -1,5 +1,127 @@
 [
   {
+    "id": "saramin_55545153",
+    "site": "Saramin",
+    "title": "4급 시설관리(FM) 부문 신입채용",
+    "company": "(주)에스원",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55545153&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=7fc73e11-ce9c-4286-9bf8-e8dd74c00ffa",
+    "deadline": "11/17 마감",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:13.985357",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55546737",
+    "site": "Saramin",
+    "title": "2026년 신한은행 정보보호 수시채용",
+    "company": "(주)신한은행",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55546737&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=6d4557ed-2e59-469d-94db-fa9e22f13692",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-13T02:24:16.991398",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55530952",
+    "site": "Saramin",
+    "title": "호텔&레저부문 서울호텔 4급 신입사원 채용",
+    "company": "(주)호텔신라",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530952&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=727a0269-df26-4a2f-b967-cdbb07c55b0f",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-11T01:41:43.662855",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55530961",
+    "site": "Saramin",
+    "title": "[NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석)",
+    "company": "네이버제트(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530961&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=408eb619-1c6b-42f1-83ea-8696d050773f",
+    "deadline": "11/17 마감",
+    "hidden_keyword": "Data Analyst",
+    "description": "채용공고 상세 [NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석) 모집분야 [NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석) 📋 주요업무 7. 제페토 데이터 분석 체험형 인턴 - 대시보드 구축 지원\r\n- 제페토 관련 데이터 추출 보조\r\n- 미니 데이터 분석 프로젝트 수행 및 데이터 인사이트 도출 지원 📋 자격요건 - 계약 기간(약 3개월) 동안 full-time 근무 가능하신 분 [월-금, 10-19시]\r\n- 전형 절차 별 일정에 참여 가능하신 분 [입과 예정일: 2026년 12월 14일]\r\n- 논리적·분석적 사고를 바탕으로 데이터를 이해하고, 합리적인 근거에 기반한 소통이 가능하신 분\r\n- 데이터를 분석하여 인사이트를 도출한 경험이 있거나, SQL 등 데이터 분석 도구 활용 역량을 갖추신 분\r\n- 모바일, XR, AI 서비스와 디지털 콘텐츠 산업 전반에 높은 관심과 이해도를 지니신 분\r\n- 데이터를 중심으로 서비스를 분석하고 개선점을 도출할 수 있는 능력을 보유하신 분 🏠 근무조건 • 고용형태 : 인턴직 (약 3개월) • 급여 : 면접 후 결정 • 근무지 : 경기도 성남시 분당구 정자동 🚀 채용절차 접수기간 : 2026년 11월 09일 ~ 2026년 11월 17일 23시 59분 제출서류 : 이력서, 자기소개서 접수방법 : 홈페이지 지원 전형절차 : 서류 전형 → 인터뷰 → 입과\r\n※ 전형절차는 상황에 따라 변동될 수 있으며, 전형별 결과에 따라 절차(ex. 사전 과제 등)가 추가될 수 있습니다. 🛎️ 유의사항 • 사람인에서 수집한 공고입니다. 정보 수정이 필요할 경우 고객센터 > 이메일 문의 로 문의해 주세요. • 정확한 상세요강은 반드시 채용 홈페이지에서 직접 확인 해 주시기 바랍니다.",
+    "data_relevance": {
+      "matched": true,
+      "score": 1,
+      "matched_keywords": [
+        "SQL"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-11T01:41:43.651058",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55520862",
+    "site": "Saramin",
+    "title": "[DN솔루션즈] 운영지원 업무 신입사원 채용 (서울)",
+    "company": "(주)디엔솔루션즈",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520862&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=bc98d618-1c2b-4c37-81b1-4bedb72cde7d",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-10T03:59:05.689433",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55491810",
+    "site": "Saramin",
+    "title": "2026년 신입사원 채용",
+    "company": "(주)케이티씨에스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55491810&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=e5158176-41e1-43d6-b110-a3ba1492d612",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-11-06T02:01:31.034220",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55452503",
+    "site": "Saramin",
+    "title": "기술보증기금 무기계약직(고졸자) 채용공고",
+    "company": "기술보증기금",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55452503&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=192a6115-6fe3-47e2-bd53-22ae98a52614",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-03T03:15:43.864444",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55264201",
+    "site": "Saramin",
+    "title": "[SCG솔루션즈] IT 재무관리 / 자금 신입",
+    "company": "에스씨지솔루션즈(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55264201&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=2ee23b35-d1e8-4af7-b169-714c20b4fcd0",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-10-13T02:59:21.699313",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55072963",
+    "site": "Saramin",
+    "title": "[신입] 인사 팀원 모집",
+    "company": "(주)스튜디오프리윌루전",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072963&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=caa42e37-5901-4a88-8224-05dbca48b1bf",
+    "deadline": "~ 11/17(화)",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-09-19T00:00:14.981412",
+    "is_new": false
+  },
+  {
     "id": "saramin_55413962",
     "site": "Saramin",
     "title": "퍼스트키퍼스㈜ 2026년 6차 채용 공고",
@@ -75,104 +197,711 @@
     "is_new": false
   },
   {
-    "id": "saramin_55532340",
-    "site": "Saramin",
-    "title": "[여수산단] 재원산업(주) 재무관리실 회계담당 (대졸 신입)",
-    "company": "재원산업(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55532340&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=6bc1efde-2a2d-4b94-893e-3c054fac7690",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-11-11T01:41:43.654393",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55438269",
-    "site": "Saramin",
-    "title": "2027년 상반기 신입사원 채용 [장기보험심사]",
-    "company": "(주)케이비손해사정",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55438269&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=bc98d618-1c2b-4c37-81b1-4bedb72cde7d",
-    "deadline": "~ 11/15(일)",
+    "id": "wanted_398085",
+    "site": "Wanted",
+    "title": "채용팀 리더",
+    "company": "엘리스",
+    "link": "https://www.wanted.co.kr/wd/398085",
+    "deadline": "",
     "hidden_keyword": "채용",
     "category": "HR",
-    "scraped_at": "2026-11-10T03:59:05.690280",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.147841",
+    "is_new": true
   },
   {
-    "id": "saramin_55427814",
-    "site": "Saramin",
-    "title": "2026년 숭실대학교 신입직원 채용공고",
-    "company": "숭실대학교",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55427814&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=cc34f53b-1888-4184-aeca-bb972b4dec8b",
-    "deadline": "~ 11/15(일)",
+    "id": "wanted_377337",
+    "site": "Wanted",
+    "title": "[LINE Digital Frontier] LINE 만화 QA 엔지니어 _ 근무지 일본",
+    "company": "원티드_일본 현지 채용",
+    "link": "https://www.wanted.co.kr/wd/377337",
+    "deadline": "",
     "hidden_keyword": "채용",
     "category": "HR",
-    "scraped_at": "2026-11-09T01:25:07.557698",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.146923",
+    "is_new": true
   },
   {
-    "id": "saramin_55495938",
-    "site": "Saramin",
-    "title": "비티젠 2026년 11월 수시채용",
-    "company": "비티젠(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55495938&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=cc34f53b-1888-4184-aeca-bb972b4dec8b",
-    "deadline": "~ 11/15(일)",
+    "id": "wanted_390067",
+    "site": "Wanted",
+    "title": "데이터센터 전기 엔지니어",
+    "company": "엘리스",
+    "link": "https://www.wanted.co.kr/wd/390067",
+    "deadline": "",
     "hidden_keyword": "채용",
     "category": "HR",
-    "scraped_at": "2026-11-09T01:25:07.557318",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.146339",
+    "is_new": true
   },
   {
-    "id": "saramin_55503684",
-    "site": "Saramin",
-    "title": "2026년 원지 신입사원 채용공고(인사/총무 담당자)",
-    "company": "(주)원지",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55503684&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=156a8a43-e1d4-49bb-8bbf-67d6e3eb2578",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "인사",
+    "id": "wanted_389900",
+    "site": "Wanted",
+    "title": "[株式会社テクノプロ] 클라우드 엔지니어 (AWS) (인프라 사업본부)_근무지 일본",
+    "company": "원티드_일본 현지 채용",
+    "link": "https://www.wanted.co.kr/wd/389900",
+    "deadline": "",
+    "hidden_keyword": "채용",
     "category": "HR",
-    "scraped_at": "2026-11-07T01:33:12.375256",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.145804",
+    "is_new": true
   },
   {
-    "id": "saramin_55490349",
-    "site": "Saramin",
-    "title": "[채용연계형 인턴] 총무 담당자 모집(안성)",
-    "company": "(주)케이씨텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55490349&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=888170a5-2a4f-4850-97a0-d6171b1c51da",
-    "deadline": "~ 11/15(일)",
+    "id": "wanted_396889",
+    "site": "Wanted",
+    "title": "[株式会社データX] WEB디자이너_근무지 일본",
+    "company": "원티드_일본 현지 채용",
+    "link": "https://www.wanted.co.kr/wd/396889",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.145249",
+    "is_new": true
+  },
+  {
+    "id": "wanted_377829",
+    "site": "Wanted",
+    "title": "[Day1Company Japan] 사업전략 총괄 _근무지 일본",
+    "company": "원티드_일본 현지 채용",
+    "link": "https://www.wanted.co.kr/wd/377829",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.144736",
+    "is_new": true
+  },
+  {
+    "id": "wanted_395406",
+    "site": "Wanted",
+    "title": "[인턴] B2B 마케팅",
+    "company": "이빗",
+    "link": "https://www.wanted.co.kr/wd/395406",
+    "deadline": "",
     "hidden_keyword": "총무",
     "category": "HR",
-    "scraped_at": "2026-11-06T02:01:31.036587",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.144264",
+    "is_new": true
   },
   {
-    "id": "saramin_55467110",
-    "site": "Saramin",
-    "title": "[덕소공장] 회계/원가 직무 신입 채용",
-    "company": "(주)케이씨씨글라스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55467110&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=34fd45a5-20a9-4c8c-965e-38db249c3524",
-    "deadline": "~ 11/15(일)",
+    "id": "wanted_393915",
+    "site": "Wanted",
+    "title": "GA 담당자",
+    "company": "핀다(FINDA)",
+    "link": "https://www.wanted.co.kr/wd/393915",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.143839",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397351",
+    "site": "Wanted",
+    "title": "GA Manager (총무)",
+    "company": "콘텐츠테크놀로지스",
+    "link": "https://www.wanted.co.kr/wd/397351",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.143442",
+    "is_new": true
+  },
+  {
+    "id": "wanted_395625",
+    "site": "Wanted",
+    "title": "총무 담당자",
+    "company": "밀도",
+    "link": "https://www.wanted.co.kr/wd/395625",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.143048",
+    "is_new": true
+  },
+  {
+    "id": "wanted_395351",
+    "site": "Wanted",
+    "title": "[약올려] 대표 직속 운영총괄 (PeopleOps)",
+    "company": "룩인사이트",
+    "link": "https://www.wanted.co.kr/wd/395351",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.142630",
+    "is_new": true
+  },
+  {
+    "id": "wanted_394239",
+    "site": "Wanted",
+    "title": "[인턴]총무 담당자(전환형)",
+    "company": "와탭랩스(WhaTapLabs)",
+    "link": "https://www.wanted.co.kr/wd/394239",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.142246",
+    "is_new": true
+  },
+  {
+    "id": "wanted_382373",
+    "site": "Wanted",
+    "title": "[HYBE] Global Mobility(비자 지원)",
+    "company": "하이브(HYBE)",
+    "link": "https://www.wanted.co.kr/wd/382373",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.141705",
+    "is_new": true
+  },
+  {
+    "id": "wanted_391300",
+    "site": "Wanted",
+    "title": "Corporate IT 매니저",
+    "company": "지바이크(gbike)",
+    "link": "https://www.wanted.co.kr/wd/391300",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.141269",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397272",
+    "site": "Wanted",
+    "title": "[프로티너 본사] 인사총무 담당 (과·차장급)",
+    "company": "피알티엔",
+    "link": "https://www.wanted.co.kr/wd/397272",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.140721",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397002",
+    "site": "Wanted",
+    "title": "[HR Div] 인재개발(HRD) 기획·운영 담당자 (2년 이상/계약직)",
+    "company": "크래프톤(Krafton)",
+    "link": "https://www.wanted.co.kr/wd/397002",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.140255",
+    "is_new": true
+  },
+  {
+    "id": "wanted_393083",
+    "site": "Wanted",
+    "title": "HR Strategy",
+    "company": "인핸스(Enhans)",
+    "link": "https://www.wanted.co.kr/wd/393083",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.139768",
+    "is_new": true
+  },
+  {
+    "id": "wanted_390737",
+    "site": "Wanted",
+    "title": "HRD 담당자",
+    "company": "휴머스온",
+    "link": "https://www.wanted.co.kr/wd/390737",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.139317",
+    "is_new": true
+  },
+  {
+    "id": "wanted_388637",
+    "site": "Wanted",
+    "title": "Sales Trainer, Seoul, Korea",
+    "company": "테슬라(Tesla)",
+    "link": "https://www.wanted.co.kr/wd/388637",
+    "deadline": "",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.138789",
+    "is_new": true
+  },
+  {
+    "id": "wanted_398127",
+    "site": "Wanted",
+    "title": "[자리톡] 인사총무",
+    "company": "자리컴퍼니",
+    "link": "https://www.wanted.co.kr/wd/398127",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.138390",
+    "is_new": true
+  },
+  {
+    "id": "wanted_390738",
+    "site": "Wanted",
+    "title": "조직문화 담당자",
+    "company": "휴머스온",
+    "link": "https://www.wanted.co.kr/wd/390738",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.138005",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397806",
+    "site": "Wanted",
+    "title": "인사총무팀장",
+    "company": "컴포즈커피",
+    "link": "https://www.wanted.co.kr/wd/397806",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.137399",
+    "is_new": true
+  },
+  {
+    "id": "wanted_364675",
+    "site": "Wanted",
+    "title": "HR 리드",
+    "company": "워로브라더스",
+    "link": "https://www.wanted.co.kr/wd/364675",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.137017",
+    "is_new": true
+  },
+  {
+    "id": "wanted_81752",
+    "site": "Wanted",
+    "title": "테크 리크루터",
+    "company": "보이저엑스(VoyagerX)",
+    "link": "https://www.wanted.co.kr/wd/81752",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.136608",
+    "is_new": true
+  },
+  {
+    "id": "wanted_380252",
+    "site": "Wanted",
+    "title": "인사 담당자",
+    "company": "쿼터풀",
+    "link": "https://www.wanted.co.kr/wd/380252",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.136217",
+    "is_new": true
+  },
+  {
+    "id": "wanted_383660",
+    "site": "Wanted",
+    "title": "HR Operations Manager (BPO 사업 HR 체계·운영 담당)",
+    "company": "토스씨엑스",
+    "link": "https://www.wanted.co.kr/wd/383660",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.135785",
+    "is_new": true
+  },
+  {
+    "id": "wanted_392020",
+    "site": "Wanted",
+    "title": "Coordinator - Professional Development",
+    "company": "맥킨지(McKinsey)",
+    "link": "https://www.wanted.co.kr/wd/392020",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.135285",
+    "is_new": true
+  },
+  {
+    "id": "wanted_395104",
+    "site": "Wanted",
+    "title": "HR Operations Manager (6개월 계약직)",
+    "company": "데이블(Dable)",
+    "link": "https://www.wanted.co.kr/wd/395104",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.134816",
+    "is_new": true
+  },
+  {
+    "id": "wanted_391027",
+    "site": "Wanted",
+    "title": "급여 아웃소싱(BPO) B2B 세일즈 매니저(3년이하)",
+    "company": "휴먼컨설팅그룹",
+    "link": "https://www.wanted.co.kr/wd/391027",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.133987",
+    "is_new": true
+  },
+  {
+    "id": "wanted_386220",
+    "site": "Wanted",
+    "title": "재무 및 세무회계 담당자",
+    "company": "케이티밀리의서재",
+    "link": "https://www.wanted.co.kr/wd/386220",
+    "deadline": "",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.133550",
+    "is_new": true
+  },
+  {
+    "id": "wanted_385075",
+    "site": "Wanted",
+    "title": "시니어 데이터 엔지니어",
+    "company": "알프레드",
+    "link": "https://www.wanted.co.kr/wd/385075",
+    "deadline": "",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.133173",
+    "is_new": true
+  },
+  {
+    "id": "wanted_358191",
+    "site": "Wanted",
+    "title": "재무파트 시니어",
+    "company": "키즈노트",
+    "link": "https://www.wanted.co.kr/wd/358191",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.132646",
+    "is_new": true
+  },
+  {
+    "id": "wanted_393059",
+    "site": "Wanted",
+    "title": "재무",
+    "company": "닥터블릿헬스케어",
+    "link": "https://www.wanted.co.kr/wd/393059",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.132183",
+    "is_new": true
+  },
+  {
+    "id": "wanted_393276",
+    "site": "Wanted",
+    "title": "글로벌 뷰티 브랜드 재무회계 팀장 (10년이상)",
+    "company": "케이시크릿",
+    "link": "https://www.wanted.co.kr/wd/393276",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.131795",
+    "is_new": true
+  },
+  {
+    "id": "wanted_394204",
+    "site": "Wanted",
+    "title": "경영관리(회계/재무)담당 (2년이상)",
+    "company": "엠플레이그라운드",
+    "link": "https://www.wanted.co.kr/wd/394204",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.131419",
+    "is_new": true
+  },
+  {
+    "id": "wanted_396403",
+    "site": "Wanted",
+    "title": "재무회계 담당자",
+    "company": "코인원(coinone)",
+    "link": "https://www.wanted.co.kr/wd/396403",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.131042",
+    "is_new": true
+  },
+  {
+    "id": "wanted_382248",
+    "site": "Wanted",
+    "title": "재무회계 팀장",
+    "company": "모드하우스",
+    "link": "https://www.wanted.co.kr/wd/382248",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.130607",
+    "is_new": true
+  },
+  {
+    "id": "wanted_395131",
+    "site": "Wanted",
+    "title": "Finance Analyst (계약직)",
+    "company": "인핸스(Enhans)",
+    "link": "https://www.wanted.co.kr/wd/395131",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.130201",
+    "is_new": true
+  },
+  {
+    "id": "wanted_373360",
+    "site": "Wanted",
+    "title": "IT 내부통제 및 내부회계관리 담당자",
+    "company": "빗썸",
+    "link": "https://www.wanted.co.kr/wd/373360",
+    "deadline": "",
     "hidden_keyword": "회계",
     "category": "Accounting",
-    "scraped_at": "2026-11-04T01:53:02.838951",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.129704",
+    "is_new": true
   },
   {
-    "id": "saramin_52818590",
-    "site": "Saramin",
-    "title": "[채용연계형 인턴] Data Analyst",
-    "company": "(주)클래스101",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52818590&location=ts&searchword=Customer+Data+Analyst&searchType=search&paid_fl=n&search_uuid=28bfaaaa-e08a-4750-a8a8-3b927d715bbe",
-    "deadline": "11/15 마감",
-    "hidden_keyword": "Customer Data Analyst",
-    "description": "채용공고 상세 [채용연계형 인턴] Data Analyst 모집분야 [채용연계형 인턴] Data Analyst 📋 주요업무 • Data Governance (기초): 로그 품질 관리 및 데이터 정합성 검증을 통해 신뢰할 수 있는 데이터 환경을 만듭니다.\r\n• Process Optimization (성장): 반복되는 운영 업무를 자동화하거나 비효율을 제거하여 팀의 생산성을 높입니다.\r\n• Problem Solving (심화): 개인의 역량과 성장에 따라, 제품 성장을 위한 실험 수행, 러닝 추출, 모델링 등 데이터를 통해 검증하며 액션 아이템을 도출합니다. 📋 자격요건 • 데이터와 관련된 문제를 맡았을 때, 원인을 파악하고 개선하려는 태도를 가지신 분\r\n• 반복적인 업무를 그대로 수행하기보다, 더 나은 방식이 있는지 고민하는 분\r\n• 새로운 개념과 도구를 학습하는 데 거부감이 없고, 성장을 중요하게 생각하는 분 🏠 근무조건 • 고용형태 : 인턴직 6개월(정규직 전환가능) / 3개월 중간 전환 기회 존재\r\n   - 인턴십 기간 동안의 성과와 성장 가능성을 종합적으로 검토하여 정규직 전환 여부를 결정합니다. • 급여 : 면접 후 결정 • 근무지 : 서울 강남구 도곡로 111 미진빌딩 🚀 채용절차 접수기간 : 2026년 11월 01일 ~ 2026년 11월 15일 23시 59분, 채용 시 마감 제출서류 : 이력서, 자기소개서 접수방법 : 홈페이지 지원 전형절차 : 서류 전형 → 직무 인터뷰 → 컬처 인터뷰 🛎️ 유의사항 • 사람인에서 수집한 공고입니다. 정보 수정이 필요할 경우 고객센터 > 이메일 문의 로 문의해 주세요. • 정확한 상세요강은 반드시 채용 홈페이지에서 직접 확인 해 주시기 바랍니다.",
+    "id": "wanted_397871",
+    "site": "Wanted",
+    "title": "Controller, Korea",
+    "company": "월트디즈니컴퍼니(The Walt Disney Company)",
+    "link": "https://www.wanted.co.kr/wd/397871",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.129273",
+    "is_new": true
+  },
+  {
+    "id": "wanted_365980",
+    "site": "Wanted",
+    "title": "[운영부문] 원가/관리회계 담당자",
+    "company": "니어스랩",
+    "link": "https://www.wanted.co.kr/wd/365980",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.128832",
+    "is_new": true
+  },
+  {
+    "id": "wanted_396898",
+    "site": "Wanted",
+    "title": "회계팀 회계팀장",
+    "company": "카카오VX",
+    "link": "https://www.wanted.co.kr/wd/396898",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.128349",
+    "is_new": true
+  },
+  {
+    "id": "wanted_389592",
+    "site": "Wanted",
+    "title": "경영지원실 팀원 ( 4년 이상)",
+    "company": "와이어바알리(WireBarley)",
+    "link": "https://www.wanted.co.kr/wd/389592",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.127968",
+    "is_new": true
+  },
+  {
+    "id": "wanted_383104",
+    "site": "Wanted",
+    "title": "Finance Manager (재무·경영관리)",
+    "company": "고위드",
+    "link": "https://www.wanted.co.kr/wd/383104",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.127568",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397712",
+    "site": "Wanted",
+    "title": "ERP 회계 컨설턴트",
+    "company": "나인닷츠컨설팅",
+    "link": "https://www.wanted.co.kr/wd/397712",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.127111",
+    "is_new": true
+  },
+  {
+    "id": "wanted_392026",
+    "site": "Wanted",
+    "title": "회계감사부문 Digital Assurance SAP 및 ERP specialist",
+    "company": "딜로이트(Deloitte)",
+    "link": "https://www.wanted.co.kr/wd/392026",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.126700",
+    "is_new": true
+  },
+  {
+    "id": "wanted_378041",
+    "site": "Wanted",
+    "title": "Corp Mgmt & Finance Lead (경영관리/재무회계 총괄)",
+    "company": "타이드풀(TIDEPOOL)",
+    "link": "https://www.wanted.co.kr/wd/378041",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.126166",
+    "is_new": true
+  },
+  {
+    "id": "wanted_391914",
+    "site": "Wanted",
+    "title": "경영지원 매니저 (경영전략팀 소속 / 기술혁신실 경영지원 겸임)",
+    "company": "에버엑스",
+    "link": "https://www.wanted.co.kr/wd/391914",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.125678",
+    "is_new": true
+  },
+  {
+    "id": "wanted_396166",
+    "site": "Wanted",
+    "title": "[채널톡] Data Analyst (Product)",
+    "company": "채널코퍼레이션",
+    "link": "https://www.wanted.co.kr/wd/396166",
+    "deadline": "",
+    "hidden_keyword": "데이터 분석",
+    "description": "We Make a Future Classic Product! 데이터를 넘어, 채널톡의 성장 전략을 함께 설계할 분을 찾습니다. 채널톡 Data Intelligence(DI)팀은 \"데이터를 기반으로 전사적으로 어디에 리소스를 더 쓰고 무엇에 집중하는 게 맞는지, 전반적인 방향을 제시하는 팀\"이라는 미션 아래 DI1팀과 DI2팀 두 팀으로 나뉘어 움직입니다. 두 팀 모두 같은 미션을 공유하되, 집중하는 과제가 다릅니다. • DI1팀은 전사 공용 데이터 인프라·기준인 \"데이터 코어\"를 소유하면서 매출·비용 구조를 데이터로 설계하는 데 집중하고 비즈니스 팀(세일즈 메인)에 데이터 인텔리전스를 공급합니다. • DI2팀은 프로덕트 팀과 밀착해 제품 핵심 지표를 정의하고, 데이터와 실험을 통해 채널톡 AI 프로덕트의 성장을 주도하는 데 집중합니다. 정량적인 방법을 통해 효율적으로 문제를 정의하고, 해결합니다. DI팀의 Data Analyst는 단순히 데이터를 추출하고 전달하는 사람이 아니라, 데이터라는 도구를 이용해 전략을 만드는 사람입니다. 데이터를 기반으로 하되 데이터에 머무르지 않고, 비즈니스·프로덕트 팀 인터뷰, 시장 조사 등 가용한 모든 수단을 동원해 성장 전략을 직접 설계하고 실행합니다. • Data Analyst (Product)은 Data Intelligence 2팀에 소속되어, 데이터와 실험을 통해 채널톡 AI 프로덕트의 성장을 주도하는 포지션입니다. Proactive하게 제품에서 문제 해결이 필요한 곳을 가장 먼저 발견하고, 정량적인 방법을 통해 효율적으로 문제를 해결하는 분석가이자 전략가입니다. • 논리적 사고와 정량적 분석을 바탕으로 전사 데이터의 뼈대를 세우고, 도출한 인사이트를 통해 조직 전체가 확신을 가지고 올바른 의사결정을 내릴 수 있도록 명확한 방향을 제시합니다. • AI 시대에 더 빠르고 정확한 방향으로 이터레이션을 돌리기 위해, 신뢰 가능하고 정량적인 평가 지표 체계를 구축하고, 전사의 실험 문화 확산을 주도합니다. • 단순히 데이터를 추출하거나 분석하는 것에 그치지 않고, 실제 액션까지 이어질 수 있도록 하는 것이 핵심 미션입니다. 비즈니스 임팩트와 제품의 성장을 데이터로 빈틈없이 연결하며, 채널톡의 AI 여정을 가장 앞단에서 이끌어갈 분을 기다립니다. 우리 팀은 \"이 일이 채널톡의 기업가치에 어떻게 기여하는가?\"라는 질문을 항상 던지며, 임팩트 연결 고리가 명확한 일에 집중합니다. 데이터의 잠재력을 믿고, 그 가치를 전략으로 실현하는 여정에 함께할 분을 기다립니다. [채널팀이 더욱 궁금하다면?] 홈페이지: https://channel.io/ko 블로그: https://channel.io/ko/blog 유튜브: https://www.youtube.com/channel/UCy4L-mlTgH-v8vBbtzCGhIA 인스타그램: https://www.instagram.com/channel.io/ 주요업무 • AI 에이전트인 CoS의 실험 및 평가 체계를 구축합니다. 더 빠르게 이터레이션을 돌리고 정확하게 검증할 수 있는 환경을 제공합니다. • 제품 개선이 실제 비즈니스 임팩트로 이어질 수 있도록 데이터에 기반한 방향성을 제시합니다. • 기능 배포나 모델 변경 등이 핵심 지표에 미친 인과 효과와, 통계적 유의성을 엄밀하게 검증하여, 확신을 가지고 의사결정할 수 있는 환경을 제공합니다. • 제품팀과 밀착하여 일하며, 주도적으로 제품의 개선점을 발굴하고 정량적 모델링 및 분석을 통해 솔루션을 도출합니다. 자격요건 • 정량적 영역(DA, DS, ML 등)에서 문제 해결 경험이 3년 이상이신 분. • SQL과 Python을 능숙하게 다룰 수 있으며, 대용량 데이터를 빠르고 정확하게 분석하실 수 있으신 분. • 제품의 배포나 각종 액션들의 인과를 검증하기 위해 A/B 테스트 설계, 통계적 가설 검정, 인과추론 등의 기법을 능숙하게 사용하실 수 있으신 분. • 복잡하게 얽힌 비즈니스 및 프로덕트 문제를 정량적 지표로 구조화하고, 주도적으로 액션 아이템을 도출할 수 있으신 분. • 다양한 직군과 원할하게 소통하고, 데이터를 이용해 논리적이고 합리적인 설득을 해낼 수 있는 커뮤니케이션 역량을 갖추신 분. 상세 정보 더 보기\n주요업무 • AI 에이전트인 CoS의 실험 및 평가 체계를 구축합니다. 더 빠르게 이터레이션을 돌리고 정확하게 검증할 수 있는 환경을 제공합니다. • 제품 개선이 실제 비즈니스 임팩트로 이어질 수 있도록 데이터에 기반한 방향성을 제시합니다. • 기능 배포나 모델 변경 등이 핵심 지표에 미친 인과 효과와, 통계적 유의성을 엄밀하게 검증하여, 확신을 가지고 의사결정할 수 있는 환경을 제공합니다. • 제품팀과 밀착하여 일하며, 주도적으로 제품의 개선점을 발굴하고 정량적 모델링 및 분석을 통해 솔루션을 도출합니다.\n자격요건 • 정량적 영역(DA, DS, ML 등)에서 문제 해결 경험이 3년 이상이신 분. • SQL과 Python을 능숙하게 다룰 수 있으며, 대용량 데이터를 빠르고 정확하게 분석하실 수 있으신 분. • 제품의 배포나 각종 액션들의 인과를 검증하기 위해 A/B 테스트 설계, 통계적 가설 검정, 인과추론 등의 기법을 능숙하게 사용하실 수 있으신 분. • 복잡하게 얽힌 비즈니스 및 프로덕트 문제를 정량적 지표로 구조화하고, 주도적으로 액션 아이템을 도출할 수 있으신 분. • 다양한 직군과 원할하게 소통하고, 데이터를 이용해 논리적이고 합리적인 설득을 해낼 수 있는 커뮤니케이션 역량을 갖추신 분.",
+    "data_relevance": {
+      "matched": true,
+      "score": 4,
+      "matched_keywords": [
+        "SQL",
+        "Python",
+        "Experiment",
+        "LLM / AI Agent"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-16T01:41:14.125202",
+    "last_seen_at": "2026-11-16T01:41:14.125207+00:00",
+    "is_new": true
+  },
+  {
+    "id": "wanted_376885",
+    "site": "Wanted",
+    "title": "[Data팀] Data Analyst (데이터 분석가)",
+    "company": "아이샵케어",
+    "link": "https://www.wanted.co.kr/wd/376885",
+    "deadline": "",
+    "hidden_keyword": "데이터 분석",
+    "description": "[아이샵케어를 소개해 드려요] 오프라인 결제 시장의 Game Changer, 아이샵케어 · 아이샵케어는 비바리퍼블리카 계열사인 토스플레이스(tossplace)의 자회사로, 결제 단말기·POS·키오스크부터 인터넷·CCTV, 매장 기기, 배달 입점까지 매장 운영 전반을 통합 지원하는 전문 VAN 대리점이에요. · 복잡한 결제·설치·운영 절차를 혁신해 사장님이 본업에 집중할 수 있는 환경을 만들고 있어요. [숫자로 보는 아이샵케어] · 매월 5,000곳 이상의 신규 가맹점이 아이샵케어를 선택해요. · 누적 130,000곳 이상의 매장과 함께 성장하고 있어요. · 단말기 도입부터 카드사 청약, 정산 시스템까지 사업 운영의 모든 과정을 빠르고 간편하게 만들어요. [아이샵케어가 일하는 방식] 아이샵케어는 새로운 문제와 모호함 속에서 답을 만들어가는 팀이에요. 그래서 무엇을 하느냐 이전에, 어떤 태도로 문제를 마주하고 끝내 결과를 만들어내는지를 중요하게 생각해요. 우리가 일하는 다섯 가지 기준 · One Team — 유기적으로 연결된 한 팀으로 일해요 · Passion — 열정의 다른 이름은 몰입이에요 · Customer Driven — 망설일 땐 늘 고객 편에 서요 · Focus on Impact — 가장 중요한 일을 가장 잘 해내요 · Innovation — 더 나은 방법을 찾고, 적용하고, 변화를 만들어요 [아이샵케어가 찾는 동료] 주도성, 돌파력, 탁월함. 이 세 가지 DNA를 가진 분과 함께하고 싶어요. · \"제 일이 아닌데요\"라고 선 긋지 않고, 팀의 빈틈에 먼저 뛰어드는 분 · 실패나 모호함 앞에서 핑계를 찾기보다 당장 할 수 있는 대안을 빠르게 만들어내는 분 · \"열심히 했다\"에 머무르지 않고 지표·성과로 끝내 증명해 내는 분 아이샵케어와 함께 더 나은 변화를 만들어 갈 동료를 기다리고 있어요. 지금, 아이샵케어의 여정에 함께해 주세요. 주요업무 데이터 분석 (Analytics) · 리드부터 단말기 설치까지 전반적인 퍼널 데이터를 분석해요. · 제품 사용 흐름과 전환 데이터를 기반으로 개선 포인트를 도출해요. · 데이터 기반으로 문제를 정의하고, 가설을 수립해 실험을 설계하고 성과를 측정해요. 성과 관리 (Performance) · 제품 및 서비스 데이터를 분석해 성장 기회를 발굴해요. · 핵심 KPI를 설계하고 고도화하며, 지표 모니터링 체계를 개선해요. · 퍼널 단위의 지표를 정기적으로 리뷰하고, 증감 원인을 분석해요. · 분석 결과를 바탕으로 실행 가능한 액션을 도출하고 성과로 연결해요. 비즈니스 파트너십 (Partnership) · 데이터 분석을 통해 전사 의사결정을 지원해요. · 유관 부서와 협업하며, 분석 결과를 실행으로 연결해요. · 조직과 서비스 전반의 문제를 데이터 관점에서 정의하고 해결해요. 데이터 인프라 (Data Infrastructure) · Tableau를 활용해 주요 지표를 시각화하고 대시보드를 구축·운영해요. · Snowflake 기반으로 데이터를 추출하고 분석해요. · 데이터 신뢰도를 관리하고, 분석 환경을 개선해요. · 반복 업무를 자동화해 데이터 운영 효율을 높여요. 자격요건 · 데이터 분석 또는 유관 경험이 3년 이상 있으신 분을 찾고 있어요. · SQL을 활용해 데이터를 추출하고 분석할 수 있는 분을 찾고 있어요. · 데이터 기반으로 문제를 정의하고, 가설 수립부터 실행 및 성과 측정까지 경험해보신 분을 찾고 있어요. · 다양한 이해관계자와 협업하며, 분석 결과를 실행으로 연결해본 경험이 있는 분을 찾고 있어요. · 빠르게 변화하는 환경에서도 책임감을 가지고 끝까지 실행해본 경험이 있는 분을 찾고 있어요. 상세 정보 더 보기\n주요업무 데이터 분석 (Analytics) · 리드부터 단말기 설치까지 전반적인 퍼널 데이터를 분석해요. · 제품 사용 흐름과 전환 데이터를 기반으로 개선 포인트를 도출해요. · 데이터 기반으로 문제를 정의하고, 가설을 수립해 실험을 설계하고 성과를 측정해요. 성과 관리 (Performance) · 제품 및 서비스 데이터를 분석해 성장 기회를 발굴해요. · 핵심 KPI를 설계하고 고도화하며, 지표 모니터링 체계를 개선해요. · 퍼널 단위의 지표를 정기적으로 리뷰하고, 증감 원인을 분석해요. · 분석 결과를 바탕으로 실행 가능한 액션을 도출하고 성과로 연결해요. 비즈니스 파트너십 (Partnership) · 데이터 분석을 통해 전사 의사결정을 지원해요. · 유관 부서와 협업하며, 분석 결과를 실행으로 연결해요. · 조직과 서비스 전반의 문제를 데이터 관점에서 정의하고 해결해요. 데이터 인프라 (Data Infrastructure) · Tableau를 활용해 주요 지표를 시각화하고 대시보드를 구축·운영해요. · Snowflake 기반으로 데이터를 추출하고 분석해요. · 데이터 신뢰도를 관리하고, 분석 환경을 개선해요. · 반복 업무를 자동화해 데이터 운영 효율을 높여요.\n자격요건 · 데이터 분석 또는 유관 경험이 3년 이상 있으신 분을 찾고 있어요. · SQL을 활용해 데이터를 추출하고 분석할 수 있는 분을 찾고 있어요. · 데이터 기반으로 문제를 정의하고, 가설 수립부터 실행 및 성과 측정까지 경험해보신 분을 찾고 있어요. · 다양한 이해관계자와 협업하며, 분석 결과를 실행으로 연결해본 경험이 있는 분을 찾고 있어요. · 빠르게 변화하는 환경에서도 책임감을 가지고 끝까지 실행해본 경험이 있는 분을 찾고 있어요.",
+    "data_relevance": {
+      "matched": true,
+      "score": 4,
+      "matched_keywords": [
+        "SQL",
+        "Experiment",
+        "Funnel",
+        "Automation"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-16T01:41:14.124789",
+    "last_seen_at": "2026-11-16T01:41:14.124792+00:00",
+    "is_new": true
+  },
+  {
+    "id": "wanted_397694",
+    "site": "Wanted",
+    "title": "[쿠팡] CS 리드타임 데이터 분석 담당자",
+    "company": "쿠팡",
+    "link": "https://www.wanted.co.kr/wd/397694",
+    "deadline": "",
+    "hidden_keyword": "데이터 분석",
+    "description": "회사 소개 쿠팡은 고객 감동 실현을 위해 존재합니다. 고객들이 \"쿠팡 없이 그동안 어떻게 살았을까?\" 라고 말할 때, 비로소 우리의 미션을 실현하고 있음을 알 수 있습니다. 고객들의 쇼핑과 식사, 생활 전반을 편하게 만들겠다는 유일한 집념으로 쿠팡은 수억 달러 규모의 이커머스 산업 전반의 혁신을 이끌고 있습니다. 쿠팡은 가장 빠르게 성장하는 이커머스 기업 중 하나로, 국내 커머스 업계에서의 독보적인 입지와, 고객 신뢰를 구축했습니다. 쿠팡은 스타트업 문화를 기반으로 한 글로벌 대형 상장사라고 자부합니다. 이것이 창립 당시의 기민함을 지하며, 신규 서비스를 끊임없이 출시하며 비즈니스를 확장해 나가는 우리의 성장 동력입니다. 쿠팡의 모든 임직원에게는 기업가 정신을 갖추고 새로운 혁신과 이니셔티브를 추진할 수 있는 기회가 주어집니다. 주저 없이 일에 뛰어들어 성과를 이루고자 하는 과감성이, 바로 쿠팡이 일하는 방식의 본질입니다. 쿠팡에서는 여러분 자신, 동료, 팀 그리고 회사 전체가 매일 성장하는 모습을 목격할 것입니다. 쿠팡의 모든 직원은 커머스의 미래를 만들겠다는 쿠팡의 미션에 진심입니다. 우리는 고객의 문제를 해결해 나가고, 전통적인 관념과 통념에 맞서며 실현 가능한 한계를 뛰어넘고 있습니다. 고가용성 (always-on) 과 최첨단의 앞선 기술 (high-tech), 초연결사회 (hyper-connected world) 에서의 놀라운 업무 경험을 원하신다면, 지금 바로 쿠팡에 합류하세요. 팀 소개 Lead Time Management팀은 SLA, TP (Top Percentile, 장기 지연 티켓) 지표 등을 통해 고객 경험을 개선하고 업무 효율을 높이기 위해 혁신적인 프로세스를 기획하고 실행합니다. 대표적으로 TP 지표 관련하여 고객의 문제를 확실하게 해결하는 오너십을 가지며, 관련 데이터 분석, 환경 구성 및 리포트 업무를 수행합니다. 더불어 젠데스크 티켓을 분석하여 발견한 이슈를 에스컬레이션 또는 피드백하고, 나아가 프로세스를 고도화하는 고객 경험 혁신팀입니다. 주요업무 •\tTP 분석 및 지표 모니터링 체계 구축 •\t관련 이슈 발생 시 Root Cause 분석 및 재발 방지 대책 수립 •\t유관 부서와의 협업을 통한 CS Policy 검토 및 시스템 고도화 •\t장기 지연 케이스 분석을 통한 인사이트 도출 및 고객 응대 SOP 수립 •\tTP 이슈 및 액션 아이템 현황 리포팅 및 개선 액션 실행 전/후 지표 변화 검증 •\tTP 지표에 대한 대시보드 구축 자격요건 •\tCS 관련 프로세스 or 시스템 개선 업무를 3년 이상 경험하신 분 •\t데이터 분석 (Python, SQL) 및 업무 툴 (Power BI, MS Office 등) 역량이 우수하신 분 •\t고객 경험 개선 업무에 주도적으로 참여하거나 진행한 경험이 있으신 분 •\t주어진 문제 상황을 깊이 파고들어 분석하고, 그 해결책을 찾을 수 있는 능력을 보유하신 분 •\t데이터와 사례를 기반으로 원활한 내/외부 협업 관계를 구축할 수 있는 커뮤니케이션 역량을 보유하신 분 상세 정보 더 보기\n주요업무 •\tTP 분석 및 지표 모니터링 체계 구축 •\t관련 이슈 발생 시 Root Cause 분석 및 재발 방지 대책 수립 •\t유관 부서와의 협업을 통한 CS Policy 검토 및 시스템 고도화 •\t장기 지연 케이스 분석을 통한 인사이트 도출 및 고객 응대 SOP 수립 •\tTP 이슈 및 액션 아이템 현황 리포팅 및 개선 액션 실행 전/후 지표 변화 검증 •\tTP 지표에 대한 대시보드 구축\n자격요건 •\tCS 관련 프로세스 or 시스템 개선 업무를 3년 이상 경험하신 분 •\t데이터 분석 (Python, SQL) 및 업무 툴 (Power BI, MS Office 등) 역량이 우수하신 분 •\t고객 경험 개선 업무에 주도적으로 참여하거나 진행한 경험이 있으신 분 •\t주어진 문제 상황을 깊이 파고들어 분석하고, 그 해결책을 찾을 수 있는 능력을 보유하신 분 •\t데이터와 사례를 기반으로 원활한 내/외부 협업 관계를 구축할 수 있는 커뮤니케이션 역량을 보유하신 분",
+    "data_relevance": {
+      "matched": true,
+      "score": 2,
+      "matched_keywords": [
+        "SQL",
+        "Python"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-16T01:41:14.124335",
+    "last_seen_at": "2026-11-16T01:41:14.124338+00:00",
+    "is_new": true
+  },
+  {
+    "id": "wanted_396634",
+    "site": "Wanted",
+    "title": "데이터 분석가(시멘틱 레이어/온톨로지 엔지니어)",
+    "company": "숲(SOOP)",
+    "link": "https://www.wanted.co.kr/wd/396634",
+    "deadline": "",
+    "hidden_keyword": "데이터 분석",
+    "description": "[회사소개] 주식회사 숲은 라이브 소셜 미디어 'SOOP' 사업을 중심으로 유저가 주인이 되는 새로운 미디어를 만들고 있습니다. SOOP을 통해 재미와 감동을 선사하는 것은 물론 새로운 놀이문화를 선도하고 있으며, 특별한 기술이나 장비, 비용 없이도 누구나 쉽게 PC나 모바일을 활용해 언제 어디서나 라이브 방송을 진행할 수 있습니다. 늘 앞선 서비스와 기술로 빠르게 변화하는 환경에 유연하게 대응해 전 세계 고객과 함께하는 글로벌 엔터테인먼트 기업으로 성장해 나가겠습니다. 주요업무 [팀소개] • 데이터분석기술팀은 SOOP의 방대한 스트리밍 로그와 비즈니스 데이터를 정제, 모델링하여 성장을 위한 인사이트를 도출하고, 이를 전사가 쉽고 정확하게 활용할 수 있도록 데이터 인프라를 자산화하는 조직입니다. 복잡한 로우 데이터를 비즈니스 언어로 풀어내는 분석 역량과, 이를 탄탄한 파이프라인 및 데이터 모델로 뒷받침하는 기술적 전문성을 융합하여 일하고 있습니다. 데이터의 수집부터 비즈니스 가치 창출, 전사 BI 시스템의 고도화 및 데이터 표준화까지 데이터의 전 여정을 함께 책임지며, 궁극적으로 데이터 기반의 완벽한 의사결정 환경을 구축 하는 것을 지향합니다. DW/DM 파이프라인 위에서 데이터를 비즈니스 의미 단위로 다시 조직하고, 해석 가능하게 만드는 역할을 찾습니다. 데이터를 '잘 쌓는'것보다 '잘 이해되게 만드는'데 관심있는 분을 찾습니다. [담당업무] 1. 비즈니스 시멘틱 레이어/ 온톨로지 설계 •  DW/DM 위에서 비즈니스 언어로 데이터를 해석할 수 있는 시멘틱 레이어(지표,차원,관계 정의) 설계 및 구축 •  서비스 도메인 지식 (유저, 방송, 과금, 콘텐츠 등)을 구조화하여 온톨로지/개념 모델 정의 •  그로스 루프(분석 프레임 워크) 관점의 핵심 지표 체계를 설계하고, 전사 공통 정의로 표준화 2. 데이터 분석 및 셀프서비스 환경 구축 • 스트리밍/유저 행동 로그 기반 성장 지표 분석 및 인사이트 도출 • 분석가, 현업 구성원이 별도 SQL 없이도 시멘틱 레이어를 통해 데이터를 정확히 조회, 활용할수 있는 환경 설계 • LLM 기반 자연어 질의  데이터 조회 자동화 (Analysis Agent)흐름 기획 및 실무 협업 3. 지표 정합성 및 데이터 자산화 •  동일 지표가 부서마다 다르게 정의되는 문제를 해결하기 위한 지표 카탈로그/메타데이터 관리 •  시멘틱 레이어 변경 이력 관리 및 데이터 신뢰도(정합성) 검증 프로세스 운영 자격요건 [자격요건] • 데이터 분석 또는 데이터 모델링 관련 실무 경력 6년 이상 보유하신 분 • SQL에 능숙하며, 대용량 데이터를 다뤄본 실무 경험을 보유하신 분 • 로우 데이터를 비즈니스 지표/의미 단위로 해석하고 정의해 본 경험을 보유하신 분 • 시멘틱 레이어 또는 온톨로지/개념 모델링에 대한 이해도가 높으신 분 • 그로스 루프/ 그로스 해킹 등 데이터 분석 프레임워크에 대한 이해도가 높으신 분 • 데이터 엔지니어링 조직과 협업하며 요구사항을 구조화된 모델로 번역할 수 있는 커뮤니케이션 역량을 보유하신 분 상세 정보 더 보기\n주요업무 [팀소개] • 데이터분석기술팀은 SOOP의 방대한 스트리밍 로그와 비즈니스 데이터를 정제, 모델링하여 성장을 위한 인사이트를 도출하고, 이를 전사가 쉽고 정확하게 활용할 수 있도록 데이터 인프라를 자산화하는 조직입니다. 복잡한 로우 데이터를 비즈니스 언어로 풀어내는 분석 역량과, 이를 탄탄한 파이프라인 및 데이터 모델로 뒷받침하는 기술적 전문성을 융합하여 일하고 있습니다. 데이터의 수집부터 비즈니스 가치 창출, 전사 BI 시스템의 고도화 및 데이터 표준화까지 데이터의 전 여정을 함께 책임지며, 궁극적으로 데이터 기반의 완벽한 의사결정 환경을 구축 하는 것을 지향합니다. DW/DM 파이프라인 위에서 데이터를 비즈니스 의미 단위로 다시 조직하고, 해석 가능하게 만드는 역할을 찾습니다. 데이터를 '잘 쌓는'것보다 '잘 이해되게 만드는'데 관심있는 분을 찾습니다. [담당업무] 1. 비즈니스 시멘틱 레이어/ 온톨로지 설계 •  DW/DM 위에서 비즈니스 언어로 데이터를 해석할 수 있는 시멘틱 레이어(지표,차원,관계 정의) 설계 및 구축 •  서비스 도메인 지식 (유저, 방송, 과금, 콘텐츠 등)을 구조화하여 온톨로지/개념 모델 정의 •  그로스 루프(분석 프레임 워크) 관점의 핵심 지표 체계를 설계하고, 전사 공통 정의로 표준화 2. 데이터 분석 및 셀프서비스 환경 구축 • 스트리밍/유저 행동 로그 기반 성장 지표 분석 및 인사이트 도출 • 분석가, 현업 구성원이 별도 SQL 없이도 시멘틱 레이어를 통해 데이터를 정확히 조회, 활용할수 있는 환경 설계 • LLM 기반 자연어 질의  데이터 조회 자동화 (Analysis Agent)흐름 기획 및 실무 협업 3. 지표 정합성 및 데이터 자산화 •  동일 지표가 부서마다 다르게 정의되는 문제를 해결하기 위한 지표 카탈로그/메타데이터 관리 •  시멘틱 레이어 변경 이력 관리 및 데이터 신뢰도(정합성) 검증 프로세스 운영\n자격요건 [자격요건] • 데이터 분석 또는 데이터 모델링 관련 실무 경력 6년 이상 보유하신 분 • SQL에 능숙하며, 대용량 데이터를 다뤄본 실무 경험을 보유하신 분 • 로우 데이터를 비즈니스 지표/의미 단위로 해석하고 정의해 본 경험을 보유하신 분 • 시멘틱 레이어 또는 온톨로지/개념 모델링에 대한 이해도가 높으신 분 • 그로스 루프/ 그로스 해킹 등 데이터 분석 프레임워크에 대한 이해도가 높으신 분 • 데이터 엔지니어링 조직과 협업하며 요구사항을 구조화된 모델로 번역할 수 있는 커뮤니케이션 역량을 보유하신 분",
+    "data_relevance": {
+      "matched": true,
+      "score": 5,
+      "matched_keywords": [
+        "SQL",
+        "Data Modeling",
+        "Pipeline",
+        "Automation",
+        "LLM / AI Agent"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-16T01:41:14.123842",
+    "last_seen_at": "2026-11-16T01:41:14.123844+00:00",
+    "is_new": true
+  },
+  {
+    "id": "wanted_393605",
+    "site": "Wanted",
+    "title": "Marketing Data Analyst",
+    "company": "라이너(Liner)",
+    "link": "https://www.wanted.co.kr/wd/393605",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
+    "description": "라이너는 정보 탐색 혁신을 위해 세상에서 가장 신뢰할 수 있는 정확도 높은 AI를 만들고 있습니다. 전세계 1,400만명이 라이너의 AI 서비스를 사용하고 있으며 지금까지 940억 원의 투자를 유치했어요. 정보 탐색의 어려움을 해결하고, 세상에서 가장 정확한 AI를 만들기 위해 서울과 미국 오피스에서 80여 명의 팀원들이 함께하고 있으며, 빠르게 성장하는 AI 시장에서 글로벌 임팩트를 함께 만들어갈 동료를 적극적으로 모시고 있습니다. [현직자의 한 마디] 라이너에서는 어떤 고객이 제품을 쓰고 어떤 캠페인이 구매로 이어지는지 분석하며, 그 결과를 바탕으로 팀의 다음 실험과 예산을 함께 논의할 수 있어요. 광고와 제품 데이터를 함께 다루며 분석의 전문성과 사업을 보는 시야를 넓힐 수 있는 자리예요. 데이터에서 발견한 사실을 동료들과 나누고, 그 발견이 실제 변화를 만드는 데까지 관심을 갖는 분과 함께하고 싶어요! 주요업무 - 그로스/마케팅 성과를 판단할 수 있도록 지표 정의, 분석 기간, 고객 및 전환 집계 기준을 정리해요 - 광고 매체와 어트리뷰션 도구, 제품 행동 및 결제 데이터를 연결해 고객 획득부터 활성화, 구매와 재사용까지 분석해요 - 채널, 고객군, 코호트별 차이를 살펴 성장의 기회와 병목을 찾고, 원인 가설과 실행 우선순위를 제안해요 - 신규 매체와 CRM 캠페인 등 마케팅 실험의 가설, 비교군, 성공 지표와 관찰 기간을 함께 설계하고 효과를 검증해요 - 매체에 보고된 성과와 실제 고객 및 매출 성과의 차이를 설명하고, 어트리뷰션과 데이터 품질의 한계를 점검해요 - 반복적으로 필요한 분석과 대시보드를 체계화하고, 분석 결과가 예산 결정이나 캠페인 및 제품 개선으로 이어지도록 협업해요 - 수치와 사실을 나열하는 데 그치지 않고, 변화의 원인과 사업적 의미를 해석해 무엇을 우선 실행하고 추가로 확인해야 할지 제안해요 - 분석의 근거와 해석 과정을 유관 조직에 공유해, 구성원들이 고객과 성과의 차이를 더 세밀하게 이해하고 스스로 더 나은 질문과 판단을 할 수 있도록 도와요 자격요건 - 마케팅 또는 그로스 분석 실무 경험이 있고, 분석 결과를 실제 캠페인이나 제품 의사결정으로 연결해 본 분 - 필요한 데이터를 직접 추출하고, 여러 데이터의 집계 단위와 정합성을 검증할 수 있는 분 - 광고 성과 측정과 어트리뷰션의 구조 등을 이해하고, 매체 보고 지표와 내부 성과가 달라지는 이유를 설명할 수 있는 분 - 퍼널과 코호트 분석으로 문제를 구체화하고, 실험의 비교 조건과 해석상의 한계를 판단할 수 있는 분 - 모호한 질문을 분석 가능한 질문으로 바꾸고, 결과와 다음 액션을 비분석가에게 명확하게 전달할 수 있는 분 - 데이터에서 중요한 변화와 패턴을 찾아 맥락에 맞게 해석하고, 조직 전체가 데이터를 더 깊이 이해하고 의사결정에 활용하도록 도울 수 있는 분 상세 정보 더 보기\n주요업무 - 그로스/마케팅 성과를 판단할 수 있도록 지표 정의, 분석 기간, 고객 및 전환 집계 기준을 정리해요 - 광고 매체와 어트리뷰션 도구, 제품 행동 및 결제 데이터를 연결해 고객 획득부터 활성화, 구매와 재사용까지 분석해요 - 채널, 고객군, 코호트별 차이를 살펴 성장의 기회와 병목을 찾고, 원인 가설과 실행 우선순위를 제안해요 - 신규 매체와 CRM 캠페인 등 마케팅 실험의 가설, 비교군, 성공 지표와 관찰 기간을 함께 설계하고 효과를 검증해요 - 매체에 보고된 성과와 실제 고객 및 매출 성과의 차이를 설명하고, 어트리뷰션과 데이터 품질의 한계를 점검해요 - 반복적으로 필요한 분석과 대시보드를 체계화하고, 분석 결과가 예산 결정이나 캠페인 및 제품 개선으로 이어지도록 협업해요 - 수치와 사실을 나열하는 데 그치지 않고, 변화의 원인과 사업적 의미를 해석해 무엇을 우선 실행하고 추가로 확인해야 할지 제안해요 - 분석의 근거와 해석 과정을 유관 조직에 공유해, 구성원들이 고객과 성과의 차이를 더 세밀하게 이해하고 스스로 더 나은 질문과 판단을 할 수 있도록 도와요\n자격요건 - 마케팅 또는 그로스 분석 실무 경험이 있고, 분석 결과를 실제 캠페인이나 제품 의사결정으로 연결해 본 분 - 필요한 데이터를 직접 추출하고, 여러 데이터의 집계 단위와 정합성을 검증할 수 있는 분 - 광고 성과 측정과 어트리뷰션의 구조 등을 이해하고, 매체 보고 지표와 내부 성과가 달라지는 이유를 설명할 수 있는 분 - 퍼널과 코호트 분석으로 문제를 구체화하고, 실험의 비교 조건과 해석상의 한계를 판단할 수 있는 분 - 모호한 질문을 분석 가능한 질문으로 바꾸고, 결과와 다음 액션을 비분석가에게 명확하게 전달할 수 있는 분 - 데이터에서 중요한 변화와 패턴을 찾아 맥락에 맞게 해석하고, 조직 전체가 데이터를 더 깊이 이해하고 의사결정에 활용하도록 도울 수 있는 분",
     "data_relevance": {
       "matched": true,
       "score": 2,
       "matched_keywords": [
         "Experiment",
-        "Automation"
+        "Funnel"
       ],
       "matched_roles": [
         "Data Analyst"
@@ -181,26 +910,53 @@
       "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
-    "scraped_at": "2026-11-04T01:53:02.837900",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.123462",
+    "last_seen_at": "2026-11-16T01:41:14.123464+00:00",
+    "is_new": true
   },
   {
-    "id": "saramin_55301926",
-    "site": "Saramin",
-    "title": "화성 장안공장 인재 채용",
-    "company": "아토텍코리아(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55301926&location=ts&searchword=Product+Data+Analyst&searchType=search&paid_fl=n&search_uuid=328e839a-ac80-47ed-97a5-2cba2dcd1e4c",
-    "deadline": "11/15 마감",
-    "hidden_keyword": "Product Data Analyst",
-    "description": "채용공고 상세 인재모집 상세 요강 《사업부문 간단 소개》 ㆍ전자사업본부 PCB, HDI, 패키지기판, 반도체 산업에 필요한 표면처리/도금 화학약품 및 장비 기술, 소프트웨어의 종합 패키지 공급 ㆍ일반도금사업본부 전처리부터 최종 마감까지 장식 및 기능성 표면처리 각 단계에 필요한 표면처리/도금 화학약품 및 생산기술의 종합 패키지 공급 * 각 사업부문에 대한 자세한 정보는 당사 홈페이지를 참고해주시기 바랍니다. https://www.atotech.com/products/ 모집직무 근무지 /채용유형 상세직무 지원자격 및 우대사항 전자사업본부 (Electronics) 반도체 표면처리 기술 엔지니어 (Customer Success Eng) (경력) 화성 장안 / 정규직 (외근직) ㆍ표면처리/도금 공정에 사용되는 화학약품 기술지원 및 영업 활동 ㆍ신규 프로세스 Set Up 및 Design Win 프로젝트 안정화 ㆍ고객사 표면처리/도금 라인에 대한 품질 개선 및 기술대응 ㆍ신규라인 Set Up시 Make Up 및 라인 안정화 ㆍ독일 본사 및 글로벌 Team과의 Co-work을 통한 고객사 기술대응 ㆍ신규 표면처리 약품 시장 개발 및 판촉 업무 지원자격 ㆍ경력 : 반도체 및 반도체 패키징 분야의 공정 엔지니어 경력 3년 이상 ㆍ학력 : 4년제 학사학위 이상 소지자 ㆍ전공 : 화학, 화학공학, 신소재, 금속재료, 표면처리공학, 재료공학 및 기타 관련 전공자 ㆍ영어 커뮤니케이션 가능자 우대사항 ㆍ표면처리/도금 화학약품 분야 CS 또는 기술영업 경력 우대 ㆍ표면처리/도금 관련 자격증 소지자 우대 전자사업본부 (Electronics) 제품기술 엔지니어 (Sr. Technical Product Engineer) (경력) 화성 장안 / 정규직 (외근직) ㆍ표면처리/도금 공정에 사용되는 화학약품 기술지원 및 문제 해결 (Trouble-shooting) ㆍ본사 및 글로벌 팀과의 커뮤니케이션 ㆍ신규 제품 도입 및 고객사 인증 (Qualification) 지원 ㆍ고객 커뮤니케이션 및 VOC (Voice of Customer) 피드백 수집 ㆍ기술 영업 지원 및 제안서 작성 ㆍ프로젝트 및 일정 관리 ㆍ기술 마케팅 자료 제작 및 현지화 (Localization) ㆍ출장 비중 (최대 50%) 지원자격 ㆍ경력 : PCB 전자도금 또는 일반도금 분야의 공정 엔지니어 관련 경력 약 5년 이상 ㆍ학력 : 4년제 학사학위 이상 소지자 ㆍ전공 : 화학, 화학공학, 신소재, 금속재료, 표면처리공학, 재료공학 및 기타 관련 전공자 ㆍ영어 커뮤니케이션 가능자 우대사항 ㆍ표면처리/도금 화학약품 분야 경력 우대 ㆍ표면처리/도금 관련 자격증 소지자 우대 자재 계획 담당자 (Materials Planner) (신입) 화성 장안 / 정규직 ㆍ생산 일정 및 고객 수요에 따른 자재 계획 수립 ㆍ재고 수준 관리를 통한 과잉·불용 재고 최소화 ㆍ자재 공급 조율을 위한 내부 (구매·생산·물류·영업 부서) 및 외부(관세사·물류업체) 이해관계자와의 커뮤니케이션 진행 ㆍ수출입 통관 업무 관리 및 무역 규정 준수 ㆍ출장 비중 (최대 10%) 지원자격 ㆍ경력 : 관련 경력 약 3년 이상 ㆍ학력 : 4년제 학사학위 이상 소지자 ㆍ전공 : 경영학, 산업공학, 물류학 및 기타 관련 전공자 ㆍ영어 커뮤니케이션 가능자 우대사항 ㆍERP 시스템 활용 가능자 (SAP 우대) ㆍ데이터 분석 및 보고를 위한 Microsoft Excel 고급 활용 가능자 PCB 장비 소프트웨어 필드 엔지니어 (Field Service Engineer (Software)) (신입/경력) 화성 장안 / 정규직 (외근직) ㆍ장비 제어 소프트웨어 구축 및 시운전 - 고객사 현장에서 PCB 표면처리 설비 (Desmear, 무전해 동도금, 전해 동도금, 주석 도금 등)의 제어 소프트웨어를 설치 및 설정하고 시운전(Commissioning) 수행 - I/O 점검, 시퀀스 동작 검증, 공정 파라미터 설정 등 설비 가동 준비 및 고객 인수(Acceptance) 지원 ㆍ제어 프로그램 분석·수정 및 장비 안정화 - 자사 제어 플랫폼(fastStudio) 기반의 PLC 로직, HMI 화면, 장비 구성 데이터 분석 및 수정 - HMI/SCADA 시스템(fastView, fastCenter) 설정 및 운영 지원 - 초기 가동 이슈를 분석하고 개선하여 장비 안정화 ㆍSECS/GEM 통신 및 MES 연동 - SECS/GEM(HSMS) 기반의 설비–Host 간 통신 구현, 설정 및 검증 - 고객사 MES 사양에 맞춰 설비 상태, 알람, 이벤트, 공정 데이터 보고 기능 구현 - Remote Command(Host 제어 명령), 레시피/Lot 정보 수신, 생산 이력 연계 기능을 개발하고 고객사와 연동 테스트 수행 ㆍ기술 지원 (After-Service) - 설치 장비의 소프트웨어 및 통신 관련 트러블슈팅(현장 및 원격) - 원인 분석과 조치를 수행하고 서비스 보고서 작성 ㆍ설비 Overhaul 및 개조 지원 - 설비 점검(Overhaul) 및 개조 (Modification) 시 제어 소프트웨어 변경분을 적용하고 검증 ㆍ글로벌 협업 - 독일 본사 개발팀 및 해외 법인 엔지니어와 협업하여 장비 기능 개선 및 신규 기능 적용 프로젝트 수행 (국내외 출장 有) 지원자격 ㆍ경력 : 신입 또는 경력 ㆍ학력 : 전문학사 이상 ㆍ전공 : 컴퓨터공학/소프트웨어, 전기/전자공학, 제어계측, 메카트로닉스 등 관련 전공 ㆍ다음 중 1가지 이상 활용 가능자 : Structured Text(ST) / JavaScript / C# ㆍPLC 로직 및 HMI 기반 설비 제어에 대한 기본 이해 보유자 ㆍ국내외 고객사 현장 출장 가능자 (해외 출장 결격사유 없는 자) ㆍ운전면허 소지 및 자차 출퇴근 가능자 우대사항 ㆍ소프트웨어 또는 자동화 설비 제어 분야 2년 이상 경력자 ㆍSECS/GEM 통신 및 MES 연동 구현/운영 경험자 ㆍPLC 또는 HMI/SCADA 화면 스크립트 개발 경험자 ㆍSQL 등 데이터베이스 활용 경험자 ㆍ산업용 통신(EtherCAT, PROFIBUS, Ethernet TCP/IP 등) 및 I/O 구조 이해자 ㆍ설비 시운전 또는 현장 개조(Modification) 경험자 ㆍ영어로 업무 소통이 가능한 자 (TOEIC 700점 이상 / TOEIC Speaking Lv.5 / OPIc IM 이상) ㆍ글로벌 고객사 또는 해외 본사와의 협업 경험자 ㆍ정보처리기사 등 관련 자격증 보유자 기술연구소 실험실 분석 (Assoc Lab Analyst (Chemical Analysis)) (신입/경력) 화성 장안 / 정규직 ㆍ고객 문의 대응 및 실험실 서비스 관련 기술 지원 제공 ㆍ실험 시료 처리 및 관리 (정확한 문서화 및 적기 분석 보장) ㆍ분석 장비의 최적 상태 유지를 위한 정기 예방 점검 및 교정(Calibration) 수행 ㆍISO 표준 준수를 위한 품질 보증(QA) 활동 수행 ㆍ내부 비즈니스 파트너 및 고객 요청 시 기술 교육, 컨설팅 및 현장 기술 지원 제공 ㆍ데이터베이스 내 고객 정보 유지 및 업데이트 ㆍ실험실 활동, 이슈 및 해결 방안에 대한 상세 보고서 작성 ㆍ실험실 서비스 품질 및 효율성 향상을 위한 전략 수립 및 이행 지원 지원자격 ㆍ경력: 신입 또는 관련 경력 2년 ㆍ학력: 4년제 학사학위 이상 소지자 ㆍ전공: 화학, 화학공학 및 기타 관련 전공자 ㆍMS Excel, PPT 등 컴퓨터 활용 능력 보유자 ㆍ영어 커뮤니케이션 가능자 (화학 실험 관련 영문 method 이해, email 작성, e-learning 수강가능 수준 : 토익 600점 or 토익스피킹/오픽 IL 수준 이상) ㆍ책임감, 팔로워십, 문제해결 및 소통/협업 역량 보유자 ㆍ근무지로 자차 출퇴근이 가능한 자 우대사항 ㆍ분석기기 이론과 실무, PCB/반도체 공정개론, 부식방식이론 등 전공(실무) 지식 보유자 ㆍ화학 제품 실험/분석에 대한 업무 경험 보유자 ㆍ글로벌 팀 업무 경험자 우대 화학약품 생산직 (Production Operator) (신입/경력) 화성 장안 / 정규직 ㆍ화학약품 제조 공정 운영 - 원재료 투입 / 관리 및 제품 포장 업무 (라벨링 업무) - 제조 설비의 운영 및 간단한 유지보수 업무 ㆍ제품 품질 관리 및 생산 기록 관리 - 생산 중 샘플링 및 간단한 품질 검사 진행 - 작업 일지 및 생산 기록 작성 ㆍ안전 및 환경 관리 - 작업 중 안전 절차 준수 및 설비 점검 - 화학물질 취급에 따른 환경 규정 준수 - 생산 구역 5S 활동 진행 * 근무시간 : 오전근무(08:00-17:00)와 오후근무조(13:00-22:00) 교차근무 진행가능 (월~금 주 40시간 근무), 주말근무 진행가능 지원자격 ㆍ경력 : 무관 ㆍ학력 : 고졸 이상 ㆍ전공 : 무관 ㆍ근무지로 출퇴근이 가능한 자 우대사항 ㆍ화학 혹은 기계 관련 공업 고등학교 졸업자 우대 ㆍ성실, 근면하며 지원직무 수행에 결격사유가 없는 자 우대 ㆍ경기 화성공장/수원 성균관대역 인근 거주자 우대 ㆍ지게차 자격증 소지자 우대 ㆍ운전면허 소지자 우대 공통 자격/우대사항 ㆍ공통 자격 - 남자의 경우 병역필 또는 면제자, 해외근무에 결격사유가 없는자 ㆍ공통 우대사항 - 영어 활용 능력 우수자 전형 절차 ㆍ 서류전형 ㆍ 면접전형 (*면접 횟수, 대면/비대면, 영어(본사)면접 진행 여부 등 직무별 상이) ㆍ 오퍼 (*직무별 배치 전 검진 진행) ㆍ Background Check ㆍ 최종합격 제출 서류 ㆍ [경력] 국문 이력서 및 경력기술서(자유양식) / [신입] 국문 이력서 및 자기소개서(자유양식) ※ 이력서 상에 반드시 응시분야, 희망연봉 및 연락처(이메일 포함) 필수 기재 ※ 영문 Resume 및 Cover letter 제출 시, 서류전형에서 가점 부여(자유양식) ㆍ영어성적 소지자의 경우, 최종 면접시 영어 공인시험 성적표 사본 제출 ※ 채용절차공정화에 관한 법률 및 개인정보보호법에 의거하여, 입사지원자가 제출한 모든 서류는 반환 청구기간 이후 지체없이 일체 파기됩니다. (구직자가 서면으로 제출한 채용 서류에 한하여 반환을 청구[ recruiting.mkskorea@mks.com 으로 신청]하는 경우, 본인 확인 절차 후 청구일로부터 14일 이내에 등기우편으로 발송하여 드립니다.) 접수기간 및 방법 ㆍ접수기간 : 2026년 10월 16일(금) ~ 2026년 11월 15일(일) 오후 11시까지 ※ 채용 진행 상황에 따라 부문별 조기마감 또는 변경될 수 있습니다. ※ 서류전형 합격자에 한하여 다음 전형은 개별 안내 예정입니다. ㆍ접수방법 : 채용사이트 온라인 입사지원 또는 이메일 입사지원 [입사지원서 이메일 접수처 : recruiting.mkskorea@mks.com ] 복리후생 ㆍ성과에 따른 인센티브 지급 ㆍ중식제공/식대지원, 4대보험 직원부담금 전액 지원 ㆍ영어어학 교육비 지원, 임직원 성과 인정 프로그램 운영 ㆍEAP(개인심리상담지원프로그램) 운영, 단체보험 가입, 종합건강검진 지원, 복리후생비 지원 ㆍ재택근무 등 유연근무제 적용, 임직원 인재추천 보상프로그램 운영, 경조금 지원 ㆍ대형 리조트 할인 이용, 사내 동호회 지원 ㆍ출퇴근 보조금 지원, 통근버스 (장안공장<->수원성균관대역 왕복 1회), 기숙사 지원(장안공장) 기타 유의사항 ㆍ입사지원 서류에 허위사실이 발견될 경우, 채용확정 이후라도 채용이 취소될 수 있습니다. ㆍ 국가유공자예우 등에 관한 법률적용 대상자 또는 등록 장애인은 법령이 정하는 바에 따라 우대합니다. ※ 해당자의 경우, 지원서 접수 시 해당 사실을 기재해 주시기 바랍니다. ㆍMKS | Atotech은 기회 균등 고용주입니다. 우리는 인종, 피부색, 국적, 성별, 종교, 연령, 장애, 군필 여부, 성적 지향, 성 정체성 등에 관계없이 지원자를 모집하고 고용합니다. 우리의 정책은 모집분야에 가장 적합한 지원자를 고용하는 것입니다. ㆍ경력직 지원자께서는 입사지원 시점부터 채용전형 전체 과정에 걸쳐 전/현직 직장의 영업비밀을 침해하는 일이 없도록 유의하여 주시기 바랍니다. ㆍ채용절차공정화에 관한 법률 및 개인정보보호법에 의거하여, 입사지원자가 제출한 모든 서류는 반환 청구기간 이후 지체없이 일체 파기됩니다. ㆍ문의 : Talent Acquisition 이메일( recruiting.mkskorea@mksinst.com ) 혹은 카카오톡 채널             ( https://pf.kakao.com/_VvPAs ) 문의 회사 소개 영상 Atotech an MKS Brand 소개영상 MKS Inc. 소개영상",
+    "id": "wanted_389711",
+    "site": "Wanted",
+    "title": "Senior Data Analyst (Catalog Intelligence)",
+    "company": "타이키테크놀로지스",
+    "link": "https://www.wanted.co.kr/wd/389711",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
+    "description": "타이키 테크놀로지스는 국가 간 자동차 부품 중고 거래 격차에 주목하여, 글로벌 유통 시장의 비효율을 새로운 기회로 전환하고 있는 데이터 기반 기술 유통 기업입니다. 우리는 현재 주요 국가 간 자동차 부품의 가격 차이를 분석하여, 글로벌 플랫폼을 통해 부품을 판매하는 수익 모델을 운영 중입니다. 가까운 미래에는 실시간 시세와 이력 데이터를 기반으로 차량을 선별하여 가격 차익을 실현하고, 곧 출시될 플랫폼을 통해, 국가별 경쟁 상대보다 부품 판매의 효율성과 이익률을 높일 예정입니다. • 자동차 부품 차익거래 기반 온라인 커머스: 주요 국가 간 가격 차이를 분석하여, 글로벌 플랫폼들을 통해 부품을 판매하는 비즈니스 모델을 운영하고 있습니다. • AI 기반 글로벌 자동차 부품 마켓플레이스 (준비 중): 판매자에게는 글로벌 판매 기회를, 구매자에게는 최적의 구매 경로를 제공하며, 데이터와 AI를 통해 자동차 부품 시장의 정보 비대칭 문제를 해결하는 플랫폼을 준비하고 있습니다. 또한, 우리는 이 모든 사업을 고도화하기 위해 자동차 부품에 대한 정비 및 기술 데이터를 포함한 다양한 정보를 수집하고 가공하는 데이터 인프라를 구축하고 있습니다. 이 데이터는 자동차 부품 거래 기회를 실시간으로 포착하고, 판매자와 구매자가 가장 효과적으로 거래할 수 있는 환경을 제공하는 핵심 기반이 됩니다. 타이키의 Data Analyst가 풀 문제는 단순한 가격 비교가 아닙니다. 같은 부품이 국가·공급자마다 서로 다른 이름과 품번으로 등록되기도 하고, 비슷해 보이는 부품이라도 차량 사양이나 생산 시기, 옵션에 따라 호환되지 않을 수 있습니다. 반대로 서로 다른 품번이 실제로는 동일하거나 대체 가능한 경우도 있습니다. 이 포지션은 여러 출처에 흩어진 상품·부품 데이터를 연결하고, 무엇이 같은 상품인지, 어떤 조건에서 대체 가능한지, 어떤 데이터를 신뢰할 수 있는지에 대한 기준을 만드는 역할입니다. 자동차 업계 경험은 필수가 아닙니다. 이커머스 상품 데이터, 산업재·전자부품, 여행 상품, 중고거래, 콘텐츠 메타데이터, 금융·의료 기준정보 등 복잡한 데이터를 식별·분류·매칭하고 품질을 개선해본 경험이 있다면 충분히 연결될 수 있습니다. 새로운 도메인을 빠르게 이해하고, 현장의 지식을 반복해서 사용할 수 있는 데이터와 규칙으로 만드는 분을 찾고 있습니다. 주요업무 • 국내외 공급자, 상품 카탈로그, 판매 채널 및 내부 거래 데이터를 분석합니다. • 각종 마켓플레이스의 데이터를 수집/분석하여 Arbitrage를 획득할 기회를 찾아냅니다. • 서로 다른 명칭·품번·속성으로 표현된 상품 간의 관계를 정의합니다. • 동일 상품, 대체 가능 상품, 조건부 호환 상품 등을 구분하는 기준을 설계합니다. • 상품 매칭·분류 결과를 검증하기 위한 품질 지표와 검수 기준을 만듭니다. • 구매·운영 담당자의 도메인 지식을 데이터와 규칙으로 구조화합니다. • 상품 데이터의 불일치나 정보 부족 때문에 놓치고 있던 공급·수요 및 거래 기회를 탐색합니다. • 데이터 엔지니어 및 비즈니스 담당자와 협업해 분석 결과를 내부 도구와 전략 수립에 반영합니다. 자격요건 • Data, Product, Operation 등의 영역에서 5년 이상 근무하신 분 • 위 영역에서 불완전하거나 기준이 일관되지 않은 데이터를 다뤄본 경험이 있는 분 • SQL, Python 등을 활용해 데이터를 직접 탐색하고 분석할 수 있는 분 • 단순한 데이터 정제를 넘어 무엇을 같은 것으로 보고 무엇을 구분할지 기준을 만들어본 경험이 있는 분 • 데이터의 출처와 신뢰도를 고려해 사실, 추정, 불확실성을 구분할 수 있는 분 • 익숙하지 않은 도메인을 빠르게 학습하고 핵심 개념과 예외를 구조화할 수 있는 분 • 분석 결과를 실제 업무 프로세스나 제품 개선으로 연결해본 경험이 있는 분 • 엔지니어, 운영 담당자, 도메인 전문가 등 다양한 역할의 구성원과 협업할 수 있는 분 • (바이브)코딩이나 상응하는 툴을 적극적으로 활용하여 업무 효율을 개선한 경험이 있는 분 상세 정보 더 보기\n주요업무 • 국내외 공급자, 상품 카탈로그, 판매 채널 및 내부 거래 데이터를 분석합니다. • 각종 마켓플레이스의 데이터를 수집/분석하여 Arbitrage를 획득할 기회를 찾아냅니다. • 서로 다른 명칭·품번·속성으로 표현된 상품 간의 관계를 정의합니다. • 동일 상품, 대체 가능 상품, 조건부 호환 상품 등을 구분하는 기준을 설계합니다. • 상품 매칭·분류 결과를 검증하기 위한 품질 지표와 검수 기준을 만듭니다. • 구매·운영 담당자의 도메인 지식을 데이터와 규칙으로 구조화합니다. • 상품 데이터의 불일치나 정보 부족 때문에 놓치고 있던 공급·수요 및 거래 기회를 탐색합니다. • 데이터 엔지니어 및 비즈니스 담당자와 협업해 분석 결과를 내부 도구와 전략 수립에 반영합니다.\n자격요건 • Data, Product, Operation 등의 영역에서 5년 이상 근무하신 분 • 위 영역에서 불완전하거나 기준이 일관되지 않은 데이터를 다뤄본 경험이 있는 분 • SQL, Python 등을 활용해 데이터를 직접 탐색하고 분석할 수 있는 분 • 단순한 데이터 정제를 넘어 무엇을 같은 것으로 보고 무엇을 구분할지 기준을 만들어본 경험이 있는 분 • 데이터의 출처와 신뢰도를 고려해 사실, 추정, 불확실성을 구분할 수 있는 분 • 익숙하지 않은 도메인을 빠르게 학습하고 핵심 개념과 예외를 구조화할 수 있는 분 • 분석 결과를 실제 업무 프로세스나 제품 개선으로 연결해본 경험이 있는 분 • 엔지니어, 운영 담당자, 도메인 전문가 등 다양한 역할의 구성원과 협업할 수 있는 분 • (바이브)코딩이나 상응하는 툴을 적극적으로 활용하여 업무 효율을 개선한 경험이 있는 분",
+    "data_relevance": {
+      "matched": true,
+      "score": 2,
+      "matched_keywords": [
+        "SQL",
+        "Python"
+      ],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-16T01:41:14.123059",
+    "last_seen_at": "2026-11-16T01:41:14.123064+00:00",
+    "is_new": true
+  },
+  {
+    "id": "wanted_387053",
+    "site": "Wanted",
+    "title": "데이터 분석가",
+    "company": "기어세컨드",
+    "link": "https://www.wanted.co.kr/wd/387053",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
+    "description": "폭풍 성장 중인 기업 기어세컨드에서 [데이터 분석가]를 모집합니다. 더 많은 이들에게 더 오래도록 사랑받는 최고의 게임, 최고의 팀! 더 멋진 게임을 만들기 위해 도전하고, 성장하면서 함께 나아갈 멋진 동료들을 찾고 있습니다. 우리 팀을 소개합니다. 기어세컨드는 많은 이들에게 오래도록 사랑 받는 최고의 게임을 추구합니다. 2021년 출시한 IDLE RPG 게임 ＜슬레이어 키우기＞를 시작으로, 더 높은 도약을 위해 치열한 도전과 성장을 이어가고 있습니다. [ 슬레이어 키우기 ] • 2021 구글플레이 게임 종합 인기 랭킹 4위 • 2021 구글플레이 게임 시뮬레이션 매출 랭킹 4개월 연속 1위 • 2022 글로벌 출시 • 2023 연매출 200억 + • 2024 다운로드 500만 + • 2025 다운로드 600만 + • 2026 다운로드 800만 + 주요업무 • 데이터 기반의 의사결정에 필요한 직관적인 대시보드와 리포트를 만듭니다. • 유저 액션을 기반으로 로그를 설계하고 로직을 구상하여 데이터 파이프라인을 구축합니다. • 게임의 라이프 타임 전반에 걸친 주요 데이터를 파악/수집/분석하고, 실제 상황과 비교하여 프로덕트를 고도화할 수 있는 인사이트를 도출합니다. • 목표 달성에 필요한 지표와 가설을 설정하고, 이를 검증할 수 있는 A/B 테스트를 진행합니다. • 마케팅, 기획, 사업 등 다양한 분야와의 협업을 통해 KPI를 향한 문제 지점들을 정의하고, 솔루션을 제공합니다. • 마케팅, 기획, 사업 등 다양한 분야와의 협업을 통해 KPI를 향한 문제 지점들을 정의하고, 솔루션을 제공합니다. • 끊임없는 이터레이션, 더 정확하고 민첩한 시도를 통해 게임의 여정을 고도화하여 유저들에게 최고의 경험을 선사합니다. 자격요건 • SQL을 사용해 직접 데이터를 추출하고 정제해보신 분 • Python, SQL, BI Tool(Superset, Data Studio(Looker Studio), Tableau 등) 활용 역량을 가지신 분 • 논리적인 사고를 바탕으로 문제를 정의하고 가설을 세워 A/B 테스트를 설계하고 진행해 보신 분 • 데이터에 숨어있는 패턴을 발견하고, 패턴을 모델링할 수 있는 역량이 있으신 분 • 게임 내 여러 상황이 연결되어 있는 현상을 Deep Dive하여, 현상에 대한 이해와 액션 아이템까지 도출해내는 과정을 즐기시는 분 상세 정보 더 보기\n주요업무 • 데이터 기반의 의사결정에 필요한 직관적인 대시보드와 리포트를 만듭니다. • 유저 액션을 기반으로 로그를 설계하고 로직을 구상하여 데이터 파이프라인을 구축합니다. • 게임의 라이프 타임 전반에 걸친 주요 데이터를 파악/수집/분석하고, 실제 상황과 비교하여 프로덕트를 고도화할 수 있는 인사이트를 도출합니다. • 목표 달성에 필요한 지표와 가설을 설정하고, 이를 검증할 수 있는 A/B 테스트를 진행합니다. • 마케팅, 기획, 사업 등 다양한 분야와의 협업을 통해 KPI를 향한 문제 지점들을 정의하고, 솔루션을 제공합니다. • 마케팅, 기획, 사업 등 다양한 분야와의 협업을 통해 KPI를 향한 문제 지점들을 정의하고, 솔루션을 제공합니다. • 끊임없는 이터레이션, 더 정확하고 민첩한 시도를 통해 게임의 여정을 고도화하여 유저들에게 최고의 경험을 선사합니다.\n자격요건 • SQL을 사용해 직접 데이터를 추출하고 정제해보신 분 • Python, SQL, BI Tool(Superset, Data Studio(Looker Studio), Tableau 등) 활용 역량을 가지신 분 • 논리적인 사고를 바탕으로 문제를 정의하고 가설을 세워 A/B 테스트를 설계하고 진행해 보신 분 • 데이터에 숨어있는 패턴을 발견하고, 패턴을 모델링할 수 있는 역량이 있으신 분 • 게임 내 여러 상황이 연결되어 있는 현상을 Deep Dive하여, 현상에 대한 이해와 액션 아이템까지 도출해내는 과정을 즐기시는 분",
     "data_relevance": {
       "matched": true,
       "score": 3,
       "matched_keywords": [
         "SQL",
-        "Experiment",
-        "Automation"
+        "Python",
+        "Pipeline"
       ],
       "matched_roles": [
         "Data Analyst"
@@ -209,129 +965,1125 @@
       "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
-    "scraped_at": "2026-11-04T01:53:02.834895",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.122593",
+    "last_seen_at": "2026-11-16T01:41:14.122597+00:00",
+    "is_new": true
   },
   {
-    "id": "saramin_55455620",
-    "site": "Saramin",
-    "title": "유안그룹  2027년 신입사원 공개채용",
-    "company": "(주)유안에이치알",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55455620&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=297bcb79-dd05-46bb-849d-4d0a978445b8",
-    "deadline": "~ 11/15(일)",
+    "id": "incruit_2611160000204",
+    "site": "Incruit",
+    "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주중 야간)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000204&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122187",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000203",
+    "site": "Incruit",
+    "title": "[금융사기예방Unit] 파트타이머 채용 공고 (전기통신금융사기 모니터링_주말)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000203&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122182",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000210",
+    "site": "Incruit",
+    "title": "효신교통(주) 강서구 방화동 일반택시 및 TURU택시 기사모집(강서구, 양천구, 김포, 일산, 부천, 계양)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000210&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122177",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000171",
+    "site": "Incruit",
+    "title": "(주)정다운 나주공장 생산직 신입/경력 정규직 사원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000171&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122171",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000192",
+    "site": "Incruit",
+    "title": "한국섬유기계융합연구원 계약직 직원 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000192&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122166",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000212",
+    "site": "Incruit",
+    "title": "[2명/조명보조] KBS 예능/교양 조명 기술보조(뮤직뱅크, 불후의명곡, 아침마당 등)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000212&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122162",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000208",
+    "site": "Incruit",
+    "title": "[한국광기술원] 2026년 계약직 수시채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000208&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122157",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000216",
+    "site": "Incruit",
+    "title": "43. Senior Client Advisor(대구/ 정규직) [하이엔드 럭셔리 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000216&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122152",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000217",
+    "site": "Incruit",
+    "title": "43.  Client Advisor ~ Senior Client Advisor [서울/하이엔드 주얼리]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000217&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122146",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000218",
+    "site": "Incruit",
+    "title": "43. Sales(대구/ 정규직) [럭셔리 러기지 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000218&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122140",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000219",
+    "site": "Incruit",
+    "title": "43. Sales ( 주니어 및 시니어,  서울/경기/대전/대구/제주) [럭셔리 레더브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000219&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122134",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000220",
+    "site": "Incruit",
+    "title": "43. Sales Ambassador ( 주니어, 서울(계약직)/경기(정규직)) [하이엔드 주얼리 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000220&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122129",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000222",
+    "site": "Incruit",
+    "title": "43. 상조 관련 담당(임원급)[대형 GA사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000222&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122122",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000228",
+    "site": "Incruit",
+    "title": "[노무법인이산 대구수성지사] 산재보상업무 외근직(영업)채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000228&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122117",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000232",
+    "site": "Incruit",
+    "title": "어셔어학원 관리형 영어강사 (매니저) 채용 (토플 무경력 가능)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000232&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122112",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000231",
+    "site": "Incruit",
+    "title": "[화성시] 영업지원 / 자동차 부품 프레스 용접 공장",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000231&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122107",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000233",
+    "site": "Incruit",
+    "title": "어셔어학원 인하우스 온라인 마케터 신입 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000233&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122102",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000235",
+    "site": "Incruit",
+    "title": "어셔어학원 데스크 직원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000235&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122097",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000236",
+    "site": "Incruit",
+    "title": "품질개발 부서 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000236&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122092",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000241",
+    "site": "Incruit",
+    "title": "시흥도시공사 상임이사(본부장) 모집 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000241&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122088",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000242",
+    "site": "Incruit",
+    "title": "[용접] 자동차부품/ 경기도 화성시/ 용접",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000242&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122084",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000239",
+    "site": "Incruit",
+    "title": "맞춤가구  공장 생산라인 경력자 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000239&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122079",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000244",
+    "site": "Incruit",
+    "title": "MBC 생방송 오늘아침 PD 구인 (4~9년차)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000244&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122075",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000257",
+    "site": "Incruit",
+    "title": "아산 하수도현장 공무 모십니다",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000257&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122070",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000259",
+    "site": "Incruit",
+    "title": "[경주] 자동차부품 (배선) 단순 조립 검사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000259&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122065",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000254",
+    "site": "Incruit",
+    "title": "(주)청우종합건축사사무소 건축설계 경력직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000254&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122060",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000262",
+    "site": "Incruit",
+    "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000262&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122055",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000266",
+    "site": "Incruit",
+    "title": "블라썸에듀 안양 영어학원에서 신규관리강사를 모십니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000266&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122049",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000265",
+    "site": "Incruit",
+    "title": "블라썸에듀 산본 영어학원에서 신규관리강사를 모십니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000265&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122044",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000263",
+    "site": "Incruit",
+    "title": "블라썸에듀 평촌 영어학원에서 신규관리강사를 모십니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000263&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122040",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000267",
+    "site": "Incruit",
+    "title": "LED 장비운용 경력사원 채용(wire bonding, die bonding 유경험자)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000267&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122035",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000297",
+    "site": "Incruit",
+    "title": "신한은행 대출위탁법인 (주)모기지파트너스 대출상담사 [[강릉]]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000297&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122029",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000268",
+    "site": "Incruit",
+    "title": "[중견 제약회사]  IT기획팀 팀장",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000268&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122024",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000299",
+    "site": "Incruit",
+    "title": "[프레스] 자동차부품/ 경기도 화성시/ 프레스",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000299&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122019",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000301",
+    "site": "Incruit",
+    "title": "신한은행 대출위탁법인 (주)모기지파트너스 대출상담사 [[부산.경남]]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000301&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122014",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000302",
+    "site": "Incruit",
+    "title": "[외주관리] 경기도 화성시/ 자동차부품/ 금형, 프레스, 용접",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000302&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122008",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000307",
+    "site": "Incruit",
+    "title": "[엠키스코어] 영업본부 신입 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000307&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.122003",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000304",
+    "site": "Incruit",
+    "title": "신한은행 대출위탁법인 (주)모기지파트너스 대출상담사 [[대구.경북]]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000304&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121998",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000295",
+    "site": "Incruit",
+    "title": "2026년 CPBC [광고영업 / 카메라] 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000295&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121992",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000317",
+    "site": "Incruit",
+    "title": "[ 천안 동남구 수신면 ] 대기업 정규직 단순식품 생산사원모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000317&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121986",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000319",
+    "site": "Incruit",
+    "title": "[ 청주시 오창읍 ] 2차전지부품 플라스틱 사출OP , 품질관리 사원모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000319&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121981",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000320",
+    "site": "Incruit",
+    "title": "[ 대전 유성구 대덕테크노밸리 인근 ] 2차전지부품 설비OP , 검사원 사원모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000320&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121976",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000321",
+    "site": "Incruit",
+    "title": "[ 천안 , 직산 ] 플라스틱원재료 압출,배합 생산직 품질관리 사원모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000321&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121969",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000322",
+    "site": "Incruit",
+    "title": "[ 평택시 , 서탄면 , 포승공단 ] 자동차부품 , 화장품용기 사출OP , 자재관리 사원모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000322&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121964",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000312",
+    "site": "Incruit",
+    "title": "Digital 회로 설계 (Analog Mixed,시니어/주니어) - PMIC 전문 팹리스 기업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000312&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121958",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611130003285",
+    "site": "Incruit",
+    "title": "KBS울산방송국 연봉직(육아휴직대체인력/TV주조정실VCR현업지원) 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611130003285&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121951",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000127",
+    "site": "Incruit",
+    "title": "(국내 에너지 대기업 계열사)  정보·물리보안/총무 (사원-대리급)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000127&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121946",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000007",
+    "site": "Incruit",
+    "title": "상장기업 컴플라이언스 5년이상/MAX8천",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000007&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121941",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000226",
+    "site": "Incruit",
+    "title": "[Danfoss Korea] Real Estate & Administration Manager",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000226&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121937",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000261",
+    "site": "Incruit",
+    "title": "원주성모병원 총무과 사원 채용 (장애인) 오전 근무 조건",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000261&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121930",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611110003012",
+    "site": "Incruit",
+    "title": "[핀다] HRBP (HR Business Partner)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611110003012&src=gsw*etc",
+    "deadline": "",
     "hidden_keyword": "HRM",
     "category": "HR",
-    "scraped_at": "2026-11-03T03:15:43.862783",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.121924",
+    "is_new": true
   },
   {
-    "id": "saramin_55451807",
-    "site": "Saramin",
-    "title": "한국미우라공업 경리과 정규직 신입사원 채용",
-    "company": "한국미우라공업㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55451807&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=b6b43821-c989-4526-bc78-488a1e64b1de",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "결산",
-    "category": "Accounting",
-    "scraped_at": "2026-11-03T03:15:43.860059",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55458559",
-    "site": "Saramin",
-    "title": "[반려동물 전문기업 (주)펫클럽] 회계/사무보조 (신입)",
-    "company": "(주)펫클럽",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55458559&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=b11a910c-aafd-4dcf-a3fa-3063f9aa193a",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-11-03T03:15:43.858783",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55437079",
-    "site": "Saramin",
-    "title": "2026년 4분기 글로벌 외식관리자 채용(전국/외국인 전형)",
-    "company": "(주)이랜드이츠",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437079&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=e6bb35ff-8155-4428-a7c0-8cbc7d13683f",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "HRD",
-    "category": "HR",
-    "scraped_at": "2026-11-02T01:14:25.516615",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55425275",
-    "site": "Saramin",
-    "title": "[대원전기㈜] 인사팀 신입사원 정규직 채용",
-    "company": "대원전기(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55425275&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=9bac5c9c-b65c-4a2c-98d0-06768ce0f5b4",
-    "deadline": "~ 11/15(일)",
+    "id": "incruit_2611150000106",
+    "site": "Incruit",
+    "title": "경기지사 오픈충원) 전국 온라인, 오프라인 헤드헌터 / 리써처 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000106&src=gsw*etc",
+    "deadline": "",
     "hidden_keyword": "인사",
     "category": "HR",
-    "scraped_at": "2026-10-30T01:45:17.937201",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:14.121919",
+    "is_new": true
   },
   {
-    "id": "saramin_55386538",
+    "id": "incruit_2611150000207",
+    "site": "Incruit",
+    "title": "케이워터운영관리(주) 경영본부 단기계약 근로자 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000207&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121913",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000009",
+    "site": "Incruit",
+    "title": "2027년도 치과 레지던트 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000009&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121908",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000016",
+    "site": "Incruit",
+    "title": "성수역 소재  디지털 광고대행사  인사총무 대리/과장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000016&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121904",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000102",
+    "site": "Incruit",
+    "title": "38. HRBP 리더 [국내 유명 상장사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000102&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121897",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000099",
+    "site": "Incruit",
+    "title": "38. HRBP [글로벌 하이엔드 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000099&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121869",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000211",
+    "site": "Incruit",
+    "title": "방송국 취재차량 운전직-종로 수송동",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000211&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121863",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000237",
+    "site": "Incruit",
+    "title": "[신입/경력] 어셔어학원 경영지원 신입 및 경력사원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000237&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121858",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000305",
+    "site": "Incruit",
+    "title": "HR헤드헌터초빙-각분야 경력자가능(인사,영업경력자우대)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000305&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121852",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000104",
+    "site": "Incruit",
+    "title": "38. HR (payroll, 대리급) [글로벌 탑티어 패션 럭셔리 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000104&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121847",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000220",
+    "site": "Incruit",
+    "title": "삼성화재 금융컨설턴트 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000220&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121840",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000126",
+    "site": "Incruit",
+    "title": "은퇴 없는 커리어의 완성, 기업재무컨설턴트(GFC)로 당신을 초빙합니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000126&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121836",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611130002267",
+    "site": "Incruit",
+    "title": "유진투자증권 CM팀 직원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611130002267&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121830",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611140000279",
+    "site": "Incruit",
+    "title": "[동우GCS] 프로젝트 원가·손익 사업관리 경력직 (영림원 ERP)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611140000279&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121826",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000095",
+    "site": "Incruit",
+    "title": "베트남 근무 회계담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000095&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121820",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000102",
+    "site": "Incruit",
+    "title": "긴급) AR Accountant (육휴 대체,계약직) - 외국인학교",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000102&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121816",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000115",
+    "site": "Incruit",
+    "title": "긴급) 미국법인/본사 재무회계 담당 - K뷰티 글로벌 기업 - 최우대",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000115&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121809",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000123",
+    "site": "Incruit",
+    "title": "긴급) 사내변호사 (영어 가능자) - 뷰티분야 글로벌 유통사 - 최우대",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000123&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121803",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000140",
+    "site": "Incruit",
+    "title": "긴급) 그룹 내부감사 담당 - 업계 최고 대기업 - 최우대",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000140&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121797",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000187",
+    "site": "Incruit",
+    "title": "에덴마트사무행정 보조직원 (채용)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000187&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121791",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611150000201",
+    "site": "Incruit",
+    "title": "법인기업  금융 PB (private banker)사업부 신입,경력 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611150000201&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121786",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000013",
+    "site": "Incruit",
+    "title": "글로벌 스포츠브랜드  공식수입원 유통기업 재무회계 과/차장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000013&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121780",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000095",
+    "site": "Incruit",
+    "title": "38. IR 담당자 [국내 유명 상장 기업]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000095&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121774",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000128",
+    "site": "Incruit",
+    "title": "49.  일반보험 사업부장 [외국계 대형 보험그룹, 12년+ ]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000128&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121769",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000174",
+    "site": "Incruit",
+    "title": "]]신입//경력[[ 중소기업지식경영센터 추가 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000174&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121763",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000180",
+    "site": "Incruit",
+    "title": "48. 재무관리 리더 [유명 엔터사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000180&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121757",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000193",
+    "site": "Incruit",
+    "title": "[노무법인 이산 울산동부지사]산재보상업무 영업직(신입가능)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000193&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121752",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000214",
+    "site": "Incruit",
+    "title": "43. 사내변호사[글로벌 외국계 금융사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000214&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121747",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000230",
+    "site": "Incruit",
+    "title": "[법무법인(유한) 태평양]신입/경력직원 정기공채 안내",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000230&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121741",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000298",
+    "site": "Incruit",
+    "title": "경영지원 경력 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000298&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121736",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000306",
+    "site": "Incruit",
+    "title": "2026년 산수그린텍(주) 하반기 신입,경력직 채용공고 (내근직 및 현장소장) [조경/토목/관리직]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000306&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121731",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611160000311",
+    "site": "Incruit",
+    "title": "[산수그린텍 본사 및 청주지사 근무] 공무 및 회계(내근직)모집공고 (건설업)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000311&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121723",
+    "is_new": true
+  },
+  {
+    "id": "linkareer_364555",
+    "site": "Linkareer",
+    "title": "[NAVER Cloud] 글로벌 신사업 개발 (체험형 인턴)기획/경영",
+    "company": "",
+    "link": "https://linkareer.com/activity/364555",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.121715",
+    "is_new": true
+  },
+  {
+    "id": "linkareer_358953",
+    "site": "Linkareer",
+    "title": "[미국] 글로벌 생산 네트워크 보유 국내 대표 자동차 내장재 전문 기업(코스피 상장사) 고객사 대응 및 생산법인 업무 조율업무 채용",
+    "company": "Dual USA LLC ㈜두올",
+    "link": "https://linkareer.com/activity/358953",
+    "deadline": "OPEN",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.121702",
+    "is_new": true
+  },
+  {
+    "id": "jk_50351635",
+    "site": "JobKorea",
+    "title": "(주)우진플라임 총무팀 신입사원 채용",
+    "company": "㈜우진플라임",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50351635?Oem_Code=C1&logpath=1&stext=%EC%B4%9D%EB%AC%B4&listno=19&sc=630",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:14.120031",
+    "is_new": true
+  },
+  {
+    "id": "jk_50364998",
+    "site": "JobKorea",
+    "title": "26년 11월 인팩 영업 분야 채용 공고",
+    "company": "㈜인팩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50364998?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=20&sc=630",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.007467",
+    "is_new": true
+  },
+  {
+    "id": "jk_50275824",
+    "site": "JobKorea",
+    "title": "[경영관리/회계] 재무·회계 및 경영지원 경력사원 채용 (3년 이상)",
+    "company": "㈜디지털데일리",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275824?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=3&sc=808",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:14.002998",
+    "is_new": true
+  },
+  {
+    "id": "jk_50350767",
+    "site": "JobKorea",
+    "title": "천지세무법인 티앤씨 근무세무사 경력 채용 공고",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50350767?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=1&sc=808",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-16T01:41:13.998946",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55540704",
     "site": "Saramin",
-    "title": "2026년 가비아 채용연계형 인턴 채용",
-    "company": "(주)가비아",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55386538&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=df467bdf-5a30-4fb5-82d2-0a9ec9ffbd12",
-    "deadline": "~ 11/15(일)",
+    "title": "[대학내일] STAFF(총무)_경영개선팀_신입(전환형)",
+    "company": "(주)대학내일",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55540704&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=da70a6ef-b21c-4243-a781-e49355fd07a5",
+    "deadline": "~ 11/23(월)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-16T01:41:13.984909",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55331795",
+    "site": "Saramin",
+    "title": "중고차 수출 플랫폼 망고카 경영지원 담당자 (신입)채용",
+    "company": "망고카(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55331795&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=91f21032-666e-44cc-b3b5-5fbe808adb14",
+    "deadline": "~ 11/18(수)",
     "hidden_keyword": "HRM",
     "category": "HR",
-    "scraped_at": "2026-10-28T01:03:49.257802",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:13.984368",
+    "is_new": true
   },
   {
-    "id": "saramin_55399602",
+    "id": "saramin_55546891",
     "site": "Saramin",
-    "title": "현대L&C 26년 4분기 사무계약직 상시채용 (회계·재무)",
-    "company": "(주)현대엘앤씨",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55399602&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "회계",
+    "title": "기장, 세무, 회계 정규직 채용(신입)",
+    "company": "세무법인창조",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55546891&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8ac3b06c-592b-4012-905c-6e2ad73a8954",
+    "deadline": "~ 12/11(금)",
+    "hidden_keyword": "세무",
     "category": "Accounting",
-    "scraped_at": "2026-10-28T01:03:49.251339",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:13.983395",
+    "is_new": true
   },
   {
-    "id": "saramin_55313218",
+    "id": "saramin_55275217",
     "site": "Saramin",
-    "title": "[쿠팡] Finance 재무관리 담당자 (신입 가능/계약직)",
-    "company": "쿠팡(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55313218&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=cedc5fbc-3b76-4b23-ba90-0636fc1bf2ae",
-    "deadline": "~ 11/15(일)",
+    "title": "제주헬스케어타운 리조트 재무팀 직원 채용",
+    "company": "한국과서자산관리유한회사",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55275217&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=748d8c89-8e93-4f9d-95ac-78028a4a01fc",
+    "deadline": "채용시",
     "hidden_keyword": "재무",
     "category": "Accounting",
-    "scraped_at": "2026-10-17T00:16:55.093711",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55310662",
-    "site": "Saramin",
-    "title": "회계사무실 신입 직원모집합니다.(관련학과및 자격증소지자)",
-    "company": "(유)보람회계법인",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55310662&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=088a95ef-f81c-4cd6-9786-61ed418edaee",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-10-17T00:16:55.092401",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55052077",
-    "site": "Saramin",
-    "title": "KD㈜ 재무관리팀 신입사원 채용",
-    "company": "KD(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55052077&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=fdd14b9d-28a5-4771-8487-3931cb65fe89",
-    "deadline": "~ 11/15(일)",
-    "hidden_keyword": "재무",
-    "category": "Accounting",
-    "scraped_at": "2026-09-28T00:26:37.805477",
-    "is_new": false
+    "scraped_at": "2026-11-16T01:41:13.982810",
+    "is_new": true
   },
   {
     "id": "incruit_2611140000250",
@@ -343,7 +2095,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578238",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000258",
@@ -355,7 +2107,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578232",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000261",
@@ -367,7 +2119,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578224",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000260",
@@ -379,7 +2131,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578217",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000283",
@@ -391,7 +2143,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578210",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000284",
@@ -403,7 +2155,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578202",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000285",
@@ -415,7 +2167,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578195",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000281",
@@ -427,7 +2179,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578185",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000288",
@@ -439,7 +2191,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578177",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000292",
@@ -451,7 +2203,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578170",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000291",
@@ -463,7 +2215,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578163",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000290",
@@ -475,7 +2227,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578157",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000294",
@@ -487,7 +2239,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578150",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000295",
@@ -499,7 +2251,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578142",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000298",
@@ -511,7 +2263,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578134",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000307",
@@ -523,7 +2275,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578125",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000310",
@@ -535,7 +2287,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578117",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000311",
@@ -547,7 +2299,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578109",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000312",
@@ -559,7 +2311,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578100",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000313",
@@ -571,7 +2323,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578091",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000002",
@@ -583,7 +2335,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578083",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000006",
@@ -595,7 +2347,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578076",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000009",
@@ -607,7 +2359,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578067",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000016",
@@ -619,7 +2371,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578058",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000017",
@@ -631,7 +2383,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578049",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000018",
@@ -643,7 +2395,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578041",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000044",
@@ -655,7 +2407,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578031",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000046",
@@ -667,7 +2419,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578024",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000047",
@@ -679,7 +2431,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578016",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000048",
@@ -691,7 +2443,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578009",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000050",
@@ -703,7 +2455,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.578001",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000051",
@@ -715,7 +2467,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577993",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000053",
@@ -727,7 +2479,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577985",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000054",
@@ -739,7 +2491,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577977",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000055",
@@ -751,7 +2503,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577960",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000056",
@@ -763,7 +2515,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577953",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611130000922",
@@ -775,7 +2527,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577946",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611130002213",
@@ -787,7 +2539,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577938",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611130002249",
@@ -799,7 +2551,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577929",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000188",
@@ -811,7 +2563,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577922",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000198",
@@ -823,7 +2575,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577915",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000296",
@@ -835,7 +2587,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577906",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000013",
@@ -847,7 +2599,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577898",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000309",
@@ -859,7 +2611,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577887",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611130000932",
@@ -871,7 +2623,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577878",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000183",
@@ -883,7 +2635,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577870",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000255",
@@ -895,7 +2647,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577864",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611140000302",
@@ -907,7 +2659,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577856",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000003",
@@ -919,7 +2671,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577848",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000010",
@@ -931,7 +2683,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577839",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611150000014",
@@ -943,7 +2695,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.577828",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "linkareer_363307",
@@ -955,7 +2707,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577814",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "linkareer_364202",
@@ -967,7 +2719,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.577235",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50349663",
@@ -979,7 +2731,7 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-11-15T01:31:37.541562",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50349054",
@@ -991,7 +2743,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.464920",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50357471",
@@ -1003,7 +2755,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-15T01:31:37.463220",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "wanted_390178",
@@ -2129,21 +3881,24 @@
     "link": "https://www.wanted.co.kr/wd/381241",
     "deadline": "",
     "hidden_keyword": "비즈니스 데이터 분석",
-    "description": "",
+    "description": "빗썸은 대한민국 ​대표 ​가상자산거래소입니다. 디지털 ​자산이 일상이 ​되는 금융의 미래를 만들어가고 ​있습니다. 빗썸은 ​대규모 트래픽 ​환경에서도 안정적으로 작동하는 ​고성능 거래 ​시스템, 투명하고 ​공정한 상장·운영 ​기준을 ​기반으로, 가상자산 ​거래를 넘어 디지털 ​금융 ​플랫폼으로 진화하고 있습니다. 빠르게 ​변화하는 ​시장 ​속에서 기술과 신뢰를 ​핵심 가치로 ​삼고, 지속 ​가능한 성장을 ​이어가고 있습니다. 이 ​과정의 ​중심에는 각자의 전문성을 ​바탕으로 도전하는 ​사람이 있습니다. 빗썸은 구성원이 스스로의 역량을 마음껏 발휘하고, 성과에 합당한 보상을 받으며 함께 성장할 수 있는 환경을 만들어갑니다. 디지털 금융의 새로운 기준을 세우는 여정에 빗썸과 함께 도전하고 성장할 동료를 기다립니다. 주요업무 • 거래소 데이터 심층 분석 : 대규모 거래 데이터를 분석하여 비즈니스 기회를 발굴하고, 서비스 개선을 위한 실행 가능한 인사이트를 도출합니다. • 비즈니스 인사이트 도출 및 전략 리포팅 : 데이터 분석을 통해 핵심적인 비즈니스 인사이트를 발굴하고, 이를 명확하고 설득력 있는 보고서로 작성하여 유관 부서 및 경영진에게 전달하며 전략 수립을 지원합니다. • 핵심 지표 설계 및 관리: 비즈니스 성과를 측정하고 개선하기 위한 핵심 성과 지표(KPI)를 설계하고, 데이터 기반 의사결정을 위한 체계적인 지표 관리 시스템을 구축합니다. • 데이터 기반 의사결정 기여 : 분석 결과를 바탕으로 실제 비즈니스 전략 수립 및 실행에 적극적으로 기여하며, 데이터 중심의 문화를 확산시킵니다. 자격요건 • 5년 이상의 데이터 분석 관련 실무 경력을 보유하신 분 • 암호화폐 투자 경험이 있고, 암호화폐 시장에 대한 깊은 이해와 높은 관심을 가지신 분 • SQL 및 Python을 활용한 능숙한 데이터 조작, 분석 및 시각화 역량을 보유하신 분 • 복잡한 데이터를 분석하여 비즈니스 인사이트를 성공적으로 도출하고 리포팅한 경험이 풍부하신 분 상세 정보 더 보기\n주요업무 • 거래소 데이터 심층 분석 : 대규모 거래 데이터를 분석하여 비즈니스 기회를 발굴하고, 서비스 개선을 위한 실행 가능한 인사이트를 도출합니다. • 비즈니스 인사이트 도출 및 전략 리포팅 : 데이터 분석을 통해 핵심적인 비즈니스 인사이트를 발굴하고, 이를 명확하고 설득력 있는 보고서로 작성하여 유관 부서 및 경영진에게 전달하며 전략 수립을 지원합니다. • 핵심 지표 설계 및 관리: 비즈니스 성과를 측정하고 개선하기 위한 핵심 성과 지표(KPI)를 설계하고, 데이터 기반 의사결정을 위한 체계적인 지표 관리 시스템을 구축합니다. • 데이터 기반 의사결정 기여 : 분석 결과를 바탕으로 실제 비즈니스 전략 수립 및 실행에 적극적으로 기여하며, 데이터 중심의 문화를 확산시킵니다.\n자격요건 • 5년 이상의 데이터 분석 관련 실무 경력을 보유하신 분 • 암호화폐 투자 경험이 있고, 암호화폐 시장에 대한 깊은 이해와 높은 관심을 가지신 분 • SQL 및 Python을 활용한 능숙한 데이터 조작, 분석 및 시각화 역량을 보유하신 분 • 복잡한 데이터를 분석하여 비즈니스 인사이트를 성공적으로 도출하고 리포팅한 경험이 풍부하신 분",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
+      "score": 2,
+      "matched_keywords": [
+        "SQL",
+        "Python"
+      ],
       "matched_roles": [
         "Data Analyst",
         "Business Data Analyst"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.324817",
-    "last_seen_at": "2026-11-14T02:05:19.324818+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2154,21 +3909,28 @@
     "link": "https://www.wanted.co.kr/wd/393303",
     "deadline": "",
     "hidden_keyword": "비즈니스 데이터 분석",
-    "description": "",
+    "description": "[21년 연속 영업이익 달성, MarTech를 이끄는 마케팅 플랫폼] 휴머스온은 1998년 설립 이후 디지털 마케팅 분야를 선도해온 기업입니다. 자체 개발한 빅데이터 마케팅 플랫폼 ‘TasOn’과 통합 메시징 솔루션 ‘TMS’를 통해 국내 시장 점유율 1위를 기록하며, 고객 맞춤형 마케팅을 지원하고 있습니다. 삼성전자, 현대자동차, 대한항공, 스타벅스 등 국내외 대표 기업들이 휴머스온과 함께하고 있으며, 국내 대기업 고객 점유율은 80% 이상에 달합니다. AI 기반 메시지 발송은 연간 300억 건 이상을 처리하고 있으며, 고객사 재계약률은 95% 이상으로 업계 최고 수준의 신뢰도를 보여주고 있습니다. 휴머스온의 강점은 기술력에 있습니다. 빅데이터 엔진과 AI 기반 마케팅 자동화 기술을 결합해 고객 행동을 정밀하게 분석하고, 개인화된 마케팅을 자동으로 실행할 수 있는 플랫폼을 구축했습니다. 이러한 기술 혁신은 고객사의 마케팅 효율을 극대화하고, 실제 영업 성과로 이어지고 있습니다. 지속적인 R&D 투자와 안정적인 매출 성장은 휴머스온을 국내를 넘어 글로벌 시장에서도 경쟁력 있는 기업으로 자리매김하게 했습니다. 앞으로도 휴머스온은 “글로벌 빅데이터 마케팅 테크놀로지 컴퍼니”로 도약하며, 데이터와 기술을 기반으로 새로운 가치를 창출해 나갈 것입니다. 주요업무 1. 사업 성과 지표 정의 및 관리 • 잔존율, 이탈률, 고객당 매출, 가입 후 첫 사용 전환율 등 핵심 지표 설계 • 팀 간 지표 정의와 기준 정리 및 정합성 관리 2. 데이터 통합 분석 및 실행 방안 도출 • 가입·사용·결제·고객 데이터를 결합한 집계 및 성과 변동 원인 분석 • 분석 결과를 실행 가능한 제안으로 정리해 의사결정 지원 3. 제품 개선 우선순위 수립 지원 • 가입, 첫 사용, 유료 전환, 이탈로 이어지는 퍼널 분석 및 개선 필요 구간 발굴 • 기능 개선 및 실험 효과 측정, 후속 우선순위 결정 참여 4. 요금제 및 가격 정책 분석 • 요금제별 사용 패턴, 업그레이드·다운그레이드 추이 분석 • 가격 변경 전후 영향 분석 5. AI 기반 집계·보고 자동화 • 주간·월간 반복 집계 및 리포트의 AI·SQL 기반 자동화 • 대시보드, 분석 도우미, 에이전트 등 데이터 활용 도구 개발 및 고도화 6. 주도적 문제 발굴 및 해결 • 데이터 기반 리스크·기회 선제 발굴 및 제안 • 제안 사항의 실행까지 이어지도록 끝까지 관리 자격요건 • 4년제 학사 이상 • 경력 : 유관업무 경력 3년 이상 • 비즈니스를 이해한 위에서 데이터를 분석해 온 경험이 3년 이상 있는 분 • SQL을 중상 이상 다루시는 분 — 여러 테이블을 조인하고 윈도 함수와 서브쿼리로 집계 쿼리를 직접 짜며, 느린 쿼리를 손볼 수 있는 수준 • 흩어져 있는 데이터를 엮어서, 그래서 무엇을 하자는 결론까지 끌고 갈 수 있는 분 • AI를 써서 반복되는 집계와 보고를 자동화하거나, 분석을 돕는 도구를 직접 만들어 보신 분 • 지표를 직접 정의해 본 분 — 남이 정해 준 지표를 집계만 해 온 경험이 아니라 주어진 분석만 하는 데 그치지 않고, 스스로 문제를 찾아 끝까지 끌고 가는 분 상세 정보 더 보기\n주요업무 1. 사업 성과 지표 정의 및 관리 • 잔존율, 이탈률, 고객당 매출, 가입 후 첫 사용 전환율 등 핵심 지표 설계 • 팀 간 지표 정의와 기준 정리 및 정합성 관리 2. 데이터 통합 분석 및 실행 방안 도출 • 가입·사용·결제·고객 데이터를 결합한 집계 및 성과 변동 원인 분석 • 분석 결과를 실행 가능한 제안으로 정리해 의사결정 지원 3. 제품 개선 우선순위 수립 지원 • 가입, 첫 사용, 유료 전환, 이탈로 이어지는 퍼널 분석 및 개선 필요 구간 발굴 • 기능 개선 및 실험 효과 측정, 후속 우선순위 결정 참여 4. 요금제 및 가격 정책 분석 • 요금제별 사용 패턴, 업그레이드·다운그레이드 추이 분석 • 가격 변경 전후 영향 분석 5. AI 기반 집계·보고 자동화 • 주간·월간 반복 집계 및 리포트의 AI·SQL 기반 자동화 • 대시보드, 분석 도우미, 에이전트 등 데이터 활용 도구 개발 및 고도화 6. 주도적 문제 발굴 및 해결 • 데이터 기반 리스크·기회 선제 발굴 및 제안 • 제안 사항의 실행까지 이어지도록 끝까지 관리\n자격요건 • 4년제 학사 이상 • 경력 : 유관업무 경력 3년 이상 • 비즈니스를 이해한 위에서 데이터를 분석해 온 경험이 3년 이상 있는 분 • SQL을 중상 이상 다루시는 분 — 여러 테이블을 조인하고 윈도 함수와 서브쿼리로 집계 쿼리를 직접 짜며, 느린 쿼리를 손볼 수 있는 수준 • 흩어져 있는 데이터를 엮어서, 그래서 무엇을 하자는 결론까지 끌고 갈 수 있는 분 • AI를 써서 반복되는 집계와 보고를 자동화하거나, 분석을 돕는 도구를 직접 만들어 보신 분 • 지표를 직접 정의해 본 분 — 남이 정해 준 지표를 집계만 해 온 경험이 아니라 주어진 분석만 하는 데 그치지 않고, 스스로 문제를 찾아 끝까지 끌고 가는 분",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
+      "score": 5,
+      "matched_keywords": [
+        "SQL",
+        "Experiment",
+        "Funnel",
+        "Customer Data",
+        "Automation"
+      ],
       "matched_roles": [
         "Data Analyst",
-        "Business Data Analyst"
+        "Business Data Analyst",
+        "MarTech"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.324396",
-    "last_seen_at": "2026-11-14T02:05:19.324400+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2179,20 +3941,23 @@
     "link": "https://www.wanted.co.kr/wd/397907",
     "deadline": "",
     "hidden_keyword": "데이터 분석",
-    "description": "",
+    "description": "보살핌은 “평생 배우고, 평생 도전하는 삶을 만든다“ 는 미션을 가진 에이지테크 스타트업입니다. 보살핌은 시니어 케어 분야의 인력난 문제에서 시작하여, 60만 명의 개인 회원과 7,500곳의 기업 회원을 확보하며 중장년 직무교육 1위 플랫폼으로 성장했습니다. 25년 5월에는 평균 연령 61세의 사용자들이, 일자리를 넘어 새로운 배움에 도전하도록 돕는 '케어아카데미'를 출시하였습니다. 이를 통해 교육과 일자리를 연결하는 선순환 구조를 성공적으로 증명하였고, 누적 수강생 20만명을 넘으며 가파르게 성장하고 있습니다. 또한, 최근 12개월간 매월 매출이 평균 21%씩 성장하였고, 25년 연간 흑자로 전환하며 지속가능한 비즈니스 환경을 구축하였습니다. 보살핌은 케어파트너를 통해 시니어들이 나이라는 한계를 넘어 새롭게 배우고 도전하는 평생 성장 플랫폼을 만들어가고자 합니다. [ 합류 후 만들어갈 변화 ] 첫 데이터 분석가로 합류해 제 몫을 해내기 시작하면, 회사는 이렇게 달라집니다. • 팀이 같은 숫자를 보고 결정합니다. 지금은 같은 데이터를 두고 사람마다 해석이 다르고, 대시보드 숫자가 맞는지 확신하기 어렵습니다. 로그 규칙과 지표 정의가 하나로 정리되면 숫자를 두고 다투는 시간이 사라집니다. • 구성원이 AI로 직접 데이터를 보고, 그 결과를 믿고 씁니다. 당신이 만든 지표 정의와 가이드 위에서 각자 분석할 수 있는 범위가 넓어집니다. • PM과 스쿼드 리더가 실험이 이겼는지뿐 아니라 왜 이겼는지 알게 됩니다. 전환율 하나로 판단하던 실험을 고객 행동 단위까지 들여다보고, 다음 실험을 더 정교하게 설계합니다. • 경영진이 어느 레버를 건드려야 회사가 성장하는지 데이터로 판단합니다. 스쿼드마다 따로 보던 숫자를 아울러 유입, 활성화, 리텐션 구조를 진단한 결과가 전사 전략에 바로 쓰입니다. 주요업무 [ 합류 직후, 이런 일을 해요 ] • 서비스 데이터(RDB)와 행동 로그(Mixpanel)가 어떻게 쌓이고 있는지 파악합니다. • 교육 서비스(케어아카데미)의 가입, 수강신청, 결제 데이터와 쿠폰, 알림톡 같은 CRM 발송 데이터, 일자리 서비스(케어파트너)의 공고, 알림, 지원 데이터를 다룹니다 • 타입이 나뉘지 않았거나 속성이 지나치게 추상화된 로그부터 고치고, 개발자와 함께 로그 규칙을 제품에 적용합니다 • 매출, 사용자, 구매, CRM 같은 핵심 지표의 정의를 하나로 맞추고, 핵심 대시보드 숫자를 검증해 틀린 곳을 고칩니다 • 전사 차원의 질문 하나를 골라 깊게 분석합니다 • 스쿼드 실험을 설계 단계부터 함께 보고, 끝나면 어떤 고객 행동이 왜 바뀌었는지 분석해 공유합니다 • 유입, 활성화, 리텐션 구조를 처음 진단하고, 케어아카데미 성장 모델의 첫 판을 만듭니다 [ 장기적으로, 이런 일도 해요 ] • 분석계 같은 데이터 인프라를 정의하고 내부 개발자와 함께 구축합니다. 내부 리소스가 부족하면 외주 개발자 같은 외부 파트너와 협업합니다 • 성장 구조 진단과 레버 제안이 주기적으로 도는 체계를 만들고, 매출과 활성 사용자 수를 추정하는 모델을 다듬어 갑니다 • 구성원이 AI로 데이터를 볼 때 읽을 지표 정의와 가이드를 만들고, 그 결과를 검증합니다 • 누가 묻기 전에 데이터에서 이상 신호나 기회를 찾아 먼저 제안합니다 • 다음 분석가를 뽑을 때 채용 기준을 세웁니다 [ 이런 방식으로 함께 일해요 ] • 대표에게 직접 보고하고, 분기마다 경영진과 함께 집중할 일을 정합니다 • 로그 규칙이나 지표 정의 같은 기준은 처음에는 초안을 만들어 대표, PM, 스쿼드 리더와 합의한 뒤 적용합니다. 서로 기준에 공감대가 생기면, 같은 원칙 안의 새 기준은 직접 정하고 팀에 알립니다 • 평소에는 PM, 스쿼드 리더와 실험 설계와 해석을 함께하고, 합류 초기에는 개발자들과 로그와 데이터 환경을 세팅하는 일을 많이 합니다 • 요청받은 숫자를 뽑아 주는 데서 끝나지 않습니다. 숫자가 왜 그렇게 나왔는지까지 보고 다음 판단을 제안합니다 자격요건 • 정리되지 않은 채 쌓인 레거시 데이터와 로그 위에서 로그 규칙, 지표 정의, 분석 환경을 다시 설계하고 개발자와 함께 구축해 본 분 • SQL로 서비스 데이터와 행동 로그를 함께 분석하고, 실험 결과를 고객 행동 단위로 해석해 다음 액션을 제안해 본 분 • AI 기반 분석 도구나 에이전트로 팀이 데이터를 더 쉽게 보게 만들어 본 분 • 새로 만든 데이터 기준을 PM이나 개발자와 합의해, 여러 팀이 실제로 쓰게 만든 경험이 있는 분 • 보살핌의 핵심가치, 특히 \"팀의 승리를 위해 뛴다(내 역할에 갇히지 않고 팀에 필요한 일을 한다)\"에 공감하는 분 상세 정보 더 보기\n주요업무 [ 합류 직후, 이런 일을 해요 ] • 서비스 데이터(RDB)와 행동 로그(Mixpanel)가 어떻게 쌓이고 있는지 파악합니다. • 교육 서비스(케어아카데미)의 가입, 수강신청, 결제 데이터와 쿠폰, 알림톡 같은 CRM 발송 데이터, 일자리 서비스(케어파트너)의 공고, 알림, 지원 데이터를 다룹니다 • 타입이 나뉘지 않았거나 속성이 지나치게 추상화된 로그부터 고치고, 개발자와 함께 로그 규칙을 제품에 적용합니다 • 매출, 사용자, 구매, CRM 같은 핵심 지표의 정의를 하나로 맞추고, 핵심 대시보드 숫자를 검증해 틀린 곳을 고칩니다 • 전사 차원의 질문 하나를 골라 깊게 분석합니다 • 스쿼드 실험을 설계 단계부터 함께 보고, 끝나면 어떤 고객 행동이 왜 바뀌었는지 분석해 공유합니다 • 유입, 활성화, 리텐션 구조를 처음 진단하고, 케어아카데미 성장 모델의 첫 판을 만듭니다 [ 장기적으로, 이런 일도 해요 ] • 분석계 같은 데이터 인프라를 정의하고 내부 개발자와 함께 구축합니다. 내부 리소스가 부족하면 외주 개발자 같은 외부 파트너와 협업합니다 • 성장 구조 진단과 레버 제안이 주기적으로 도는 체계를 만들고, 매출과 활성 사용자 수를 추정하는 모델을 다듬어 갑니다 • 구성원이 AI로 데이터를 볼 때 읽을 지표 정의와 가이드를 만들고, 그 결과를 검증합니다 • 누가 묻기 전에 데이터에서 이상 신호나 기회를 찾아 먼저 제안합니다 • 다음 분석가를 뽑을 때 채용 기준을 세웁니다 [ 이런 방식으로 함께 일해요 ] • 대표에게 직접 보고하고, 분기마다 경영진과 함께 집중할 일을 정합니다 • 로그 규칙이나 지표 정의 같은 기준은 처음에는 초안을 만들어 대표, PM, 스쿼드 리더와 합의한 뒤 적용합니다. 서로 기준에 공감대가 생기면, 같은 원칙 안의 새 기준은 직접 정하고 팀에 알립니다 • 평소에는 PM, 스쿼드 리더와 실험 설계와 해석을 함께하고, 합류 초기에는 개발자들과 로그와 데이터 환경을 세팅하는 일을 많이 합니다 • 요청받은 숫자를 뽑아 주는 데서 끝나지 않습니다. 숫자가 왜 그렇게 나왔는지까지 보고 다음 판단을 제안합니다\n자격요건 • 정리되지 않은 채 쌓인 레거시 데이터와 로그 위에서 로그 규칙, 지표 정의, 분석 환경을 다시 설계하고 개발자와 함께 구축해 본 분 • SQL로 서비스 데이터와 행동 로그를 함께 분석하고, 실험 결과를 고객 행동 단위로 해석해 다음 액션을 제안해 본 분 • AI 기반 분석 도구나 에이전트로 팀이 데이터를 더 쉽게 보게 만들어 본 분 • 새로 만든 데이터 기준을 PM이나 개발자와 합의해, 여러 팀이 실제로 쓰게 만든 경험이 있는 분 • 보살핌의 핵심가치, 특히 \"팀의 승리를 위해 뛴다(내 역할에 갇히지 않고 팀에 필요한 일을 한다)\"에 공감하는 분",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
+      "score": 2,
+      "matched_keywords": [
+        "SQL",
+        "Experiment"
+      ],
       "matched_roles": [
         "Data Analyst"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.323930",
-    "last_seen_at": "2026-11-14T02:05:19.323932+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2203,20 +3968,25 @@
     "link": "https://www.wanted.co.kr/wd/397219",
     "deadline": "",
     "hidden_keyword": "데이터 분석",
-    "description": "",
+    "description": "쿠팡은 고객 감동 실현을 위해 존재합니다. 고객들이 \"쿠팡 없이 그동안 어떻게 살았을까?\" 라고 말할 때, 비로소 우리의 미션을 실현하고 있음을 알 수 있습니다. 고객들의 쇼핑과 식사, 생활 전반을 편하게 만들겠다는 유일한 집념으로 쿠팡은 수억 달러 규모의 이커머스 산업 전반의 혁신을 이끌고 있습니다. 쿠팡은 가장 빠르게 성장하는 이커머스 기업 중 하나로, 국내 커머스 업계에서의 독보적인 입지와, 고객 신뢰를 구축했습니다. 쿠팡은 스타트업 문화를 기반으로 한 글로벌 대형 상장사라고 자부합니다. 이것이 창립 당시의 기민함을 지하며, 신규 서비스를 끊임없이 출시하며 비즈니스를 확장해 나가는 우리의 성장 동력입니다. 쿠팡의 모든 임직원에게는 기업가 정신을 갖추고 새로운 혁신과 이니셔티브를 추진할 수 있는 기회가 주어집니다. 주저 없이 일에 뛰어들어 성과를 이루고자 하는 과감성이, 바로 쿠팡이 일하는 방식의 본질입니다. 쿠팡에서는 여러분 자신, 동료, 팀 그리고 회사 전체가 매일 성장하는 모습을 목격할 것입니다. 쿠팡의 모든 직원은 커머스의 미래를 만들겠다는 쿠팡의 미션에 진심입니다. 우리는 고객의 문제를 해결해 나가고, 전통적인 관념과 통념에 맞서며 실현 가능한 한계를 뛰어넘고 있습니다. 고가용성 (always-on) 과 최첨단의 앞선 기술 (high-tech), 초연결사회 (hyper-connected world) 에서의 놀라운 업무 경험을 원하신다면, 지금 바로 쿠팡에 합류하세요. 직무 소개 Data Analytics & Science 팀은 Growth Marketing 및 다양한 비즈니스 조직과 긴밀히 협업하여 신규 성장 기회를 발굴하고, 사업 성과의 핵심 동인을 파악하며, 데이터 기반 의사결정을 지원합니다. Senior~Staff Data Analyst(계약직)는 대규모 데이터를 분석하여 비즈니스 성장을 견인할 고객, 카테고리, 마케팅 인사이트를 도출합니다. 고객 행동, 마케팅 효과, 카테고리 성과, 실험 분석 등 다양한 영역의 분석을 주도하며, 조직 전반의 분석 효율성을 높이고 인사이트 도출을 가속화할 확장 가능한 분석 프레임워크 및 지식 자산 구축에 기여합니다. 주요업무 • 카테고리, 고객, 주요 비즈니스 이니셔티브 전반에 걸친 성장 기회 발굴 및 임팩트 정량화 • 비즈니스 핵심 성장 동인, 고객 행동 변화, 운영 트렌드 파악을 위한 Root Cause Analysis 수행 • 모호한 비즈니스 이슈를 구조화된 분석으로 구체화하고 실행 가능한 액션 플랜 도출 • 비즈니스 우선순위 설정 및 핵심 의사결정을 지원하는 명확한 데이터 기반 인사이트 도출 • A/B 테스트 등 실험 결과 및 성장 프로젝트 분석을 통한 비즈니스 임팩트와 고객 지표 평가 • 고객 단위 및 퍼널(Funnel) 단위 분석을 통한 서비스 최적화 기회 발굴 • Incrementality, Uplift, Attribution, Baseline Effect, iROAS 등 핵심 지표를 활용한 분석적 엄밀성 기반의 사업 성과 해석 • 성장 이니셔티브 및 마케팅 효과 측정을 고도화하기 위한 분석 방법론 및 측정 체계 수립 지원 • 전사 비즈니스 조직에서 활용 가능한 진단 프레임워크, 분석 자산 및 Best Practice 구축 • 비즈니스 컨텍스트, 과거 러닝(Learnings), 분석 방법론을 자산화하는 AI 기반 Knowledge Repository 구축 및 운영 • 고객, 마케팅, 셀러, 카탈로그, 검색, 재고, 운영 데이터 전반의 인사이트를 연결하여 조직 학습 가속화 • 자동화, 문서화, Self-service 분석 환경 구축을 통한 전사 분석 생산성 향상 자격요건 • 통계학, 경제학, 공학, 경영학, 수학, 컴퓨터공학 또는 유관 정량 분석 분야 학사 학위 이상 • BI(Business Intelligence), 데이터 분석, 전략 기획, 컨설팅, Product Analytics, Growth Analytics 또는 유관 분야 경력 4년 이상 • 대규모 데이터셋을 독립적으로 다루고 추출할 수 있는 우수한 SQL 활용 역량 • 모호한 비즈니스 문제를 구조화하여 실행 가능한 인사이트로 전환할 수 있는 뛰어난 문제 해결 능력 • A/B 테스트, Incrementality, Uplift, Attribution, ROI 등 실험 설계 및 성과 측정 방법론에 대한 깊은 이해도 • 분석 결과를 명확한 비즈니스 스토리텔링과 실행 가능한 제언으로 전달할 수 있는 커뮤니케이션 역량 고용조건 • 계약직 1년 6개월 육아휴직 대체 상세 정보 더 보기\n주요업무 • 카테고리, 고객, 주요 비즈니스 이니셔티브 전반에 걸친 성장 기회 발굴 및 임팩트 정량화 • 비즈니스 핵심 성장 동인, 고객 행동 변화, 운영 트렌드 파악을 위한 Root Cause Analysis 수행 • 모호한 비즈니스 이슈를 구조화된 분석으로 구체화하고 실행 가능한 액션 플랜 도출 • 비즈니스 우선순위 설정 및 핵심 의사결정을 지원하는 명확한 데이터 기반 인사이트 도출 • A/B 테스트 등 실험 결과 및 성장 프로젝트 분석을 통한 비즈니스 임팩트와 고객 지표 평가 • 고객 단위 및 퍼널(Funnel) 단위 분석을 통한 서비스 최적화 기회 발굴 • Incrementality, Uplift, Attribution, Baseline Effect, iROAS 등 핵심 지표를 활용한 분석적 엄밀성 기반의 사업 성과 해석 • 성장 이니셔티브 및 마케팅 효과 측정을 고도화하기 위한 분석 방법론 및 측정 체계 수립 지원 • 전사 비즈니스 조직에서 활용 가능한 진단 프레임워크, 분석 자산 및 Best Practice 구축 • 비즈니스 컨텍스트, 과거 러닝(Learnings), 분석 방법론을 자산화하는 AI 기반 Knowledge Repository 구축 및 운영 • 고객, 마케팅, 셀러, 카탈로그, 검색, 재고, 운영 데이터 전반의 인사이트를 연결하여 조직 학습 가속화 • 자동화, 문서화, Self-service 분석 환경 구축을 통한 전사 분석 생산성 향상\n자격요건 • 통계학, 경제학, 공학, 경영학, 수학, 컴퓨터공학 또는 유관 정량 분석 분야 학사 학위 이상 • BI(Business Intelligence), 데이터 분석, 전략 기획, 컨설팅, Product Analytics, Growth Analytics 또는 유관 분야 경력 4년 이상 • 대규모 데이터셋을 독립적으로 다루고 추출할 수 있는 우수한 SQL 활용 역량 • 모호한 비즈니스 문제를 구조화하여 실행 가능한 인사이트로 전환할 수 있는 뛰어난 문제 해결 능력 • A/B 테스트, Incrementality, Uplift, Attribution, ROI 등 실험 설계 및 성과 측정 방법론에 대한 깊은 이해도 • 분석 결과를 명확한 비즈니스 스토리텔링과 실행 가능한 제언으로 전달할 수 있는 커뮤니케이션 역량",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
+      "score": 4,
+      "matched_keywords": [
+        "SQL",
+        "Experiment",
+        "Funnel",
+        "Automation"
+      ],
       "matched_roles": [
         "Data Analyst"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.323546",
-    "last_seen_at": "2026-11-14T02:05:19.323549+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2227,16 +3997,23 @@
     "link": "https://www.wanted.co.kr/wd/386902",
     "deadline": "",
     "hidden_keyword": "데이터 분석",
-    "description": "",
+    "description": "| 여기어때 ​'Data ​Analyst ​[User Behavior]'를 ​소개해요 • 온라인 통제실험(A/B 테스트), 사후 ​분석을 ​통해 전사 ​또는 필요 부서에 ​데이터 기반 ​인사이트를 ​공급합니다. • 지표 설계 ​및 ​대시보드를 ​개발하여 전사적인 데이터 ​활용을 ​촉진하고, 데이터 리터러시를 ​제고합니다. 데이터 ​분석을 ​위한 로그 데이터를 ​설계를 담당하여 ​데이터 ​활용 효율을 ​개선합니다. • AI 기술을 ​활용하여 ​데이터 설계 및 ​분석 업무를 ​최적화함으로써, 데이터 업무 생산성을 제고합니다. 주요업무 • 데이터 탐색 및 A/B 테스트, 사후 분석 등을 통해 Data-Driven 의사 결정을 위한 지표를 개발하고, 데이터 시각화 도구 등을 활용하여 부서별 분석 요구 지원 • 데이터에 대한 수학적 이해와 통계적 지식을 기반으로 전사 비즈니스 현황을 분석하고 실행 가능한 인사이트 도출 • 통계적 접근 방식, 알고리즘, AI 도구들을 활용하여 서비스 개선 과제 수행 자격요건 • 고객 행동 데이터 분석 등 5년 이상 데이터 분석 관련 경험이 있는 분 • 퍼널 분석, 리텐션 분석, 코호트 분석 등 프로덕트 데이터 분석 방법에 대한 이해도가 높은 분 • 서비스 핵심 지표를 설정하고, 지표 성장을 위한 다양한 가설을 수립하고 실험하며 서비스를 직접 개선한 경험이 있는 분 • SQL/Python을 활용해 데이터 수집, 전처리, 마트 구축, 탐색/모델링, 결과 보고서 작성 등 일련의 데이터 분석 과정을 진행한 경험이 있는 분 • 유연성, 추진력, 신뢰성과 같은 긍정적인 태도와 함께 비즈니스에 대한 이해가 높은 분 상세 정보 더 보기\n주요업무 • 데이터 탐색 및 A/B 테스트, 사후 분석 등을 통해 Data-Driven 의사 결정을 위한 지표를 개발하고, 데이터 시각화 도구 등을 활용하여 부서별 분석 요구 지원 • 데이터에 대한 수학적 이해와 통계적 지식을 기반으로 전사 비즈니스 현황을 분석하고 실행 가능한 인사이트 도출 • 통계적 접근 방식, 알고리즘, AI 도구들을 활용하여 서비스 개선 과제 수행\n자격요건 • 고객 행동 데이터 분석 등 5년 이상 데이터 분석 관련 경험이 있는 분 • 퍼널 분석, 리텐션 분석, 코호트 분석 등 프로덕트 데이터 분석 방법에 대한 이해도가 높은 분 • 서비스 핵심 지표를 설정하고, 지표 성장을 위한 다양한 가설을 수립하고 실험하며 서비스를 직접 개선한 경험이 있는 분 • SQL/Python을 활용해 데이터 수집, 전처리, 마트 구축, 탐색/모델링, 결과 보고서 작성 등 일련의 데이터 분석 과정을 진행한 경험이 있는 분 • 유연성, 추진력, 신뢰성과 같은 긍정적인 태도와 함께 비즈니스에 대한 이해가 높은 분",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
-      "matched_roles": [
-        "Data Analyst"
+      "score": 5,
+      "matched_keywords": [
+        "SQL",
+        "Python",
+        "Experiment",
+        "Funnel",
+        "Customer Data"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "matched_roles": [
+        "Data Analyst",
+        "Product Data Analyst"
+      ],
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.323082",
@@ -2251,16 +4028,19 @@
     "link": "https://www.wanted.co.kr/wd/389660",
     "deadline": "",
     "hidden_keyword": "데이터 분석",
-    "description": "",
+    "description": "[AI로 금융의 패러다임을 바꾸는 Vertical AI 기업, 어니스트 AI] ﻿어니스트AI는 금융 산업에 특화된 AI 기술을 연구하고 이를 실제 서비스로 구현하는 Vertical AI 기업입니다. 금융 도메인 특화 Predictive AI, Generative AI, MLOps 등 핵심 기술을 연구하는 인공지능연구소를 중심으로, 기술과 금융이 만나는 지점에서 혁신적인 제품을 만들고 있습니다. 현재 30군데 이상의 국내 유수 금융기관에 AI 신용평가 솔루션과 AI 대출위탁 플랫폼을 제공하면서 금융산업 AI 전환의 핵심 파트너로 자리매김하고 있습니다. ﻿어니스트AI는 단순히 모델을 만드는 데 그치지 않습니다. 불확실성을 분해하고 제어하는 과학, 그리고 고객이 직접 체감하는 놀라운 제품이 만나는 지점을 설계하며, 금융의 본질적인 문제를 AI로 풀어가고 있습니다. [채용 포지션] Data Analyst 금융산업의 기술 레이어를 만드는 여정에서 분석가의 역할을 해주실 동료를 찾고 있습니다. 어니스트AI의 Data Analyst는 단순히 지표를 집계하는 것을 넘어, 데이터 속에 숨겨진 맥락을 읽어내고 고객사의 데이터를 다각도로 분석하여 인사이트를 도출하여 데이터로 효과를 검증하는 핵심 역할을 담당합니다. 주요업무 • 솔루션 도입 데이터 검증: 금융 데이터(여신, 신용평가 등) 분석을 통해 어니스트AI 솔루션 도입 전후의 성과 검증 및 데이터 마트 설계 • AI Transformation : 기존 금융사의 업무를 분석하고 어니스트AI 솔루션에 이관 및 개선사항 발굴 • 데이터 기반 의사결정 지원: 서비스의 주요 지표(KPI)를 정의하고, 데이터 기반 의사결정을 돕기 위한 데이터 추출, 정제, 통계 분석 및 인사이트 도출 • 데이터 추출 및 분석 로직 설계: 비즈니스 요구사항에 맞는 데이터를 SQL 등을 활용해 추출하고, 분석에 적합한 데이터 마트를 설계 • 인사이트 커뮤니케이션: 분석된 결과를 비즈니스 언어로 재해석하여 고객사 유관부서에 전달하고 의사결정을 유도 자격요건 • 프로그래밍 기술: Python을 활용하여 데이터 전처리 및 심화 분석이 가능하신 분 • SQL 활용 능력: 복잡한 쿼리를 작성하여 대용량 데이터를 자유롭게 추출하고 가공하실 수 있는 분 • 데이터 리포팅 역량: 엑셀 및 보고서 툴을 활용하여 고객사가 요구하는 보고서 자료를 정해진 포맷으로 작성할 수 있는 분 • 커뮤니케이션 역량: 기술적인 내용을 비전문가도 이해할 수 있도록 쉽고 명확하게 설명할 수 있는 분 상세 정보 더 보기\n주요업무 • 솔루션 도입 데이터 검증: 금융 데이터(여신, 신용평가 등) 분석을 통해 어니스트AI 솔루션 도입 전후의 성과 검증 및 데이터 마트 설계 • AI Transformation : 기존 금융사의 업무를 분석하고 어니스트AI 솔루션에 이관 및 개선사항 발굴 • 데이터 기반 의사결정 지원: 서비스의 주요 지표(KPI)를 정의하고, 데이터 기반 의사결정을 돕기 위한 데이터 추출, 정제, 통계 분석 및 인사이트 도출 • 데이터 추출 및 분석 로직 설계: 비즈니스 요구사항에 맞는 데이터를 SQL 등을 활용해 추출하고, 분석에 적합한 데이터 마트를 설계 • 인사이트 커뮤니케이션: 분석된 결과를 비즈니스 언어로 재해석하여 고객사 유관부서에 전달하고 의사결정을 유도\n자격요건 • 프로그래밍 기술: Python을 활용하여 데이터 전처리 및 심화 분석이 가능하신 분 • SQL 활용 능력: 복잡한 쿼리를 작성하여 대용량 데이터를 자유롭게 추출하고 가공하실 수 있는 분 • 데이터 리포팅 역량: 엑셀 및 보고서 툴을 활용하여 고객사가 요구하는 보고서 자료를 정해진 포맷으로 작성할 수 있는 분 • 커뮤니케이션 역량: 기술적인 내용을 비전문가도 이해할 수 있도록 쉽고 명확하게 설명할 수 있는 분",
     "data_relevance": {
       "matched": true,
-      "score": 0,
-      "matched_keywords": [],
+      "score": 2,
+      "matched_keywords": [
+        "SQL",
+        "Python"
+      ],
       "matched_roles": [
         "Data Analyst"
       ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
+      "jd_status": "available",
+      "reason": "관련 직무/JD 확인"
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.322706",
@@ -2325,7 +4105,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.321946",
-    "last_seen_at": "2026-11-14T02:05:19.321947+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2358,7 +4138,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.321559",
-    "last_seen_at": "2026-11-14T02:05:19.321560+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2387,7 +4167,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.321146",
-    "last_seen_at": "2026-11-14T02:05:19.321149+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2415,7 +4195,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.320698",
-    "last_seen_at": "2026-11-14T02:05:19.320699+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2449,7 +4229,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.320288",
-    "last_seen_at": "2026-11-14T02:05:19.320293+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2479,7 +4259,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.319895",
-    "last_seen_at": "2026-11-14T02:05:19.319897+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2512,7 +4292,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.319471",
-    "last_seen_at": "2026-11-14T02:05:19.319475+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2542,7 +4322,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.319005",
-    "last_seen_at": "2026-11-14T02:05:19.319008+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2577,7 +4357,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.318619",
-    "last_seen_at": "2026-11-14T02:05:19.318621+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2606,7 +4386,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.318276",
-    "last_seen_at": "2026-11-14T02:05:19.318280+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2636,7 +4416,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.317374",
-    "last_seen_at": "2026-11-14T02:05:19.317378+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2667,7 +4447,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.316903",
-    "last_seen_at": "2026-11-14T02:05:19.316905+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2696,7 +4476,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.316563",
-    "last_seen_at": "2026-11-14T02:05:19.316565+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -2727,7 +4507,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.316230",
-    "last_seen_at": "2026-11-14T02:05:19.316234+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -4306,7 +6086,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.314327",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -4330,7 +6110,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.314308",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -4525,7 +6305,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.163689",
-    "last_seen_at": "2026-11-14T02:05:19.163706+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -6349,7 +8129,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-13T02:24:17.099364",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -6362,18 +8142,6 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-13T02:24:17.057793",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55546737",
-    "site": "Saramin",
-    "title": "2026년 신한은행 정보보호 수시채용",
-    "company": "(주)신한은행",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55546737&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=6d4557ed-2e59-469d-94db-fa9e22f13692",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-11-13T02:24:16.991398",
     "is_new": false
   },
   {
@@ -8533,7 +10301,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-12T02:43:35.094068",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -10633,7 +12401,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-11T01:41:43.674246",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -10658,18 +12426,6 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-11T01:41:43.663257",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55530952",
-    "site": "Saramin",
-    "title": "호텔&레저부문 서울호텔 4급 신입사원 채용",
-    "company": "(주)호텔신라",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530952&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=727a0269-df26-4a2f-b967-cdbb07c55b0f",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-11-11T01:41:43.662855",
     "is_new": false
   },
   {
@@ -10830,33 +12586,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-11T01:41:43.652352",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55530961",
-    "site": "Saramin",
-    "title": "[NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석)",
-    "company": "네이버제트(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530961&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=408eb619-1c6b-42f1-83ea-8696d050773f",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "Data Analyst",
-    "description": "채용공고 상세 [NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석) 모집분야 [NAVER Z] 12월 전분야 체험형 인턴(제페토 데이터 분석) 📋 주요업무 7. 제페토 데이터 분석 체험형 인턴 - 대시보드 구축 지원\r\n- 제페토 관련 데이터 추출 보조\r\n- 미니 데이터 분석 프로젝트 수행 및 데이터 인사이트 도출 지원 📋 자격요건 - 계약 기간(약 3개월) 동안 full-time 근무 가능하신 분 [월-금, 10-19시]\r\n- 전형 절차 별 일정에 참여 가능하신 분 [입과 예정일: 2026년 12월 14일]\r\n- 논리적·분석적 사고를 바탕으로 데이터를 이해하고, 합리적인 근거에 기반한 소통이 가능하신 분\r\n- 데이터를 분석하여 인사이트를 도출한 경험이 있거나, SQL 등 데이터 분석 도구 활용 역량을 갖추신 분\r\n- 모바일, XR, AI 서비스와 디지털 콘텐츠 산업 전반에 높은 관심과 이해도를 지니신 분\r\n- 데이터를 중심으로 서비스를 분석하고 개선점을 도출할 수 있는 능력을 보유하신 분 🏠 근무조건 • 고용형태 : 인턴직 (약 3개월) • 급여 : 면접 후 결정 • 근무지 : 경기도 성남시 분당구 정자동 🚀 채용절차 접수기간 : 2026년 11월 09일 ~ 2026년 11월 17일 23시 59분 제출서류 : 이력서, 자기소개서 접수방법 : 홈페이지 지원 전형절차 : 서류 전형 → 인터뷰 → 입과\r\n※ 전형절차는 상황에 따라 변동될 수 있으며, 전형별 결과에 따라 절차(ex. 사전 과제 등)가 추가될 수 있습니다. 🛎️ 유의사항 • 사람인에서 수집한 공고입니다. 정보 수정이 필요할 경우 고객센터 > 이메일 문의 로 문의해 주세요. • 정확한 상세요강은 반드시 채용 홈페이지에서 직접 확인 해 주시기 바랍니다.",
-    "data_relevance": {
-      "matched": true,
-      "score": 1,
-      "matched_keywords": [
-        "SQL"
-      ],
-      "matched_roles": [
-        "Data Analyst"
-      ],
-      "jd_status": "available",
-      "reason": "관련 직무/JD 확인"
-    },
-    "category": "Data",
-    "scraped_at": "2026-11-11T01:41:43.651058",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -13004,7 +14734,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-10T03:59:05.899139",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -13089,18 +14819,6 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-10T03:59:05.689875",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55520862",
-    "site": "Saramin",
-    "title": "[DN솔루션즈] 운영지원 업무 신입사원 채용 (서울)",
-    "company": "(주)디엔솔루션즈",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520862&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=bc98d618-1c2b-4c37-81b1-4bedb72cde7d",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-11-10T03:59:05.689433",
     "is_new": false
   },
   {
@@ -14120,7 +15838,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-09T01:25:07.720568",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -16592,7 +18310,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-07T01:33:12.650111",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -16616,7 +18334,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-07T01:33:12.650083",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -19053,18 +20771,6 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-06T02:01:31.034602",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55491810",
-    "site": "Saramin",
-    "title": "2026년 신입사원 채용",
-    "company": "(주)케이티씨에스",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55491810&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=e5158176-41e1-43d6-b110-a3ba1492d612",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "결산",
-    "category": "Accounting",
-    "scraped_at": "2026-11-06T02:01:31.034220",
     "is_new": false
   },
   {
@@ -22606,7 +24312,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-05T01:59:47.166032",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23029,7 +24735,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-04T01:53:02.837182",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23191,7 +24897,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-03T03:15:43.874937",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23204,18 +24910,6 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-03T03:15:43.864766",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55452503",
-    "site": "Saramin",
-    "title": "기술보증기금 무기계약직(고졸자) 채용공고",
-    "company": "기술보증기금",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55452503&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=192a6115-6fe3-47e2-bd53-22ae98a52614",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "채용",
-    "category": "HR",
-    "scraped_at": "2026-11-03T03:15:43.864444",
     "is_new": false
   },
   {
@@ -23395,7 +25089,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-03T03:15:43.857354",
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23503,7 +25197,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236801",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23528,7 +25222,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236793",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23553,7 +25247,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236788",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23577,7 +25271,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236782",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23677,7 +25371,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236742",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23929,7 +25623,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.012265",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -23954,7 +25648,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.000707",
-    "last_seen_at": "2026-11-15T01:30:07.249606+00:00",
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00",
     "is_new": false
   },
   {
@@ -25765,7 +27459,7 @@
     "category": "Data",
     "scraped_at": "2026-10-22T00:30:43.614086",
     "is_new": false,
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00"
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00"
   },
   {
     "id": "linkareer_348189",
@@ -27515,7 +29209,7 @@
     "category": "Data",
     "scraped_at": "2026-10-14T00:59:53.062220",
     "is_new": false,
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00"
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00"
   },
   {
     "id": "jk_50135552",
@@ -27674,18 +29368,6 @@
     "is_new": false
   },
   {
-    "id": "saramin_55264201",
-    "site": "Saramin",
-    "title": "[SCG솔루션즈] IT 재무관리 / 자금 신입",
-    "company": "에스씨지솔루션즈(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55264201&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=2ee23b35-d1e8-4af7-b169-714c20b4fcd0",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "재무",
-    "category": "Accounting",
-    "scraped_at": "2026-10-13T02:59:21.699313",
-    "is_new": false
-  },
-  {
     "id": "saramin_55264025",
     "site": "Saramin",
     "title": "경영기획실 재무회계 신입사원 모집",
@@ -27724,7 +29406,7 @@
     "category": "Data",
     "scraped_at": "2026-10-13T02:59:21.697957",
     "is_new": false,
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00"
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00"
   },
   {
     "id": "jk_50086162",
@@ -28300,7 +29982,7 @@
     "category": "Data",
     "scraped_at": "2026-10-07T01:21:34.246223",
     "is_new": false,
-    "last_seen_at": "2026-11-14T02:03:54.136614+00:00"
+    "last_seen_at": "2026-11-16T01:39:53.771327+00:00"
   },
   {
     "id": "jk_49970828",
@@ -29810,18 +31492,6 @@
     "is_new": false
   },
   {
-    "id": "saramin_55072963",
-    "site": "Saramin",
-    "title": "[신입] 인사 팀원 모집",
-    "company": "(주)스튜디오프리윌루전",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072963&location=ts&searchword=%EC%9D%B8%EC%82%AC&searchType=search&paid_fl=n&search_uuid=caa42e37-5901-4a88-8224-05dbca48b1bf",
-    "deadline": "~ 11/17(화)",
-    "hidden_keyword": "인사",
-    "category": "HR",
-    "scraped_at": "2026-09-19T00:00:14.981412",
-    "is_new": false
-  },
-  {
     "id": "saramin_55073994",
     "site": "Saramin",
     "title": "2026년 하반기 두산건설 신입사원 공개 채용(재무)",
@@ -30334,29 +32004,6 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-09-17T00:12:16.872180",
-    "is_new": false
-  },
-  {
-    "id": "jk_49995996",
-    "site": "JobKorea",
-    "title": "[아시아경제] AX전략부 AX전략 및 데이터분석 담당자 채용",
-    "company": "㈜아시아경제",
-    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49995996?Oem_Code=C1&logpath=1&stext=%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&listno=14&sc=630",
-    "deadline": "",
-    "hidden_keyword": "비즈니스 데이터 분석",
-    "description": "",
-    "data_relevance": {
-      "matched": true,
-      "score": 0,
-      "matched_keywords": [],
-      "matched_roles": [
-        "Data Analyst"
-      ],
-      "jd_status": "unavailable",
-      "reason": "직무명 일치 · JD 확인 필요"
-    },
-    "category": "Data",
-    "scraped_at": "2026-09-17T00:12:16.855461",
     "is_new": false
   },
   {
