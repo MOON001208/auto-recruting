@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-20T02:50:40.395554+00:00",
+  "checked_at": "2026-11-21T03:00:11.623365+00:00",
   "sites": {
     "Saramin": {
       "status": "ok",
-      "collected": 431,
+      "collected": 433,
       "attempts": 28,
       "failures": 0,
       "reason": ""
@@ -17,14 +17,14 @@
     },
     "Linkareer": {
       "status": "ok",
-      "collected": 17,
+      "collected": 18,
       "attempts": 29,
       "failures": 0,
       "reason": ""
     },
     "Incruit": {
       "status": "ok",
-      "collected": 660,
+      "collected": 666,
       "attempts": 28,
       "failures": 0,
       "reason": ""
