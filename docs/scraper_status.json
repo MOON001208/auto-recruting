@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T01:53:26.595757+00:00",
+  "checked_at": "2026-11-23T02:14:08.757947+00:00",
   "sites": {
     "Saramin": {
       "status": "ok",
@@ -10,7 +10,7 @@
     },
     "JobKorea": {
       "status": "ok",
-      "collected": 244,
+      "collected": 233,
       "attempts": 28,
       "failures": 0,
       "reason": ""
@@ -24,17 +24,17 @@
     },
     "Incruit": {
       "status": "ok",
-      "collected": 654,
+      "collected": 640,
       "attempts": 28,
       "failures": 0,
       "reason": ""
     },
     "Wanted": {
-      "status": "failed",
-      "collected": 0,
-      "attempts": 3,
-      "failures": 3,
-      "reason": "HTTP 403"
+      "status": "ok",
+      "collected": 136,
+      "attempts": 28,
+      "failures": 0,
+      "reason": ""
     }
   }
 }
