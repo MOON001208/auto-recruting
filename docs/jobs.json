@@ -1,5 +1,101 @@
 [
   {
+    "id": "saramin_55622516",
+    "site": "Saramin",
+    "title": "HR팀 신입직원 채용",
+    "company": "법무법인(유)세종",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622516&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=8198b4d4-4e02-48b5-88eb-c5c10777feca",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-20T02:52:42.709808",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55622490",
+    "site": "Saramin",
+    "title": "세무 업무 담당자 (계약직)",
+    "company": "(주)카카오뱅크",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622490&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=5e7ee65f-e9c2-418b-ad0b-ecd86dcc87f6",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-20T02:52:42.707473",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55544496",
+    "site": "Saramin",
+    "title": "2027년 동계 각 부문 인턴 채용공고",
+    "company": "(주)에어퍼스트",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544496&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=da81af72-38d1-4090-988f-0bfbc4ca12e3",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "HRD",
+    "category": "HR",
+    "scraped_at": "2026-11-13T02:24:16.989965",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55407028",
+    "site": "Saramin",
+    "title": "경영지원부 총무,행정 신입 채용",
+    "company": "에이치이티엔(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55407028&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8ffd48b8-bac0-4ecc-9689-c0d75c85909e",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-10-29T01:36:14.022531",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55403080",
+    "site": "Saramin",
+    "title": "남화토건(주) 총무부 직원 채용 공고",
+    "company": "남화토건(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55403080&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=f5a51423-2ff5-48e9-911c-ff31d59f452f",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-10-28T01:03:49.259265",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55402676",
+    "site": "Saramin",
+    "title": "인사총무/회계 사원모집",
+    "company": "(주)해피엘앤비",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402676&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-10-28T01:03:49.253369",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55400693",
+    "site": "Saramin",
+    "title": "회계 경리사무원 모집",
+    "company": "에이엠에스(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400693&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-10-28T01:03:49.252219",
+    "is_new": false
+  },
+  {
+    "id": "saramin_55400896",
+    "site": "Saramin",
+    "title": "재무회계 정규직 사원 모집",
+    "company": "㈜국영지앤엠",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400896&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
+    "deadline": "~ 11/26(목)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-10-28T01:03:49.250876",
+    "is_new": false
+  },
+  {
     "id": "saramin_55555851",
     "site": "Saramin",
     "title": "(주)청호건설 총무직 모집",
@@ -72,52 +168,1984 @@
     "is_new": false
   },
   {
-    "id": "saramin_55531553",
-    "site": "Saramin",
-    "title": "휴텍 사업팀 신입사원 채용",
-    "company": "(주)휴텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55531553&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=f3ada318-c57f-462f-82b0-520bc36b0039",
-    "deadline": "11/24 마감",
+    "id": "incruit_2611250000813",
+    "site": "Incruit",
+    "title": "[중견사]Product Marketing(영어 능통자)/대리-차장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000813&src=gsw*etc",
+    "deadline": "",
     "hidden_keyword": "채용",
     "category": "HR",
-    "scraped_at": "2026-11-23T02:15:45.244013",
-    "is_new": false
+    "scraped_at": "2026-11-25T04:48:36.869602",
+    "is_new": true
   },
   {
-    "id": "saramin_55619162",
-    "site": "Saramin",
-    "title": "[HL디앤아이한라] 2026 하반기 HL그룹 신입사원 채용(경영지원)",
-    "company": "HL 디앤아이한라 주식회사",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55619162&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=8424b017-d44c-4248-8310-01d0b79a0885",
-    "deadline": "~ 11/24(화)",
+    "id": "incruit_2611250000811",
+    "site": "Incruit",
+    "title": "유니폼 영업관리 경력직 채용 (3-5년)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000811&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869587",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000817",
+    "site": "Incruit",
+    "title": "행사, 방송, 공연 무대 / 조명 직원모집(초보가능)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000817&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869581",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000841",
+    "site": "Incruit",
+    "title": "[소비재 유통기업]럭셔리 화장품 브랜드 마케팅",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000841&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869576",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000839",
+    "site": "Incruit",
+    "title": "국내 1위 반도체(OSAT)회사  해외 반도체  영업담당 과장님",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000839&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869571",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000845",
+    "site": "Incruit",
+    "title": "DB손해보험 신사옥  특별 채용/ 초기 정착지원 + 업계최고 대우",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000845&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869564",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000814",
+    "site": "Incruit",
+    "title": "[신입 400만 및 주급] 프로젝트엔 국제 NGO 홍보 캠페이너(부산)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000814&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869558",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000848",
+    "site": "Incruit",
+    "title": "[중견사]자동화 장비 공정개발/과장-부장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000848&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869553",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000853",
+    "site": "Incruit",
+    "title": "[상장 의료기기 전문 기업] 인공관절 개발팀 연구원(과,차장, 부장)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000853&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869548",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000856",
+    "site": "Incruit",
+    "title": "[중견 건축 시공 그룹] 건축사업본부 임원",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000856&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869542",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000851",
+    "site": "Incruit",
+    "title": "[신입 400만 및 주급] 프로젝트엔 국제 NGO 홍보 캠페이너(대구)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000851&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869537",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000861",
+    "site": "Incruit",
+    "title": "[신입 400만 및 주급] 프로젝트엔 국제 NGO 홍보 캠페이너(창원)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000861&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869531",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000862",
+    "site": "Incruit",
+    "title": "[중견사]자동화장비 조립제작/대리-차장급/2명",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000862&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869526",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000843",
+    "site": "Incruit",
+    "title": "[샵한우에프앤비] 한우이츠 브랜드 리드 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000843&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869520",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000867",
+    "site": "Incruit",
+    "title": "SCM팀장(차장-부장)-국내 상위 제약사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000867&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869515",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000868",
+    "site": "Incruit",
+    "title": "외식업 SCM 담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000868&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869509",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000872",
+    "site": "Incruit",
+    "title": "[프라임매니지먼트] 세일즈코디네이터 신입 및 경력직 직원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000872&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869504",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000871",
+    "site": "Incruit",
+    "title": "엔터테인먼트 PM(프로젝트매니저) 부문",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000871&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869498",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000858",
+    "site": "Incruit",
+    "title": "비대면 진료 키오스크 영업 프리랜서 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000858&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869493",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000860",
+    "site": "Incruit",
+    "title": "금속/부품 단순 가공 생산직 채용 (CNC 버튼맨 및 후가공 전반)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000860&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869488",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000875",
+    "site": "Incruit",
+    "title": "대형제약회사 DTx(디지털치료기기) 마케팅 팀장 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000875&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869482",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000881",
+    "site": "Incruit",
+    "title": "[경력] 웅진 그룹웨어 시스템 운영 및 개발",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000881&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869476",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000877",
+    "site": "Incruit",
+    "title": "식품대기업 글로벌전략 담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000877&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869470",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000880",
+    "site": "Incruit",
+    "title": "중견 제약사 약국 마케팅 경력 급구",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000880&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869465",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000919",
+    "site": "Incruit",
+    "title": "[경주시/자동차 부품제조]구매 담당자/대리-과장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000919&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869460",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000921",
+    "site": "Incruit",
+    "title": "중견 제약사 SCM 팀장 초빙",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000921&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869455",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000895",
+    "site": "Incruit",
+    "title": "[보아스이비인후과약수/ENT] 야간 당직 간호사 선생님 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000895&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869449",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000924",
+    "site": "Incruit",
+    "title": "[중견사]산업용 장비 및 열성형 장비의 기계설계/대리-차장급/2명",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000924&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869443",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000928",
+    "site": "Incruit",
+    "title": "효성중공업(주) 창원공장 기능직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000928&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869436",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000927",
+    "site": "Incruit",
+    "title": "[간호본부] 간호간병병동 간호조무사 채용공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000927&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869430",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000934",
+    "site": "Incruit",
+    "title": "[신입/경력] 의약품 포장업무 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000934&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869424",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000932",
+    "site": "Incruit",
+    "title": "코바코파트너스(한국방송광고진흥공사 자회사) 한국방송회관(목동) 보안 직원 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000932&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869419",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000935",
+    "site": "Incruit",
+    "title": "[정규직] 2026년 경력사원 채용(하이테크 분야)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000935&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869413",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000936",
+    "site": "Incruit",
+    "title": "[정규직] 2026년 경력사원 채용(설비, 전기, 구조, 제어)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000936&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869407",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000938",
+    "site": "Incruit",
+    "title": "성장에 목마른 상담사 채용(연애심리상담)(학자금/대출이자보조)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000938&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869401",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000939",
+    "site": "Incruit",
+    "title": "(주)에즈금융서비스 그랜드지점 채용/교육비150지급/채팅상담",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000939&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869394",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000943",
+    "site": "Incruit",
+    "title": "세형로직스앤스테이지  미디어월 운영 오퍼레이터 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000943&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869388",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250001569",
+    "site": "Incruit",
+    "title": "[MG신용정보] 새마을금고 보험 아웃바운드 상담원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250001569&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869382",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250001570",
+    "site": "Incruit",
+    "title": "[오산장애인종합복지관] 직원공개채용 공고(제2026-10호)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250001570&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869377",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250001586",
+    "site": "Incruit",
+    "title": "[NICE디앤비] 기술평가 품질관리",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250001586&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869371",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002133",
+    "site": "Incruit",
+    "title": "Technical Product Manager",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002133&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869366",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002306",
+    "site": "Incruit",
+    "title": "F&F 법무팀 IP/상표 관리 및 법무 지원 담당 계약직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002306&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869361",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003441",
+    "site": "Incruit",
+    "title": "건설회사 총무(법무)직원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003441&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869354",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003572",
+    "site": "Incruit",
+    "title": "[정규직/경력] 글로벌 인허가 담당자",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003572&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869349",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004317",
+    "site": "Incruit",
+    "title": "총무 지원 계약직 채용(출산/육아휴직 대체)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004317&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869344",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004327",
+    "site": "Incruit",
+    "title": "(제약그룹  지주회사) 그룹 전략팀  IP관리",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004327&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869338",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000018",
+    "site": "Incruit",
+    "title": "산부인과 계약직 사무직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000018&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869332",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000029",
+    "site": "Incruit",
+    "title": "26년 11월 직원(계약업무지원직) 채용공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000029&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869327",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000131",
+    "site": "Incruit",
+    "title": "기업법무·계약, 송무·소송·회생 외 경력  채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000131&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869322",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000191",
+    "site": "Incruit",
+    "title": "[NH농협손해보험] NH농협손해보험 일반계약직 채용 공고(총무팀)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000191&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869316",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000190",
+    "site": "Incruit",
+    "title": "[NH농협손해보험] NH농협손해보험 일반계약직 채용 공고(계열영업팀)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000190&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869310",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000803",
+    "site": "Incruit",
+    "title": "QHSE & Office Manager-글로벌식약품화학제조장비사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000803&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869305",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000864",
+    "site": "Incruit",
+    "title": "[계약직] 행정지원 (장애인 제한경쟁)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000864&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869298",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002156",
+    "site": "Incruit",
+    "title": "HR Business Partner (HRBP)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002156&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869292",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002153",
+    "site": "Incruit",
+    "title": "Senior HR Generalist",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002153&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869286",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002181",
+    "site": "Incruit",
+    "title": "[CJ푸드빌] 인사담당 사무보조 Staff 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002181&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869280",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002317",
+    "site": "Incruit",
+    "title": "포스코퓨처엠 인사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002317&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869274",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002333",
+    "site": "Incruit",
+    "title": "[헤딩써치] 신입 / 경력 헤드헌터 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002333&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869269",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003413",
+    "site": "Incruit",
+    "title": "대림대학교 언어치료센터 직원(계약제) 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003413&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869264",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003450",
+    "site": "Incruit",
+    "title": "[단기계약직] 인사·근태 운영지원 담당자 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003450&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869258",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003447",
+    "site": "Incruit",
+    "title": "한국골프과학기술대학교 교학처 정규직 직원 공개 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003447&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869253",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003467",
+    "site": "Incruit",
+    "title": "[경력] HR - HR 채용담당 경력사원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003467&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869248",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003524",
+    "site": "Incruit",
+    "title": "대림대학교 조교(계약제) 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003524&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869241",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003528",
+    "site": "Incruit",
+    "title": "[GS리테일] 인사총무본부 전사지원인사팀 HRBP 경력사원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003528&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869236",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003560",
+    "site": "Incruit",
+    "title": "[GS리테일] 인사총무본부 채용파트 인재확보 전략 담당 경력사원 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003560&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869230",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003680",
+    "site": "Incruit",
+    "title": "부동산 컨설턴트 (운영&인사) 모집 합니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003680&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869224",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004331",
+    "site": "Incruit",
+    "title": "종합건설회사에서 골프장 총무&서무 경력자를 모십니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004331&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869218",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004377",
+    "site": "Incruit",
+    "title": "중고등관 부원장 채용 (월-금, 수업X, 연차 휴가 제공)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004377&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869213",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000009",
+    "site": "Incruit",
+    "title": "상장기업 인사 10년이상",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000009&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869207",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000014",
+    "site": "Incruit",
+    "title": "대기업  ER  3년 이상",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000014&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869202",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000023",
+    "site": "Incruit",
+    "title": "[양평점]FY27 설날 SEASONAL사원 채용공고 1차 (보건증 필수)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000023&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869197",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000024",
+    "site": "Incruit",
+    "title": "[김해점] FY27 설날 SEASONAL 사원 채용공고 1차 (보건증필수)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000024&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869189",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000155",
+    "site": "Incruit",
+    "title": "38. HRBP [글로벌 하이엔드 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000155&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869183",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000258",
+    "site": "Incruit",
+    "title": "전남신안군장애인편의증진기술지원센터  기술직원 채용 공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000258&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869177",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000775",
+    "site": "Incruit",
+    "title": "[토스씨엑스] 채용 어시스턴트(Recruiting Assistant) 모집 중",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000775&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869171",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000859",
+    "site": "Incruit",
+    "title": "서치펌 프로매치코리아 경력 신입 헤드헌터 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000859&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869165",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000869",
+    "site": "Incruit",
+    "title": "관리팀(인사,총무) 팀장급-최우량 복합리조트 회사(호텔,리조트,카지노등)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000869&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869159",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000876",
+    "site": "Incruit",
+    "title": "외국계 유명 F&B 프랜차이즈 HRBP (HR Head)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000876&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869153",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000850",
+    "site": "Incruit",
+    "title": "글로벌 HR 팀장 경력직",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000850&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869147",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000931",
+    "site": "Incruit",
+    "title": "(서울,대전,미국,중국) HR헤드헌터초빙-각분야 경력자가능",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000931&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "인사",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.869141",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004309",
+    "site": "Incruit",
+    "title": "[다국적 가전회사] Sales Order Processing (계약직)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004309&src=gsw*etc",
+    "deadline": "",
     "hidden_keyword": "결산",
     "category": "Accounting",
-    "scraped_at": "2026-11-20T02:52:42.708362",
-    "is_new": false
+    "scraped_at": "2026-11-25T04:48:36.869135",
+    "is_new": true
   },
   {
-    "id": "saramin_55535152",
-    "site": "Saramin",
-    "title": "[외국계기업] 조광요턴(주) 각 부문 신입사원 채용",
-    "company": "조광요턴(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535152&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=f4933a2e-a77f-4997-a78e-dd20b22d1a60",
-    "deadline": "~ 11/24(화)",
-    "hidden_keyword": "결산",
+    "id": "incruit_2611250000156",
+    "site": "Incruit",
+    "title": "38. HR (payroll, 대리급) [글로벌 탑티어 패션 럭셔리 브랜드]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000156&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "세무",
     "category": "Accounting",
-    "scraped_at": "2026-11-11T01:41:43.659338",
-    "is_new": false
+    "scraped_at": "2026-11-25T04:48:36.869129",
+    "is_new": true
   },
   {
-    "id": "saramin_55390272",
-    "site": "Saramin",
-    "title": "경영지원 및 회계팀 경력직 채용",
-    "company": "(주)비에스텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55390272&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
-    "deadline": "~ 11/24(화)",
+    "id": "incruit_2611240000164",
+    "site": "Incruit",
+    "title": "[캘리스코]  재무팀 정사원 채용 ( 과장급)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240000164&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869122",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240000971",
+    "site": "Incruit",
+    "title": "[중견 그룹사]경영전략 팀장/과장-차장급",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240000971&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869117",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002152",
+    "site": "Incruit",
+    "title": "일본어 전문 통번역 프리랜서",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002152&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869112",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003470",
+    "site": "Incruit",
+    "title": "긴급) M&A/투자전략 담당 (6년 이상) - 업계 최고 대기업 - 최우대",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003470&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869107",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004311",
+    "site": "Incruit",
+    "title": "[다국적 가전회사] Sales Administrator (계약직)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004311&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869100",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000299",
+    "site": "Incruit",
+    "title": "경영기술지도법인 유한회사 한국중소기업지원센터 영남지사 정책자금 프리랜서 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000299&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869093",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000300",
+    "site": "Incruit",
+    "title": "경영기술지도법인 유한회사 한국중소기업지원센터 창원지사 정책자금 프리랜서 모집",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000300&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869087",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250001580",
+    "site": "Incruit",
+    "title": "[NICE디앤비] 기업평가 심사역 (경력 2년 이상)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250001580&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869081",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240001026",
+    "site": "Incruit",
+    "title": "[BGF로지스] 26년 12월 경영지원본부 수시채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240001026&src=gsw*etc",
+    "deadline": "",
     "hidden_keyword": "회계",
     "category": "Accounting",
-    "scraped_at": "2026-10-28T01:03:49.251923",
-    "is_new": false
+    "scraped_at": "2026-11-25T04:48:36.869076",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240001017",
+    "site": "Incruit",
+    "title": "39. 글로벌 럭셔리 패션그룹 Business Finance Manager",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240001017&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869070",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240001986",
+    "site": "Incruit",
+    "title": "충청남도 감염병관리지원단 연구원 채용공고",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240001986&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869063",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002130",
+    "site": "Incruit",
+    "title": "Legal Specialist",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002130&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869058",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002161",
+    "site": "Incruit",
+    "title": "태국 금융 사업 Corporate Strategist",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002161&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869053",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002160",
+    "site": "Incruit",
+    "title": "Global Investment & Corporate Development Manager",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002160&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869047",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002291",
+    "site": "Incruit",
+    "title": "긴급) 제약/바이오 제조원가 담당 - 글로벌 메디컬 에스테틱사 - 최우대",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002291&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869041",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002299",
+    "site": "Incruit",
+    "title": "[손샘영어 초등부] 데스크 모집 (연차 보장)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002299&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869034",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002309",
+    "site": "Incruit",
+    "title": "세무사 사무실의 신입 직원을  채용합니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002309&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869029",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002312",
+    "site": "Incruit",
+    "title": "세무사 사무실의 경력 직원을  채용합니다.  (단, 세무회계 사무실 경력자에 한함)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002312&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869023",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002302",
+    "site": "Incruit",
+    "title": "[에너지기업] Head of G&T Accounting",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002302&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869016",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002382",
+    "site": "Incruit",
+    "title": "경인지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002382&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869010",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002386",
+    "site": "Incruit",
+    "title": "대전/대전유성지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002386&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.869004",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002387",
+    "site": "Incruit",
+    "title": "울산/포항지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002387&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868999",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002385",
+    "site": "Incruit",
+    "title": "안성/평택지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002385&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868994",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002384",
+    "site": "Incruit",
+    "title": "강남지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002384&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868988",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002383",
+    "site": "Incruit",
+    "title": "분당용인/오산동탄/화성지점 차량평가사 신입 채용[케이카 K Car]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002383&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868982",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240002405",
+    "site": "Incruit",
+    "title": "대구문화예술진흥원 2027년 제1차 기간제 근로자 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002405&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868976",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003397",
+    "site": "Incruit",
+    "title": "[경력] 제조원가 담당",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003397&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868969",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003415",
+    "site": "Incruit",
+    "title": "[자금 공시담당]대기업제약바이오(판교)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003415&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868964",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003548",
+    "site": "Incruit",
+    "title": "2026년 11월 롯데바이오로직스 계약직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003548&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868959",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003555",
+    "site": "Incruit",
+    "title": "재무회계 팀장 채용 - K-POP 엔터 스타트업",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003555&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868953",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003558",
+    "site": "Incruit",
+    "title": "Asset-Linked and Foreign Currency Separate Accounts Portfolio Manager",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003558&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868946",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003561",
+    "site": "Incruit",
+    "title": "그룹 지주사 사내 변호사 (10-15년 경력) 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003561&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868938",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240003574",
+    "site": "Incruit",
+    "title": "Fulcrum Valuation 인턴 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240003574&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868932",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004332",
+    "site": "Incruit",
+    "title": "JTBC 경영기획팀 경력채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004332&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868926",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004334",
+    "site": "Incruit",
+    "title": "JTBC 회계팀 회계사 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004334&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868921",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004338",
+    "site": "Incruit",
+    "title": "경력직(장기일반 보상실무) 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004338&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868916",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004341",
+    "site": "Incruit",
+    "title": "종합건설회사에서 골프장 운영관리  경력자를 모십니다.",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004341&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868911",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611240004380",
+    "site": "Incruit",
+    "title": "재무회계팀장",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240004380&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868905",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000008",
+    "site": "Incruit",
+    "title": "경영기획 /과장에서부장",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000008&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868901",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000152",
+    "site": "Incruit",
+    "title": "38. IR 담당자 [국내 유명 상장 기업]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000152&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868896",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000144",
+    "site": "Incruit",
+    "title": "38.CFO (최고재무책임자) [국내 유명 상장기업]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000144&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868890",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000192",
+    "site": "Incruit",
+    "title": "[NH농협손해보험] NH농협손해보험 일반계약직 채용 공고(운용지원팀)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000192&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868884",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000194",
+    "site": "Incruit",
+    "title": "기업분석  전문컨설턴트 / 기업 종합 전문컨설팅",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000194&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868878",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000226",
+    "site": "Incruit",
+    "title": "49.  Cybersecurity Compliance [글로벌  럭셔리 그룹]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000226&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868872",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000237",
+    "site": "Incruit",
+    "title": "대한제분(주) 법무팀 경력직 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000237&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868865",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000238",
+    "site": "Incruit",
+    "title": "세무회계사무소 파트타임 아르바이트 구인",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000238&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868859",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000285",
+    "site": "Incruit",
+    "title": "48. 재무관리 리더 [유명 엔터사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000285&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868854",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000290",
+    "site": "Incruit",
+    "title": "48. CFO 채용 [국내 유명 상장사]",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000290&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868848",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000727",
+    "site": "Incruit",
+    "title": "경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000727&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868842",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000753",
+    "site": "Incruit",
+    "title": "메르온 부서별 신입사원 채용합니다",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000753&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868836",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000795",
+    "site": "Incruit",
+    "title": "[바이오테크 기업] Head of IR (12년 이상 / 임원급)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000795&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868831",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000804",
+    "site": "Incruit",
+    "title": "[SM남선알미늄]영업지원 및 사무보조 정규직 채용(서울)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000804&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868823",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000852",
+    "site": "Incruit",
+    "title": "[국내 대형 상사] 캄보디아 현지 생산법인 총괄 관리",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000852&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868817",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000870",
+    "site": "Incruit",
+    "title": "국내 임상기업 재경팀장 채용",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000870&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868811",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000897",
+    "site": "Incruit",
+    "title": "삼성생명 GFC",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000897&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868806",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250000942",
+    "site": "Incruit",
+    "title": "미국변호사 라이센스를 소지한 외국변호사",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250000942&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868800",
+    "is_new": true
+  },
+  {
+    "id": "incruit_2611250001592",
+    "site": "Incruit",
+    "title": "F&B 외국계 기업 Finance Controller (팀장급)",
+    "company": "확인필요",
+    "link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250001592&src=gsw*etc",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.868794",
+    "is_new": true
+  },
+  {
+    "id": "linkareer_360599",
+    "site": "Linkareer",
+    "title": "[패션·라이프스타일AE] 온라인 광고 마케터 채용",
+    "company": "예지솔루션",
+    "link": "https://linkareer.com/activity/360599",
+    "deadline": "OPEN",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.868781",
+    "is_new": true
+  },
+  {
+    "id": "linkareer_366357",
+    "site": "Linkareer",
+    "title": "[올웨이즈] [이력서 없는 채용] 월 급여 300만원 마케팅 인턴 (광고 소재 제작/운영)",
+    "company": "주식회사 레브잇",
+    "link": "https://linkareer.com/activity/366357",
+    "deadline": "PENDING",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.868283",
+    "is_new": true
+  },
+  {
+    "id": "linkareer_362431",
+    "site": "Linkareer",
+    "title": "[솔루스첨단소재] OLED 경영관리 총괄 부장급 채용공고",
+    "company": "솔루스첨단소재",
+    "link": "https://linkareer.com/activity/362431",
+    "deadline": "OPEN",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.867762",
+    "is_new": true
+  },
+  {
+    "id": "jk_50424983",
+    "site": "JobKorea",
+    "title": "2026년 (주)다원산업 각 부문별 채용",
+    "company": "㈜다원산업",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50424983?Oem_Code=C1&logpath=1&stext=%EC%B1%84%EC%9A%A9&listno=18&sc=630",
+    "deadline": "",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.866827",
+    "is_new": true
+  },
+  {
+    "id": "jk_50427353",
+    "site": "JobKorea",
+    "title": "경영지원 담당자 채용",
+    "company": "㈜스튜디오케이앤",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50427353?Oem_Code=C1&logpath=1&stext=%EC%B4%9D%EB%AC%B4&listno=1&sc=808",
+    "deadline": "",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.842737",
+    "is_new": true
+  },
+  {
+    "id": "jk_50420523",
+    "site": "JobKorea",
+    "title": "[NC][단기계약직] 인사·근태 운영지원 담당자 모집",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420523?Oem_Code=C1&logpath=1&stext=HRM&listno=20&sc=630",
+    "deadline": "",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.825705",
+    "is_new": true
+  },
+  {
+    "id": "jk_50423430",
+    "site": "JobKorea",
+    "title": "[DB Inc.] DB인재개발원 HRD 신입/경력사원(계약직) 채용",
+    "company": "㈜디비아이엔씨",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423430?Oem_Code=C1&logpath=1&stext=HRM&listno=15&sc=630",
+    "deadline": "",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.807961",
+    "is_new": true
+  },
+  {
+    "id": "jk_50407180",
+    "site": "JobKorea",
+    "title": "2027 데카트론코리아 인턴십",
+    "company": "㈜데카트론코리아",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50407180?Oem_Code=C1&logpath=1&stext=HRM&listno=11&sc=630",
+    "deadline": "",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.807288",
+    "is_new": true
+  },
+  {
+    "id": "jk_50341818",
+    "site": "JobKorea",
+    "title": "윤율인사노무컨설팅 급여아웃소싱 담당자 모집",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50341818?Oem_Code=C1&logpath=1&stext=HRM&listno=1&sc=808",
+    "deadline": "",
+    "hidden_keyword": "HRM",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.806572",
+    "is_new": true
+  },
+  {
+    "id": "jk_50416367",
+    "site": "JobKorea",
+    "title": "학원 수납, 결산 업무 담당자 모집합니다.",
+    "company": "㈜지비스터디",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50416367?Oem_Code=C1&logpath=1&stext=%EA%B2%B0%EC%82%B0&listno=20&sc=630",
+    "deadline": "",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.769168",
+    "is_new": true
+  },
+  {
+    "id": "jk_50424355",
+    "site": "JobKorea",
+    "title": "재무기획팀 체험형 인턴 채용",
+    "company": "㈜파라타항공",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50424355?Oem_Code=C1&logpath=1&stext=%EC%9E%AC%EB%AC%B4&listno=19&sc=630",
+    "deadline": "",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.696661",
+    "is_new": true
+  },
+  {
+    "id": "jk_50426070",
+    "site": "JobKorea",
+    "title": "[선영회계법인] [택스2팀 4파트] 세무기장 경력 4년차-8년차(선릉역 근처)",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50426070?Oem_Code=C1&logpath=1&stext=%ED%9A%8C%EA%B3%84&listno=1&sc=808",
+    "deadline": "",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.644977",
+    "is_new": true
+  },
+  {
+    "id": "jk_50421066",
+    "site": "JobKorea",
+    "title": "2026년 전문연구원(AI/데이터분석) 채용",
+    "company": "스크랩",
+    "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50421066?Oem_Code=C1&logpath=1&stext=Data+Analyst&listno=10&sc=630",
+    "deadline": "",
+    "hidden_keyword": "Data Analyst",
+    "description": "",
+    "data_relevance": {
+      "matched": true,
+      "score": 0,
+      "matched_keywords": [],
+      "matched_roles": [
+        "Data Analyst"
+      ],
+      "jd_status": "unavailable",
+      "reason": "직무명 일치 · JD 확인 필요"
+    },
+    "category": "Data",
+    "scraped_at": "2026-11-25T04:48:36.635028",
+    "last_seen_at": "2026-11-25T04:48:36.635033+00:00",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55654676",
+    "site": "Saramin",
+    "title": "[현대자동차그룹] 테크젠 수시채용",
+    "company": "테크젠(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55654676&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=cad0a2e8-ef5b-4cd1-8540-856a0bf6eba7",
+    "deadline": "~ 12/06(일)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.625171",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55658011",
+    "site": "Saramin",
+    "title": "부광약품 2026년 하반기 영업(MR) 신입 인재 채용",
+    "company": "부광약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55658011&location=ts&searchword=%EC%B1%84%EC%9A%A9&searchType=search&paid_fl=n&search_uuid=cad0a2e8-ef5b-4cd1-8540-856a0bf6eba7",
+    "deadline": "~ 11/30(월)",
+    "hidden_keyword": "채용",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.624644",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55657173",
+    "site": "Saramin",
+    "title": "[해찬솔F3] 총무팀 신규인력 채용",
+    "company": "해찬솔에프쓰리",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55657173&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=4e8856bf-7458-4254-9df5-764d62706700",
+    "deadline": "~ 12/24(목)",
+    "hidden_keyword": "총무",
+    "category": "HR",
+    "scraped_at": "2026-11-25T04:48:36.623949",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55655402",
+    "site": "Saramin",
+    "title": "[경리부] 정규직 채용",
+    "company": "희창물산(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55655402&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=d792dc6c-357f-4bb2-b48e-21cdd34e5c31",
+    "deadline": "~ 11/27(금)",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.621531",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55654226",
+    "site": "Saramin",
+    "title": "[인턴] SA본부 연결결산 컨설팅 인턴 채용",
+    "company": "삼정케이피엠지(유)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55654226&location=ts&searchword=%EA%B2%B0%EC%82%B0&searchType=search&paid_fl=n&search_uuid=d792dc6c-357f-4bb2-b48e-21cdd34e5c31",
+    "deadline": "~ 12/06(일)",
+    "hidden_keyword": "결산",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.620974",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55656298",
+    "site": "Saramin",
+    "title": "세무법인 채움과 함께하실 첫 신입사원을 채용합니다.",
+    "company": "세무법인 채움",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656298&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=6dd7eab9-fbc3-403b-a5be-f00c17c1ad7b",
+    "deadline": "~ 12/04(금)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.620303",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55653920",
+    "site": "Saramin",
+    "title": "세무사사무소 신입,경력 직원 채용",
+    "company": "프라임세무회계사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55653920&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=6dd7eab9-fbc3-403b-a5be-f00c17c1ad7b",
+    "deadline": "~ 12/24(목)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.619667",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55660901",
+    "site": "Saramin",
+    "title": "[세무법인 봉정 여의도지점] 신입직원을 모집합니다.",
+    "company": "세무법인 봉정 여의도지점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55660901&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=6dd7eab9-fbc3-403b-a5be-f00c17c1ad7b",
+    "deadline": "~ 12/24(목)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.619183",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55657395",
+    "site": "Saramin",
+    "title": "세무사사무실직원 신입사원 모집 - 정규직",
+    "company": "세무사 정동욱 사무소",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55657395&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=6dd7eab9-fbc3-403b-a5be-f00c17c1ad7b",
+    "deadline": "~ 12/15(화)",
+    "hidden_keyword": "세무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.618705",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55661278",
+    "site": "Saramin",
+    "title": "재무 인턴 (6개월)",
+    "company": "스푼랩스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55661278&location=ts&searchword=%EC%9E%AC%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=2ce52711-9409-4430-8e1b-4a706be79f1e",
+    "deadline": "채용시",
+    "hidden_keyword": "재무",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.618218",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55659376",
+    "site": "Saramin",
+    "title": "회계사무실 ( 2026 신입사원채용)",
+    "company": "세무법인텍스코리아이재환세무회계",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55659376&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=b464fb53-5188-4a3f-9d19-d99e0b4350fb",
+    "deadline": "~ 12/31(목)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.617470",
+    "is_new": true
+  },
+  {
+    "id": "saramin_55659676",
+    "site": "Saramin",
+    "title": "회계,고객응대 신입 채용(정규직)",
+    "company": "골드뱅크",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55659676&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=b464fb53-5188-4a3f-9d19-d99e0b4350fb",
+    "deadline": "~ 11/30(월)",
+    "hidden_keyword": "회계",
+    "category": "Accounting",
+    "scraped_at": "2026-11-25T04:48:36.616633",
+    "is_new": true
   },
   {
     "id": "incruit_2611240001115",
@@ -129,7 +2157,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870077",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001117",
@@ -141,7 +2169,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870074",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000718",
@@ -153,7 +2181,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870070",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001127",
@@ -165,7 +2193,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870066",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001124",
@@ -177,7 +2205,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870062",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001003",
@@ -189,7 +2217,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870057",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001129",
@@ -201,7 +2229,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870052",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001131",
@@ -213,7 +2241,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870049",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001134",
@@ -225,7 +2253,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870044",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001128",
@@ -237,7 +2265,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870040",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001028",
@@ -249,7 +2277,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870034",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001125",
@@ -261,7 +2289,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870031",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001116",
@@ -273,7 +2301,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870027",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001847",
@@ -285,7 +2313,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870023",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001965",
@@ -297,7 +2325,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870019",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001967",
@@ -309,7 +2337,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870014",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001969",
@@ -321,7 +2349,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870010",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001970",
@@ -333,7 +2361,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870005",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001971",
@@ -345,7 +2373,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.870000",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001976",
@@ -357,7 +2385,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869996",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001981",
@@ -369,7 +2397,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869992",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001989",
@@ -381,7 +2409,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869989",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001132",
@@ -393,7 +2421,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869984",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001984",
@@ -405,7 +2433,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869980",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001993",
@@ -417,7 +2445,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869976",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001974",
@@ -429,7 +2457,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869972",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002012",
@@ -441,7 +2469,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869968",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001987",
@@ -453,7 +2481,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869964",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002023",
@@ -465,7 +2493,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869960",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002026",
@@ -477,7 +2505,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869956",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002025",
@@ -489,7 +2517,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869952",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002021",
@@ -501,7 +2529,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869947",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002031",
@@ -513,7 +2541,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869944",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002033",
@@ -525,7 +2553,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869938",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002036",
@@ -537,7 +2565,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869934",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002059",
@@ -549,7 +2577,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869930",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002064",
@@ -561,7 +2589,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869926",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002034",
@@ -573,7 +2601,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869921",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002067",
@@ -585,7 +2613,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869917",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002070",
@@ -597,7 +2625,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869912",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002063",
@@ -609,7 +2637,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869907",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002074",
@@ -621,7 +2649,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869903",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002073",
@@ -633,7 +2661,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869898",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002077",
@@ -645,7 +2673,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869892",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001991",
@@ -657,7 +2685,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869888",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002080",
@@ -669,7 +2697,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869884",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002062",
@@ -681,7 +2709,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869878",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002102",
@@ -693,7 +2721,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869874",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002099",
@@ -705,7 +2733,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869870",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002109",
@@ -717,7 +2745,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869866",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002108",
@@ -729,7 +2757,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869862",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002107",
@@ -741,7 +2769,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869858",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000484",
@@ -753,7 +2781,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869853",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000493",
@@ -765,7 +2793,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869848",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000499",
@@ -777,7 +2805,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869844",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000506",
@@ -789,7 +2817,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869840",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000902",
@@ -801,7 +2829,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869836",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003734",
@@ -813,7 +2841,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869832",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000008",
@@ -825,7 +2853,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869828",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000814",
@@ -837,7 +2865,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869824",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000804",
@@ -849,7 +2877,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869819",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000853",
@@ -861,7 +2889,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869814",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000855",
@@ -873,7 +2901,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869810",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001009",
@@ -885,7 +2913,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869805",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001082",
@@ -897,7 +2925,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869801",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001093",
@@ -909,7 +2937,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869797",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001659",
@@ -921,7 +2949,7 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869794",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003107",
@@ -933,7 +2961,7 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869790",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611190002884",
@@ -945,7 +2973,7 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869785",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003905",
@@ -957,7 +2985,7 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869781",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000560",
@@ -969,7 +2997,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869776",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000633",
@@ -981,7 +3009,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869771",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000663",
@@ -993,7 +3021,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869767",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000651",
@@ -1005,7 +3033,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869763",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000737",
@@ -1017,7 +3045,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869759",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000756",
@@ -1029,7 +3057,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869755",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000799",
@@ -1041,7 +3069,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869751",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000835",
@@ -1053,7 +3081,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869747",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000852",
@@ -1065,7 +3093,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869743",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000736",
@@ -1077,7 +3105,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869739",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000927",
@@ -1089,7 +3117,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869735",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000940",
@@ -1101,7 +3129,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869730",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000957",
@@ -1113,7 +3141,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869725",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000964",
@@ -1125,7 +3153,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869720",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001011",
@@ -1137,7 +3165,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869716",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003717",
@@ -1149,7 +3177,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869711",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003737",
@@ -1161,7 +3189,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869707",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003801",
@@ -1173,7 +3201,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869702",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003805",
@@ -1185,7 +3213,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869696",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003831",
@@ -1197,7 +3225,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869689",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003913",
@@ -1209,7 +3237,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869681",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003973",
@@ -1221,7 +3249,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869660",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003971",
@@ -1233,7 +3261,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869654",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003981",
@@ -1245,7 +3273,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869650",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004691",
@@ -1257,7 +3285,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869646",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004717",
@@ -1269,7 +3297,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869643",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004726",
@@ -1281,7 +3309,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869639",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004785",
@@ -1293,7 +3321,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869634",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004786",
@@ -1305,7 +3333,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869630",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004790",
@@ -1317,7 +3345,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869626",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004793",
@@ -1329,7 +3357,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869621",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000011",
@@ -1341,7 +3369,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869617",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000012",
@@ -1353,7 +3381,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869612",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000013",
@@ -1365,7 +3393,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869608",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000102",
@@ -1377,7 +3405,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869603",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000111",
@@ -1389,7 +3417,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869598",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000156",
@@ -1401,7 +3429,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869595",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000234",
@@ -1413,7 +3441,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869591",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000238",
@@ -1425,7 +3453,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869587",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000279",
@@ -1437,7 +3465,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869583",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000803",
@@ -1449,7 +3477,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869577",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000875",
@@ -1461,7 +3489,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869574",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000956",
@@ -1473,7 +3501,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869568",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001027",
@@ -1485,7 +3513,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869564",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001086",
@@ -1497,7 +3525,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869559",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001973",
@@ -1509,7 +3537,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869555",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002068",
@@ -1521,7 +3549,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869551",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611200000788",
@@ -1533,7 +3561,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869547",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000337",
@@ -1545,7 +3573,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869543",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000821",
@@ -1557,7 +3585,7 @@
     "hidden_keyword": "결산",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869538",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000472",
@@ -1569,7 +3597,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869533",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000562",
@@ -1581,7 +3609,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869529",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000576",
@@ -1593,7 +3621,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869524",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000597",
@@ -1605,7 +3633,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869521",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000620",
@@ -1617,7 +3645,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869516",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000709",
@@ -1629,7 +3657,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869512",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000854",
@@ -1641,7 +3669,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869507",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004751",
@@ -1653,7 +3681,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869502",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000157",
@@ -1665,7 +3693,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869496",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000721",
@@ -1677,7 +3705,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869492",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000836",
@@ -1689,7 +3717,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869487",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000838",
@@ -1701,7 +3729,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869482",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000860",
@@ -1713,7 +3741,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869477",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000882",
@@ -1725,7 +3753,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869474",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000895",
@@ -1737,7 +3765,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869469",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000896",
@@ -1749,7 +3777,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869464",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000907",
@@ -1761,7 +3789,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869461",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000889",
@@ -1773,7 +3801,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869456",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001022",
@@ -1785,7 +3813,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869451",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003977",
@@ -1797,7 +3825,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869446",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003980",
@@ -1809,7 +3837,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869442",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000021",
@@ -1821,7 +3849,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869437",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000818",
@@ -1833,7 +3861,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869433",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000877",
@@ -1845,7 +3873,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869429",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000919",
@@ -1857,7 +3885,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869424",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000939",
@@ -1869,7 +3897,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869419",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000941",
@@ -1881,7 +3909,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869413",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000950",
@@ -1893,7 +3921,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869409",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000952",
@@ -1905,7 +3933,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869404",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230000966",
@@ -1917,7 +3945,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869400",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001010",
@@ -1929,7 +3957,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869395",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001012",
@@ -1941,7 +3969,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869391",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001021",
@@ -1953,7 +3981,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869386",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230001040",
@@ -1965,7 +3993,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869382",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230002483",
@@ -1977,7 +4005,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869376",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230002486",
@@ -1989,7 +4017,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869371",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003688",
@@ -2001,7 +4029,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869366",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003729",
@@ -2013,7 +4041,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869361",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003790",
@@ -2025,7 +4053,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869357",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003840",
@@ -2037,7 +4065,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869352",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003910",
@@ -2049,7 +4077,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869346",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003906",
@@ -2061,7 +4089,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869341",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230003983",
@@ -2073,7 +4101,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869337",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004719",
@@ -2085,7 +4113,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869332",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004721",
@@ -2097,7 +4125,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869328",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004707",
@@ -2109,7 +4137,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869323",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004744",
@@ -2121,7 +4149,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869319",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004753",
@@ -2133,7 +4161,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869315",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611230004784",
@@ -2145,7 +4173,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869311",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000092",
@@ -2157,7 +4185,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869305",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000100",
@@ -2169,7 +4197,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869301",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000121",
@@ -2181,7 +4209,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869296",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000124",
@@ -2193,7 +4221,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869290",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000152",
@@ -2205,7 +4233,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869285",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000145",
@@ -2217,7 +4245,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869280",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000179",
@@ -2229,7 +4257,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869275",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000248",
@@ -2241,7 +4269,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869269",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000254",
@@ -2253,7 +4281,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869264",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000283",
@@ -2265,7 +4293,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869259",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000767",
@@ -2277,7 +4305,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869255",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000750",
@@ -2289,7 +4317,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869250",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000845",
@@ -2301,7 +4329,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869246",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000839",
@@ -2313,7 +4341,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869241",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000915",
@@ -2325,7 +4353,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869236",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000965",
@@ -2337,7 +4365,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869232",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000973",
@@ -2349,7 +4377,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869227",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000996",
@@ -2361,7 +4389,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869221",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240000987",
@@ -2373,7 +4401,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869216",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001012",
@@ -2385,7 +4413,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869213",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001014",
@@ -2397,7 +4425,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869207",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001022",
@@ -2409,7 +4437,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869202",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001024",
@@ -2421,7 +4449,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869197",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001074",
@@ -2433,7 +4461,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869190",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240001977",
@@ -2445,7 +4473,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869185",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "incruit_2611240002010",
@@ -2457,7 +4485,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.869180",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "linkareer_365592",
@@ -2469,7 +4497,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.869170",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50412930",
@@ -2481,7 +4509,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.862178",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50414898",
@@ -2493,7 +4521,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.860313",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50415576",
@@ -2505,7 +4533,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.852845",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50421515",
@@ -2517,7 +4545,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.851569",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50417460",
@@ -2529,7 +4557,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.733598",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "jk_50415334",
@@ -2552,8 +4580,8 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-24T05:48:00.701280",
-    "last_seen_at": "2026-11-24T05:48:00.701282+00:00",
-    "is_new": true
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
+    "is_new": false
   },
   {
     "id": "saramin_55640528",
@@ -2565,7 +4593,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.700799",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55641065",
@@ -2577,7 +4605,7 @@
     "hidden_keyword": "채용",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.700417",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55641176",
@@ -2589,7 +4617,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.699864",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55640044",
@@ -2601,7 +4629,7 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.698904",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55646840",
@@ -2613,7 +4641,7 @@
     "hidden_keyword": "HRD",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.698559",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55643027",
@@ -2625,7 +4653,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.697478",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55641855",
@@ -2637,7 +4665,7 @@
     "hidden_keyword": "인사",
     "category": "HR",
     "scraped_at": "2026-11-24T05:48:00.697085",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55643630",
@@ -2649,7 +4677,7 @@
     "hidden_keyword": "세무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.696407",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55653747",
@@ -2661,7 +4689,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.696065",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55399602",
@@ -2673,7 +4701,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.695725",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55626106",
@@ -2685,7 +4713,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.695370",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55653049",
@@ -2697,7 +4725,7 @@
     "hidden_keyword": "재무",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.695023",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55649349",
@@ -2709,7 +4737,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.694214",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55648222",
@@ -2721,7 +4749,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.693864",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55647927",
@@ -2733,7 +4761,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.693506",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55631202",
@@ -2745,7 +4773,7 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-11-24T05:48:00.692945",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "saramin_55609488",
@@ -2771,8 +4799,8 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-24T05:48:00.691702",
-    "last_seen_at": "2026-11-24T05:48:00.691717+00:00",
-    "is_new": true
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
+    "is_new": false
   },
   {
     "id": "wanted_393888",
@@ -7263,7 +9291,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-21T03:01:51.898534",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -7287,7 +9315,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-21T03:01:51.898518",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -9727,18 +11755,6 @@
     "is_new": false
   },
   {
-    "id": "saramin_55622516",
-    "site": "Saramin",
-    "title": "HR팀 신입직원 채용",
-    "company": "법무법인(유)세종",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622516&location=ts&searchword=HRM&searchType=search&paid_fl=n&search_uuid=8198b4d4-4e02-48b5-88eb-c5c10777feca",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "HRM",
-    "category": "HR",
-    "scraped_at": "2026-11-20T02:52:42.709808",
-    "is_new": false
-  },
-  {
     "id": "saramin_55615282",
     "site": "Saramin",
     "title": "[인턴] HRM Intern (정규직 전환형)",
@@ -9748,18 +11764,6 @@
     "hidden_keyword": "HRM",
     "category": "HR",
     "scraped_at": "2026-11-20T02:52:42.709372",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55622490",
-    "site": "Saramin",
-    "title": "세무 업무 담당자 (계약직)",
-    "company": "(주)카카오뱅크",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622490&location=ts&searchword=%EC%84%B8%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=5e7ee65f-e9c2-418b-ad0b-ecd86dcc87f6",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "세무",
-    "category": "Accounting",
-    "scraped_at": "2026-11-20T02:52:42.707473",
     "is_new": false
   },
   {
@@ -11703,7 +13707,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-19T02:59:47.414659",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -11727,7 +13731,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-19T02:59:47.414640",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -11910,7 +13914,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-19T02:59:47.161306",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -13854,7 +15858,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-18T03:24:06.242888",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -16364,7 +18368,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-17T04:22:29.811831",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -22428,7 +24432,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-14T02:05:19.163689",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -24277,18 +26281,6 @@
     "hidden_keyword": "총무",
     "category": "HR",
     "scraped_at": "2026-11-13T02:24:16.990332",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55544496",
-    "site": "Saramin",
-    "title": "2027년 동계 각 부문 인턴 채용공고",
-    "company": "(주)에어퍼스트",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544496&location=ts&searchword=HRD&searchType=search&paid_fl=n&search_uuid=da81af72-38d1-4090-988f-0bfbc4ca12e3",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "HRD",
-    "category": "HR",
-    "scraped_at": "2026-11-13T02:24:16.989965",
     "is_new": false
   },
   {
@@ -26388,7 +28380,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-12T02:43:35.094068",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -30677,7 +32669,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-10T03:59:05.899139",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -31733,7 +33725,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-09T01:25:07.720568",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -34193,7 +36185,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-07T01:33:12.650111",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -34217,7 +36209,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-07T01:33:12.650083",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -40183,7 +42175,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-05T01:59:47.166032",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -40546,7 +42538,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-04T01:53:02.837182",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -40708,7 +42700,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-03T03:15:43.874937",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -40864,7 +42856,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-11-03T03:15:43.857354",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -40972,7 +42964,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.236801",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -41399,7 +43391,7 @@
     },
     "category": "Data",
     "scraped_at": "2026-10-31T01:21:47.000707",
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00",
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00",
     "is_new": false
   },
   {
@@ -41682,18 +43674,6 @@
     "is_new": false
   },
   {
-    "id": "saramin_55407028",
-    "site": "Saramin",
-    "title": "경영지원부 총무,행정 신입 채용",
-    "company": "에이치이티엔(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55407028&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=8ffd48b8-bac0-4ecc-9689-c0d75c85909e",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "총무",
-    "category": "HR",
-    "scraped_at": "2026-10-29T01:36:14.022531",
-    "is_new": false
-  },
-  {
     "id": "saramin_55412241",
     "site": "Saramin",
     "title": "경영지원부 신입 총무 직원 채용(사무실 내근직)",
@@ -41923,19 +43903,7 @@
     "category": "Data",
     "scraped_at": "2026-10-28T01:03:49.268258",
     "is_new": false,
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00"
-  },
-  {
-    "id": "saramin_55403080",
-    "site": "Saramin",
-    "title": "남화토건(주) 총무부 직원 채용 공고",
-    "company": "남화토건(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55403080&location=ts&searchword=%EC%B4%9D%EB%AC%B4&searchType=search&paid_fl=n&search_uuid=f5a51423-2ff5-48e9-911c-ff31d59f452f",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "총무",
-    "category": "HR",
-    "scraped_at": "2026-10-28T01:03:49.259265",
-    "is_new": false
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00"
   },
   {
     "id": "saramin_55401173",
@@ -41974,18 +43942,6 @@
     "is_new": false
   },
   {
-    "id": "saramin_55402676",
-    "site": "Saramin",
-    "title": "인사총무/회계 사원모집",
-    "company": "(주)해피엘앤비",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402676&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-10-28T01:03:49.253369",
-    "is_new": false
-  },
-  {
     "id": "saramin_55388360",
     "site": "Saramin",
     "title": "워크핏(주) 경영기획팀 회계·세무·재무 담당자를 찾고 있어요",
@@ -41995,30 +43951,6 @@
     "hidden_keyword": "회계",
     "category": "Accounting",
     "scraped_at": "2026-10-28T01:03:49.252508",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55400693",
-    "site": "Saramin",
-    "title": "회계 경리사무원 모집",
-    "company": "에이엠에스(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400693&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-10-28T01:03:49.252219",
-    "is_new": false
-  },
-  {
-    "id": "saramin_55400896",
-    "site": "Saramin",
-    "title": "재무회계 정규직 사원 모집",
-    "company": "㈜국영지앤엠",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400896&location=ts&searchword=%ED%9A%8C%EA%B3%84&searchType=search&paid_fl=n&search_uuid=00f1de9b-c395-47ca-a13d-2797be1048fc",
-    "deadline": "~ 11/26(목)",
-    "hidden_keyword": "회계",
-    "category": "Accounting",
-    "scraped_at": "2026-10-28T01:03:49.250876",
     "is_new": false
   },
   {
@@ -44576,7 +46508,7 @@
     "category": "Data",
     "scraped_at": "2026-10-14T00:59:53.062220",
     "is_new": false,
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00"
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00"
   },
   {
     "id": "jk_50135552",
@@ -44761,7 +46693,7 @@
     "category": "Data",
     "scraped_at": "2026-10-13T02:59:21.697957",
     "is_new": false,
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00"
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00"
   },
   {
     "id": "jk_50086162",
@@ -45337,7 +47269,7 @@
     "category": "Data",
     "scraped_at": "2026-10-07T01:21:34.246223",
     "is_new": false,
-    "last_seen_at": "2026-11-24T05:46:25.662133+00:00"
+    "last_seen_at": "2026-11-25T04:46:58.135979+00:00"
   },
   {
     "id": "jk_49970828",
